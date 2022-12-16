@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://holgerfrohloff.micro.blog/2022/12/16/last-night-i.html",
+				
+				"content_html": "<p>Last night I had a dream where I was searching for a song. I heard the melody in my head and tried to find out which song it was. I didn’t find out in my dream. And now, I still hear the melody and MUST FIND THE SONG.  This is how your dreams can become reality. 🫣</p>\n",
+				"content_text": "Last night I had a dream where I was searching for a song. I heard the melody in my head and tried to find out which song it was. I didn’t find out in my dream. And now, I still hear the melody and MUST FIND THE SONG.  This is how your dreams can become reality. 🫣\n",
+				"date_published": "2022-12-16T07:07:33+01:00",
+				"url": "https://microblog.holgerfrohloff.de/2022/12/16/last-night-i.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2022/12/12/i-started-december.html",
+				
+				"content_html": "<p>I started December thinking I would find the time to do the Advent of Code challenges but no. It didn&rsquo;t fit into my schedule. Don&rsquo;t know yet, what I think about this.</p>\n",
+				"content_text": "I started December thinking I would find the time to do the Advent of Code challenges but no. It didn't fit into my schedule. Don't know yet, what I think about this.\n",
+				"date_published": "2022-12-12T10:16:17+01:00",
+				"url": "https://microblog.holgerfrohloff.de/2022/12/12/i-started-december.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2022/12/12/if-your-work.html",
+				
+				"content_html": "<blockquote>\n<p>If your work isn’t more useful or insightful or urgent than GPT can create in 12 seconds, don’t interrupt people with it.</p>\n</blockquote>\n<p>As often Seth puts it very clearly.</p>\n<p><a href=\"https://seths.blog/2022/12/attention-trust-and-gpt3/\">seths.blog/2022/12/a&hellip;</a></p>\n",
+				"content_text": "> If your work isn’t more useful or insightful or urgent than GPT can create in 12 seconds, don’t interrupt people with it.\n\nAs often Seth puts it very clearly. \n\n[seths.blog/2022/12/a...](https://seths.blog/2022/12/attention-trust-and-gpt3/)\n",
+				"date_published": "2022-12-12T07:10:05+01:00",
+				"url": "https://microblog.holgerfrohloff.de/2022/12/12/if-your-work.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2022/12/11/heute-rckfahrt-als.html",
+				
+				"content_html": "<p>Heute Rückfahrt. 🗺  Als ich am Bahnhof ankam fuhr direkt ein Zug ein, den ich nehmen konnte. Tatsächlich hatte er 25min Verspätung. Für mich war das gut, ich hätte sonst noch 30min auf den nächsten warten müssen. 🤷‍♂️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Heute Rückfahrt. 🗺  Als ich am Bahnhof ankam fuhr direkt ein Zug ein, den ich nehmen konnte. Tatsächlich hatte er 25min Verspätung. Für mich war das gut, ich hätte sonst noch 30min auf den nächsten warten müssen. 🤷‍♂️\n\n<img src=\"uploads/2022/905e6d1ebe.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-12-11T10:57:35+01:00",
+				"url": "https://microblog.holgerfrohloff.de/2022/12/11/heute-rckfahrt-als.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2022/12/10/schreibpause.html",
+				
+				"content_html": "<p>Schreibpause</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Schreibpause\n\n<img src=\"uploads/2022/5140f6a4c3.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2022/10159348a6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-12-10T14:29:34+01:00",
+				"url": "https://microblog.holgerfrohloff.de/2022/12/10/schreibpause.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2022/12/10/kurze-unterbrechung-des.html",
+				
+				"content_html": "<p>Kurze Unterbrechung des Schreibens.</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Kurze Unterbrechung des Schreibens. \n\n<img src=\"uploads/2022/171af3eae8.jpg\" width=\"600\" height=\"599\" alt=\"\">\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://microblog.holgerfrohloff.de/uploads/2022/cf50fdae3a.mov\" width=\"640\" height=\"360\" poster=\"https://microblog.holgerfrohloff.de/uploads/2022/aed3a244c4.png\" preload=\"none\"></video>\n",
+				"date_published": "2022-12-10T12:01:36+01:00",
+				"url": "https://microblog.holgerfrohloff.de/2022/12/10/kurze-unterbrechung-des.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2022/12/10/schreiben-mit-blick.html",
+				
+				"content_html": "<p>Schreiben mit Blick auf das Wasser. Dazu eine entspannte Jazz Playlist im Hintergrund. Danke fürs Fragen, ich komme zurecht.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Schreiben mit Blick auf das Wasser. Dazu eine entspannte Jazz Playlist im Hintergrund. Danke fürs Fragen, ich komme zurecht. \n\n<img src=\"uploads/2022/dce9631645.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"date_published": "2022-12-10T11:04:43+01:00",
+				"url": "https://microblog.holgerfrohloff.de/2022/12/10/schreiben-mit-blick.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2022/12/09/rckblickend.html",
+				"title": "Rückblickend",
+				"content_html": "<p>Ich <a href=\"https://microblog.holgerfrohloff.de/2022/12/09/wenn-ich-mal.html\">schrieb ja, dass ich Bahn fuhr</a>. Ich war unterwegs nach Werder (Havel) zu einem kleinen Hotel. Dort verbringe ich das Wochenende, allein und zurückgezogen.</p>\n<p>2018 und 2019 nahm ich mir die Zeit auf das Jahr zurück zu blicken. Ich hatte ein großes Notizbuch (A4! go big or go home!) zur Hand und schrieb mit Stift meine Gedanken dazu auf, wie das Jahr lief. Was war gut, was nicht. Und was war dazwischen. Anschließend schrob ich den Ausblick auf das kommende Jahr; Machte mir Gedanken, was wichtig würde und was ich wertschätzen möchte.\n2020 und 2021 machte ich das nicht.\nAm Ende von 2021 schrammte ich knapp an einem Burnout vorbei, wenn ich meiner Ärztin vertrauen möchte. Es fühlte sich zumindest auch sehr danach an.</p>\n<p>Dieses Wochende werde ich jedenfalls wieder schreiben. Und nachdenken. Vor allem nachdenken.</p>\n<p>Ich bin mit zwei Kunden, die ich ins neue Jahr begleiten darf, gut aufgestellt. Cashflow ist gesichert und die Perspektive gut. Mit Freunden evaluiere ich Ideen, was noch mögöich wäre, wie die nächsten 5-10 Jahre noch abwechslungsreich und spannend werden könnten. Da habe ich ein bis zwei Ideen. Aber erstmal werde ich nachdenken. Und dann schreiben und dabei weiter denken.</p>\n",
+				"content_text": "Ich [schrieb ja, dass ich Bahn fuhr](https://microblog.holgerfrohloff.de/2022/12/09/wenn-ich-mal.html). Ich war unterwegs nach Werder (Havel) zu einem kleinen Hotel. Dort verbringe ich das Wochenende, allein und zurückgezogen. \n\n2018 und 2019 nahm ich mir die Zeit auf das Jahr zurück zu blicken. Ich hatte ein großes Notizbuch (A4! go big or go home!) zur Hand und schrieb mit Stift meine Gedanken dazu auf, wie das Jahr lief. Was war gut, was nicht. Und was war dazwischen. Anschließend schrob ich den Ausblick auf das kommende Jahr; Machte mir Gedanken, was wichtig würde und was ich wertschätzen möchte. \n2020 und 2021 machte ich das nicht. \nAm Ende von 2021 schrammte ich knapp an einem Burnout vorbei, wenn ich meiner Ärztin vertrauen möchte. Es fühlte sich zumindest auch sehr danach an. \n\nDieses Wochende werde ich jedenfalls wieder schreiben. Und nachdenken. Vor allem nachdenken. \n\nIch bin mit zwei Kunden, die ich ins neue Jahr begleiten darf, gut aufgestellt. Cashflow ist gesichert und die Perspektive gut. Mit Freunden evaluiere ich Ideen, was noch mögöich wäre, wie die nächsten 5-10 Jahre noch abwechslungsreich und spannend werden könnten. Da habe ich ein bis zwei Ideen. Aber erstmal werde ich nachdenken. Und dann schreiben und dabei weiter denken. \n",
+				"date_published": "2022-12-09T21:02:32+01:00",
+				"url": "https://microblog.holgerfrohloff.de/2022/12/09/rckblickend.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2022/12/09/wwwbuddenbohmundsoehnede-was-schn.html",
+				
+				"content_html": "<p><a href=\"https://www.buddenbohm-und-soehne.de/2022/12/08/was-schoen-war-25/\">www.buddenbohm-und-soehne.de</a></p>\n<blockquote>\n<p>Was schön war\n[…]\nAber jetzt gerade, jetzt ist es still. Die Kinder weinen zuhause.</p>\n</blockquote>\n",
+				"content_text": " [www.buddenbohm-und-soehne.de](https://www.buddenbohm-und-soehne.de/2022/12/08/was-schoen-war-25/)\n\n> Was schön war\n> […]\n> Aber jetzt gerade, jetzt ist es still. Die Kinder weinen zuhause.\n",
+				"date_published": "2022-12-09T19:57:03+01:00",
+				"url": "https://microblog.holgerfrohloff.de/2022/12/09/wwwbuddenbohmundsoehnede-was-schn.html"
+			},
+			{
 				"id": "http://holgerfrohloff.micro.blog/2022/12/09/wenn-ich-mal.html",
 				"title": "Wenn ich mal Bahn fahre…",
 				"content_html": "<p>Bin mit der Bahn unterwegs statt dem Auto. Will gar nicht weit fahren, nur ein bissel Regio. Aber der ist zu spät und verspätet sich während der Fahrt noch mehr. Schaffe meinen Anschluss nicht. Die Fahrt mit dem Auto wäre warm und schön gewesen und hätte planmäßig schon nur 50% der Zeit gedauert. Jetzt fahre ich fast 3h und friere. So macht das keinen Spaß.</p>\n",
@@ -21,14 +93,6 @@
 				"content_text": "My wonderful wife just brought me a bowl of delicious oatmeal. Thank you!\nHeaven. 👻🫶\n\n<img src=\"uploads/2022/4c8a19f236.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-09T10:07:53+01:00",
 				"url": "https://microblog.holgerfrohloff.de/2022/12/09/100753.html"
-			},
-			{
-				"id": "http://holgerfrohloff.micro.blog/2022/12/09/my-wonderful-wife.html",
-				
-				"content_html": "<p>My wonderful wife just brought me a bowl of delicious oatmeal. Heaven.</p>\n",
-				"content_text": "My wonderful wife just brought me a bowl of delicious oatmeal. Heaven. \n",
-				"date_published": "2022-12-09T10:05:25+01:00",
-				"url": "https://microblog.holgerfrohloff.de/2022/12/09/my-wonderful-wife.html"
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/12/09/with-all-the.html",
