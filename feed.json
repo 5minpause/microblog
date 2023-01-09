@@ -7,6 +7,94 @@
 	"items": [
 		
 			{
+				"id": "http://holgerfrohloff.micro.blog/2023/01/09/moinstaying-home-with.html",
+				
+				"content_html": "<p>Moin.\nStaying home with the little one today as she is sick once again. 😷🤒\nTrying to get some client work done in between things.</p>\n",
+				"content_text": "Moin.\r\nStaying home with the little one today as she is sick once again. 😷🤒\r\nTrying to get some client work done in between things.\n",
+				"date_published": "2023-01-09T11:11:48+01:00",
+				"url": "https://microblog.holgerfrohloff.de/2023/01/09/moinstaying-home-with.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/01/06/an-advanced-phishing.html",
+				
+				"content_html": "<p>An advanced phishing scam for Apple IDs</p>\n<blockquote>\n<p>Warning: Advanced phishing attack. Got a pop up on both my iPhone &amp; Apple Watch about password reset. I didn’t take action. Then received call from 1-800-MY-APPLE.</p>\n</blockquote>\n<p>@geoburke\n<a href=\"https://twitter.com/geoburke/status/1608253982387933184\">twitter.com/geoburke/&hellip;</a></p>\n",
+				"content_text": "An advanced phishing scam for Apple IDs\r\n> Warning: Advanced phishing attack. Got a pop up on both my iPhone & Apple Watch about password reset. I didn’t take action. Then received call from 1-800-MY-APPLE.\r\n\r\n@geoburke\r\n[twitter.com/geoburke/...](https://twitter.com/geoburke/status/1608253982387933184)\n",
+				"date_published": "2023-01-06T09:16:21+01:00",
+				"url": "https://microblog.holgerfrohloff.de/2023/01/06/an-advanced-phishing.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/01/06/moin-das-bild.html",
+				
+				"content_html": "<p>Moin.</p>\n<p>(Das Bild ist aus Dänemark vom 29.12.22)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Moin. \n\n(Das Bild ist aus Dänemark vom 29.12.22)\n\n<img src=\"uploads/2023/71327ae7ff.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-06T09:08:05+01:00",
+				"url": "https://microblog.holgerfrohloff.de/2023/01/06/moin-das-bild.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/01/06/finished-reading-gmbh.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9783949182044\">GmbH gründen</a> by Alexander Keck 📚</p>\n",
+				"content_text": "Finished reading: [GmbH gründen](https://micro.blog/books/9783949182044) by Alexander Keck 📚\n",
+				"date_published": "2023-01-06T09:06:07+01:00",
+				"url": "https://microblog.holgerfrohloff.de/2023/01/06/finished-reading-gmbh.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/01/05/tiny-gamewho-can.html",
+				
+				"content_html": "<p>Tiny “game”:\nWho can tell me what that is?</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Tiny “game”:\nWho can tell me what that is?\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://microblog.holgerfrohloff.de/uploads/2023/76d0b8d6c6.mov\" width=\"640\" height=\"360\" poster=\"https://microblog.holgerfrohloff.de/uploads/2023/09c3958521.png\" preload=\"none\"></video>\n",
+				"date_published": "2023-01-05T10:04:14+01:00",
+				"url": "https://microblog.holgerfrohloff.de/2023/01/05/tiny-gamewho-can.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/01/05/moin.html",
+				
+				"content_html": "<p>Moin</p>\n",
+				"content_text": "Moin\n",
+				"date_published": "2023-01-05T08:31:53+01:00",
+				"url": "https://microblog.holgerfrohloff.de/2023/01/05/moin.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/01/04/i-just-found.html",
+				
+				"content_html": "<p>I just found an empty note in Obsidian with the title &ldquo;Haruki Murakami and Ursula Gräfe&rdquo;. Now I would like to know why I created that. No idea. Ursula is the translator for many Murakami novels in German. Guess I will just delete it.</p>\n",
+				"content_text": "I just found an empty note in Obsidian with the title \"Haruki Murakami and Ursula Gräfe\". Now I would like to know why I created that. No idea. Ursula is the translator for many Murakami novels in German. Guess I will just delete it.\n",
+				"date_published": "2023-01-04T14:38:33+01:00",
+				"url": "https://microblog.holgerfrohloff.de/2023/01/04/i-just-found.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/01/04/i-have-a.html",
+				
+				"content_html": "<p>I have a list of 30+ book recommendations saved from people whose opinions I value. What I have not saved is the way they talked about the book and why I should read it, or what moved me to save it. Because I don&rsquo;t save every recommendation. I guess I should add that to Obsidian.</p>\n",
+				"content_text": "I have a list of 30+ book recommendations saved from people whose opinions I value. What I have not saved is the way they talked about the book and why I should read it, or what moved me to save it. Because I don't save every recommendation. I guess I should add that to Obsidian.\n",
+				"date_published": "2023-01-04T14:35:29+01:00",
+				"url": "https://microblog.holgerfrohloff.de/2023/01/04/i-have-a.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/01/04/the-one-who.html",
+				
+				"content_html": "<p>The one who opens espresso beans like this is a bad person.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The one who opens espresso beans like this is a bad person. \n\n<img src=\"uploads/2023/fe452bf1f7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-04T10:44:55+01:00",
+				"url": "https://microblog.holgerfrohloff.de/2023/01/04/the-one-who.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/01/04/mach-dem-radtraining.html",
+				
+				"content_html": "<p>Mach dem Radtraining ist vor der Prophylaxe! Moin vom Zahnarzt</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Mach dem Radtraining ist vor der Prophylaxe! Moin vom Zahnarzt\n\n<img src=\"uploads/2023/ce8c1cc50b.jpg\" width=\"567\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-04T09:05:07+01:00",
+				"url": "https://microblog.holgerfrohloff.de/2023/01/04/mach-dem-radtraining.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/01/04/guten-morgen-jetzt.html",
+				
+				"content_html": "<p>Guten Morgen. Jetzt gleich wieder auf das Rad, trainieren!</p>\n",
+				"content_text": "Guten Morgen. Jetzt gleich wieder auf das Rad, trainieren!\n",
+				"date_published": "2023-01-04T06:52:57+01:00",
+				"url": "https://microblog.holgerfrohloff.de/2023/01/04/guten-morgen-jetzt.html"
+			},
+			{
 				"id": "http://holgerfrohloff.micro.blog/2023/01/03/started-reading-yesterday.html",
 				
 				"content_html": "<p>Started reading yesterday: <a href=\"https://micro.blog/books/9780593135228\">Project Hail Mary: A Novel</a> by Andy Weir 📚\nI am on page 44 right now, somewhere in the third chapter I believe. Almost couldn&rsquo;t stop reading it, but had to make dinner for the family. Really great start to a book!</p>\n",
