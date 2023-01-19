@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://holgerfrohloff.micro.blog/2023/01/17/ich-habe-heute.html",
+				
+				"content_html": "<p>Ich habe heute dieses Video gefunden <a href=\"https://www.youtube.com/watch?v=e9dZQelULDk\">Happiness by Steve Cutts</a> und das passt ganz wunderbar zum Artikel <a href=\"@Buddenbohm@mastodon.social\">„No other love“</a> von <a href=\"https://micro.blog/Buddenbohm@mastodon.social\">@Buddenbohm@mastodon.social</a> vom 12. Januar.</p>\n",
+				"content_text": "Ich habe heute dieses Video gefunden [Happiness by Steve Cutts](https://www.youtube.com/watch?v=e9dZQelULDk) und das passt ganz wunderbar zum Artikel [„No other love“](@Buddenbohm@mastodon.social ) von [@Buddenbohm@mastodon.social](https://micro.blog/Buddenbohm@mastodon.social) vom 12. Januar.\n",
+				"date_published": "2023-01-17T14:25:10+01:00",
+				"url": "https://holgerfrohloff.de/2023/01/17/ich-habe-heute.html",
+				"tags": ["article"]
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/01/16/moin-der-tag.html",
+				
+				"content_html": "<p>Moin. Der Tag und die Woche begann mit mehreren hysterischen Wutausbrüchen der jüngeren Tochter. Fun times. Jetzt endlich arbeiten 😅</p>\n",
+				"content_text": "Moin. Der Tag und die Woche begann mit mehreren hysterischen Wutausbrüchen der jüngeren Tochter. Fun times. Jetzt endlich arbeiten 😅\n",
+				"date_published": "2023-01-16T08:20:40+01:00",
+				"url": "https://holgerfrohloff.de/2023/01/16/moin-der-tag.html"
+			},
+			{
 				"id": "http://holgerfrohloff.micro.blog/2023/01/14/training.html",
 				
 				"content_html": "<p>Training ✅</p>\n<!-- raw HTML omitted -->\n",
@@ -35,7 +52,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2023/01/12/after-four-days.html",
 				
 				"content_html": "<p>After four days of drinking regular coffee the new espresso beans finally arrived. I’m surprised to see that the packaging doesn’t have the little valve anymore. Maybe this is for saving on packaging reasons?\nI don’t know. ￼</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "After four days of drinking regular coffee the new espresso beans finally arrived. I’m surprised to see that the packaging doesn’t have the little valve anymore. Maybe this is for saving on packaging reasons?\n I don’t know. ￼\n\n<img src=\"uploads/2023/bd582cc09c.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/78869d9685.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "After four days of drinking regular coffee the new espresso beans finally arrived. I’m surprised to see that the packaging doesn’t have the little valve anymore. Maybe this is for saving on packaging reasons?\n I don’t know. ￼\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/bd582cc09c.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/8969/2023/78869d9685.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-12T17:28:11+01:00",
 				"url": "https://holgerfrohloff.de/2023/01/12/after-four-days.html"
 			},
@@ -43,7 +60,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2023/01/12/finally-made-the.html",
 				"title": "Finally made the migration",
 				"content_html": "<p>I finally made the migration to micro.blog with my personal site <a href=\"https://holgerfrohloff.de\">https://holgerfrohloff.de</a>\nAll the posts and newsletters I&rsquo;ve written are migrated. They are still being published so they are not styled, yet.\nHave to migrate all pages as well. And then the overal design of the site.\nI want it to look a little bit different and also showcase some of the functionality that microblog offers me now.\nOverall I am happy to be even more part of the <a href=\"https://indieweb.org/\">IndieWeb</a> now.</p>\n<p>Photo by <!-- raw HTML omitted -->Mathew Schwartz<!-- raw HTML omitted --> on <!-- raw HTML omitted -->Unsplash<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I finally made the migration to micro.blog with my personal site https://holgerfrohloff.de\r\nAll the posts and newsletters I've written are migrated. They are still being published so they are not styled, yet.\r\nHave to migrate all pages as well. And then the overal design of the site.\r\nI want it to look a little bit different and also showcase some of the functionality that microblog offers me now.\r\nOverall I am happy to be even more part of the [IndieWeb](https://indieweb.org/) now.\r\n\r\nPhoto by <a href=\"https://unsplash.com/@cadop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Mathew Schwartz</a> on <a href=\"https://unsplash.com/de/fotos/sb7RUrRMaC4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\r\n  \n\n<img src=\"uploads/2023/b29e558bf6.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "I finally made the migration to micro.blog with my personal site https://holgerfrohloff.de\r\nAll the posts and newsletters I've written are migrated. They are still being published so they are not styled, yet.\r\nHave to migrate all pages as well. And then the overal design of the site.\r\nI want it to look a little bit different and also showcase some of the functionality that microblog offers me now.\r\nOverall I am happy to be even more part of the [IndieWeb](https://indieweb.org/) now.\r\n\r\nPhoto by <a href=\"https://unsplash.com/@cadop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Mathew Schwartz</a> on <a href=\"https://unsplash.com/de/fotos/sb7RUrRMaC4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\r\n  \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/b29e558bf6.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-01-12T17:03:27+01:00",
 				"url": "https://holgerfrohloff.de/2023/01/12/finally-made-the.html",
 				"tags": ["article"]
