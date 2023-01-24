@@ -25,6 +25,130 @@
 	  <div class="h-entry">
 		
 
+		<a href="https://holgerfrohloff.de/2023/01/24/im-done-with.html" class="u-url"><time class="dt-published" datetime="2023-01-24 14:50:38 &#43;0100">Jan 24, 2023</time></a>
+
+		<div class="e-content">
+			 <p><a href="https://rknight.me/im-done-with-closed-services/">I&rsquo;m done with closed services</a> by <a href="https://micro.blog/rknightuk">@rknightuk</a> is spot on! I really like this shift as of lately to the open web. Maybe it really is turning full circle and we get back to having a better web.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://holgerfrohloff.de/2023/01/24/want-to-know.html" class="u-url"><time class="dt-published" datetime="2023-01-24 14:48:20 &#43;0100">Jan 24, 2023</time></a>
+
+		<div class="e-content">
+			 <p>Want to know what my day is like? I am snoozing Slack to find enough headspace to think and am glad that the Apple Silicon Macs still get warm enough to warm the hands, given the right workload. That&rsquo;s what today feels like. And coffee.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://holgerfrohloff.de/2023/01/20/tschss-hamburg.html" class="u-url"><time class="dt-published" datetime="2023-01-20 19:20:45 &#43;0100">Jan 20, 2023</time></a>
+
+		<div class="e-content">
+			 <p>Tschüss Hamburg</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://holgerfrohloff.de/2023/01/20/i-will-try.html" class="u-url"><time class="dt-published" datetime="2023-01-20 18:36:12 &#43;0100">Jan 20, 2023</time></a>
+
+		<div class="e-content">
+			 <p>I will try to use Readwise and their Reader app for my RSS reading for a few days. Ususally I use the Reeder.app on Mac and iOS. The integration/workflows/highlighting in Readwise&rsquo;s Reader does look really good though. And their integration into Obsidian is <em>already</em> really good…</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://holgerfrohloff.de/2023/01/20/my-post-about.html" class="u-url"><time class="dt-published" datetime="2023-01-20 18:30:16 &#43;0100">Jan 20, 2023</time></a>
+
+		<div class="e-content">
+			 <p>My <a href="https://holgerfrohloff.de/2023/01/20/anyway-theres-no.html">post</a> about an article by <a href="https://micro.blog/tomcritchlow">@tomcritchlow</a> appear weired on micro.blog but fine on my own website</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://holgerfrohloff.de/2023/01/20/anyway-theres-no.html" class="u-url"><time class="dt-published" datetime="2023-01-20 18:26:09 &#43;0100">Jan 20, 2023</time></a>
+
+		<div class="e-content">
+			 <!-- raw HTML omitted -->
+<p>The web is amazing, indeed. I really like this <a href="https://tomcritchlow.com/2023/01/20/digital-bricolage/">article</a> by @tomcritchlow@twitter.com about how he utilizes different small tools on the web and a low-code approach to build solutions for his clients. I am, of course?, doing a more high-code approach. But still, sometimes I do think too complicated and other approaches might work better (see: <a href="https://holgerfrohloff.de/2023/01/20/so-today-i.html">https://holgerfrohloff.de/2023/01/20/so-today-i.html</a>)</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://holgerfrohloff.de/2023/01/20/so-today-i.html">idea for a low-fi solution to subscribe to keywords on the fediverse</a></h1>
+		
+
+		<a href="https://holgerfrohloff.de/2023/01/20/so-today-i.html" class="u-url"><time class="dt-published" datetime="2023-01-20 17:53:49 &#43;0100">Jan 20, 2023</time></a>
+
+		<div class="e-content">
+			 <p>So today I read this interesting <a href="%5Bmicro.blog/rknightuk...%5D(https://micro.blog/rknightuk/)16073060">conversation</a> by <a href="https://micro.blog/rknightuk">@rknightuk</a>. The topic isn&rsquo;t “finished” and he might post updates on the topic. If he remembers he might add them to the conversation. But maybe he doesn&rsquo;t. (I wouldn&rsquo;t blame him!)</p>
+<p>That brings me to the question: How could I make sure I don&rsquo;t miss the update? Checking in daily is one option. It&rsquo;s unrealistic for me though. If you consider the case that you want to see posts from someone you don&rsquo;t follow/subscribe to, how can you make sure you get updates on things you might care about?</p>
+<p>This is just me thinking out loud, I don&rsquo;t know the answer, yet.</p>
+<p>Maybe there could be a service that monitors their feed for certain keywords and pings you once they post something containing those keywords?
+There isn&rsquo;t even the option to <em>subscribe</em> to a conversation as that conversation doesn&rsquo;t have an RSS feed associated.
+One way would be to have a service that subscribes to his RSS feed and monitors that one for designated keywords. If it finds the keywords it creates a post mentioning me.</p>
+<p>What comes to mind for me is a CRON job running on a server. But that sucks. Using cron doesn&rsquo;t <em>feel</em> right to me today. Another idea was to have a GitHub action running. But that always needs a trigger to get started. So what could be a trigger?</p>
+<p><em>goes away to read GitHub Actions docs</em></p>
+<p>Turns out: You <strong>can</strong> schedule a workflow on GitHub actions, <a href="https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule">using cron syntax</a>. Awesome! I mean it&rsquo;s still somehow cron, but it&rsquo;s more accessible than some bash thingy on some server.</p>
+<p>So what is left is figuring out, what the GitHub Actions workflow should run. It could be a javascript or ruby script inside the repository that the workflow belongs to.</p>
+<ul>
+<li>This script needs read/write access to a micro.blog (or other fediverse) account that can send <a href="https://micro.blog/mentions">@mentions</a> to me.</li>
+<li>The script needs to parse the feed (in this example <a href="https://micro.blog/rknightuk/">micro.blog/rknightuk&hellip;</a>) for keywords</li>
+<li>I need an option to provide the keywords. Could be hard-wired into the script for starters</li>
+<li>if a keyword is found, create a new post mentioning me and containing the link</li>
+<li>since this could be high-volume as the keywords are maybe too broad it shouldn&rsquo;t mention/ping the creator of the post</li>
+</ul>
+<p>It doesn&rsquo;t sound too complicated right now.
+I&rsquo;ll leave that for later and will come back to this idea!</p>
+<p>edit: this sounds like a solution that probably already exists. if you know about something like this, let me know. maybe you could even use google alerts or something like this!</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://holgerfrohloff.de/2023/01/20/honest-question-am.html" class="u-url"><time class="dt-published" datetime="2023-01-20 12:42:41 &#43;0100">Jan 20, 2023</time></a>
+
+		<div class="e-content">
+			 <p>Honest question: Am I paranoid or too worried?
+People leave their stuff all alone on their desk in this WeWork space. Their phone, computer unlocked. They were away for around 4 minutes. Enough time to be evil. If I wanted to 😇🤷‍♂️🤔🤔🤔</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://holgerfrohloff.de/2023/01/20/so-heute-arbeite.html" class="u-url"><time class="dt-published" datetime="2023-01-20 10:39:13 &#43;0100">Jan 20, 2023</time></a>
+
+		<div class="e-content">
+			 <p>So, heute arbeite ich beim Kunden in Hamburg. Immer wieder schön, diese Stadt.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
 		<a href="https://holgerfrohloff.de/2023/01/17/ich-habe-heute.html" class="u-url"><time class="dt-published" datetime="2023-01-17 14:25:10 &#43;0100">Jan 17, 2023</time></a>
 
 		<div class="e-content">
