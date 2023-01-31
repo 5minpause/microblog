@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://holgerfrohloff.micro.blog/2023/01/31/i-dont-like.html",
+				
+				"content_html": "<p>I don&rsquo;t like all-dark websites. My eyes cannot read well in the dark and I struggle to adjust to black-on-white afterwards. I don&rsquo;t get this white-on-black obsession many people have.</p>\n",
+				"content_text": "I don't like all-dark websites. My eyes cannot read well in the dark and I struggle to adjust to black-on-white afterwards. I don't get this white-on-black obsession many people have.\n",
+				"date_published": "2023-01-31T11:16:07+01:00",
+				"url": "https://holgerfrohloff.de/2023/01/31/i-dont-like.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/01/27/wisdom-from-sandi.html",
+				"title": "Wisdom from Sandi Metz",
+				"content_html": "<blockquote>\n<p>„The verse method is getting simpler, but it still has more than one responsibility.  This problem is reflected by the very structure of the code—the above method contains a blank line.  Programmers add blank lines to signify changes of topic.  The presence of multiple topics suggests the existence of multiple responsibilities, which makes code harder to understand when reading, and easier to harm when changing.“</p>\n</blockquote>\n<p>Excerpt from “99 Bottles of OOP” by Sandi Metz</p>\n<p>The book is full of small (and bigger) nuggets of wisdom regarding OO programming.</p>\n",
+				"content_text": "> „The verse method is getting simpler, but it still has more than one responsibility.  This problem is reflected by the very structure of the code—the above method contains a blank line.  Programmers add blank lines to signify changes of topic.  The presence of multiple topics suggests the existence of multiple responsibilities, which makes code harder to understand when reading, and easier to harm when changing.“\n\nExcerpt from “99 Bottles of OOP” by Sandi Metz\n\nThe book is full of small (and bigger) nuggets of wisdom regarding OO programming.\n",
+				"date_published": "2023-01-27T10:37:01+01:00",
+				"url": "https://holgerfrohloff.de/2023/01/27/wisdom-from-sandi.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/01/26/i-just-used.html",
+				
+				"content_html": "<p>I just used <a href=\"https://github.com/edoardob90/dayone-to-obsidian\">this project</a> to migrate my DayOne entries (over 3000) into Obsidian. Some small issues but in the end it worked perfectly and now I have all text, audio, photo and video entries in Obsidian. Since my Instagram exported to Day One, I have those as well now 🎉</p>\n",
+				"content_text": "I just used [this project](https://github.com/edoardob90/dayone-to-obsidian) to migrate my DayOne entries (over 3000) into Obsidian. Some small issues but in the end it worked perfectly and now I have all text, audio, photo and video entries in Obsidian. Since my Instagram exported to Day One, I have those as well now 🎉\n",
+				"date_published": "2023-01-26T20:59:01+01:00",
+				"url": "https://holgerfrohloff.de/2023/01/26/i-just-used.html"
+			},
+			{
 				"id": "http://holgerfrohloff.micro.blog/2023/01/24/im-done-with.html",
 				
 				"content_html": "<p><a href=\"https://rknight.me/im-done-with-closed-services/\">I&rsquo;m done with closed services</a> by <a href=\"https://micro.blog/rknightuk\">@rknightuk</a> is spot on! I really like this shift as of lately to the open web. Maybe it really is turning full circle and we get back to having a better web.</p>\n",
@@ -26,7 +50,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2023/01/20/tschss-hamburg.html",
 				
 				"content_html": "<p>Tschüss Hamburg</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tschüss Hamburg\n\n<img src=\"uploads/2023/46e035b5b7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Tschüss Hamburg\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/46e035b5b7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-20T19:20:45+01:00",
 				"url": "https://holgerfrohloff.de/2023/01/20/tschss-hamburg.html"
 			},
