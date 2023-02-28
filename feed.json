@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://holgerfrohloff.micro.blog/2023/02/28/habe-heute-mal.html",
+				
+				"content_html": "<p>Habe heute mal ein bissel mit SketchyBar herumgespielt. Herrliches Tool. Jetzt fehlt nur noch die Zeit, das zu konfigurieren und produktiv zu nutzen. Gibt es jemanden, der dazu sinnvolle, nutzbare Dinge veröffentlicht?</p>\n",
+				"content_text": "Habe heute mal ein bissel mit SketchyBar herumgespielt. Herrliches Tool. Jetzt fehlt nur noch die Zeit, das zu konfigurieren und produktiv zu nutzen. Gibt es jemanden, der dazu sinnvolle, nutzbare Dinge veröffentlicht?\n",
+				"date_published": "2023-02-28T15:47:17+01:00",
+				"url": "https://holgerfrohloff.de/2023/02/28/habe-heute-mal.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/02/16/currently-reading-tennis.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9783442219773\">Tennis - Das innere Spiel</a> by W. Timothy Gallwey 📚</p>\n",
+				"content_text": "Currently reading: [Tennis - Das innere Spiel](https://micro.blog/books/9783442219773) by W. Timothy Gallwey 📚\n",
+				"date_published": "2023-02-16T08:53:42+01:00",
+				"url": "https://holgerfrohloff.de/2023/02/16/currently-reading-tennis.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/02/16/finished-reading-weniger.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9783949182006\">Weniger Steuern &amp; mehr Vermögen</a> by Alexander Keck 📚</p>\n",
+				"content_text": "Finished reading: [Weniger Steuern & mehr Vermögen](https://micro.blog/books/9783949182006) by Alexander Keck 📚\n",
+				"date_published": "2023-02-16T08:53:15+01:00",
+				"url": "https://holgerfrohloff.de/2023/02/16/finished-reading-weniger.html"
+			},
+			{
 				"id": "http://holgerfrohloff.micro.blog/2023/02/10/regarding-the-new.html",
 				
 				"content_html": "<p>Regarding the <a href=\"https://holgerfrohloff.de/2023/01/12/oh-i-am.html\">new Walden</a>… there is a flash sale until 1 pm tomorrow, February 11 (EST). It’s $25 off. Use code Valden (V is for valentine’s 😜)</p>\n",
