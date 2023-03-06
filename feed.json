@@ -7,6 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://holgerfrohloff.micro.blog/2023/03/03/the-meaning-of.html",
+				
+				"content_html": "<blockquote>\n<p>The meaning of life is to live it, as wholly as we can, as abundantly as we can, as bravely as we can, here and now, sharing the experience with others, caring for others as we care for ourselves, and accepting our responsibility for leaving the world better than we found it.</p>\n</blockquote>\n<p>James Hemming</p>\n<p>Found in The Little Book of Humanism by Alice Roberts &amp; Andrew Copson</p>\n",
+				"content_text": "> The meaning of life is to live it, as wholly as we can, as abundantly as we can, as bravely as we can, here and now, sharing the experience with others, caring for others as we care for ourselves, and accepting our responsibility for leaving the world better than we found it.\n\nJames Hemming\n\nFound in The Little Book of Humanism by Alice Roberts & Andrew Copson\n",
+				"date_published": "2023-03-03T08:34:16+01:00",
+				"url": "https://holgerfrohloff.de/2023/03/03/the-meaning-of.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/03/01/ich-nehme-an.html",
+				
+				"content_html": "<p>Ich nehme an der GitHub Feature Preview <a href=\"https://docs.github.com/en/repositories/working-with-files/managing-files/navigating-files-with-the-new-code-view\">„New Code Search and Code View“</a> teil. Das verbessert das Browsen von Repos auf GitHub beträchtlich.\nEs gibt auch einen neuen Shortcut-Button, der direkt die Raw-Version der Datei in das Clipboard kopiert 👍</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ich nehme an der GitHub Feature Preview [„New Code Search and Code View“](https://docs.github.com/en/repositories/working-with-files/managing-files/navigating-files-with-the-new-code-view) teil. Das verbessert das Browsen von Repos auf GitHub beträchtlich.\nEs gibt auch einen neuen Shortcut-Button, der direkt die Raw-Version der Datei in das Clipboard kopiert 👍\n\n<img src=\"uploads/2023/2b84800321.png\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-03-01T09:08:21+01:00",
+				"url": "https://holgerfrohloff.de/2023/03/01/ich-nehme-an.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/03/01/day-secure.html",
+				
+				"content_html": "<p>Day 1: Secure</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day 1: Secure\n\n\n<img src=\"uploads/2023/e983e3ed1c.jpg\" width=\"541\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-01T07:13:04+01:00",
+				"url": "https://holgerfrohloff.de/2023/03/01/day-secure.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/02/28/testing-microblog-bookmarking.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Hier ist eine gute Beschreibung, wie Bookmarking auf Micro.blog funktionieren kann. Und dieser Beitrag ist ein Versuch der praktischen Anwendung. 😅</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Numeric Citizen\" data-avatar=\"https://micro.blog/numericcitizen/avatar.jpg\" cite=\"https://blog.numericcitizen.me/2023/02/27/testing-microblog-bookmarking.html\"><p>Testing Micro.blog Bookmarking Feature <a href=\"https://blog.numericcitizen.me/2023/02/27/testing-microblog-bookmarking.html\">blog.numericcitizen.me</a></p><p class=\"post_archived_links\">Read: <a href=\"https://micro.blog/bookmarks/500008\">blog.numericcitizen.me</a> </p><footer>Numeric Citizen <cite><a href=\"https://blog.numericcitizen.me/2023/02/27/testing-microblog-bookmarking.html\" class=\"u-in-reply-to\">https://blog.numericcitizen.me/2023/02/27/testing-microblog-bookmarking.html</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\r\n\r\nHier ist eine gute Beschreibung, wie Bookmarking auf Micro.blog funktionieren kann. Und dieser Beitrag ist ein Versuch der praktischen Anwendung. 😅\r\n",
+				"date_published": "2023-02-28T20:49:46+01:00",
+				"url": "https://holgerfrohloff.de/2023/02/28/testing-microblog-bookmarking.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/02/28/tagebuchblogggen.html",
+				"title": "Tagebuchblogggen 28.2.2023",
+				"content_html": "<h3 id=\"arbeit\">Arbeit</h3>\n<p>Beim Kunden bin ich heute endlich wieder gut voran gekommen. Die letzten Sprints haben sich gezogen, da ich große Themen hatte, die nicht immer in 1-Woche-Sprints gepasst haben.</p>\n<h3 id=\"spaß-1\">Spaß 1</h3>\n<p>Ich bin <a href=\"https://holgerfrohloff.de/2023/02/28/habe-heute-mal.html\">heute über ein neues Tool gestolpert</a>. Es heißt <a href=\"https://felixkratz.github.io/SketchyBar/\">SketchyBar</a>. Bevor du den Link klickst: das ist nur was für Leute, die gern mit dem Terminal unter MacOS arbeiten.\nSketchyBar hilft dir, eine Menüleiste unter MacOS zu erstellen, <em>wie sie dir gefällt</em>. Die orginale wird dabei ausgeblendet. Das hat den Vorteil, dass sie für dich perfekt sein kann. Das hat den Nachteil, dass du Zeit investieren musst, um sie so zu machen, wie du magst. Und das ist auch schon das Hauptproblem. Damals (TM) während des Studiums, und sogar schon Ende der Abizeit 2001, habe ich diese Zeit gehabt. Ich habe damals mein Windows Mac-artig gemacht. Da gab es die tollsten Tools, um das Aussehen zu verändern. Viel Gefrickel, aber es machte Spaß und funktionierte—meistens.</p>\n<p>Heute würde ich mir wünschen, dass es jemanden gibt, der das für mich macht. Ich sitze jetzt abends auf der Couch und schreibe das. Dafür reicht es bei mir jetzt noch abends im Kopf. Aber jetzt noch am Rechner sitzen und Syntax &amp; Semantik des Tools kapieren, und dann noch wissen, was ich erreichen möchte? Das geht jetzt nicht mehr.  Also wäre es toll, wenn es jemanden gäbe der z.B. ein Patreon zu diesem Thema hat. Ich zahle einen kleinen Betrag, und kann mir raussuchen was mir gefällt. Vielleicht sogar einfach Copy &amp; Paste machen und Dinge ausprobieren.</p>\n<h3 id=\"spaß-2\">Spaß 2</h3>\n<p>Der viel größere Spaß heute war, dass ich über den Spielplatz gerannt bin. Ich habe die kleine Tochter abgeholt und den Sonnenschein genutzt. Der Spielplatz liegt <strong>direkt neben der Kita</strong>. Da kommt man bei schönem Wetter nicht dran vorbei. Richtig so! möchte ich sagen. Dementsprechend voll war er. Ich habe dann noch die große Tochter angerufen, die kam dann dazu. Gemeinsam mit einer Kitafreundin und deren zwei Brüdern haben wir Fange gespielt. Ein herrliches Vergnügen. Am Ende waren meine Schuhe voll Sand. Ich sehe das als Beweis dafür, wie ungehemmt wir Spaß hatten. Perfekt.</p>\n<p>Daheim dann mit der großen Tochter noch Radschlagen geübt. Das war schwierig. In der Schule wird das wohl benotet (<strong>WARUM?!?!</strong>) und sie möchte keine 5. Naja, mit etwas Glück sind wir bei der 4 angelangt. Ist halt nicht so einfach.</p>\n<p>Am Abend dann Grießbrei und hier bloggen.</p>\n<h3 id=\"gelesen\">Gelesen</h3>\n<p><a href=\"https://herzbruch.me/23-02-2023/\">Frau Herzbruch</a> schreibt über eine Diskussion zum verfickten Angriffskrieg Russlands. Sie verfolgte diese, um fremde Standpunkte zu verstehen. Ich finde das gut. Leider ~bringt~ brachte das nur nichts. Und ich bin da ganz bei ihr.</p>\n",
+				"content_text": "### Arbeit\nBeim Kunden bin ich heute endlich wieder gut voran gekommen. Die letzten Sprints haben sich gezogen, da ich große Themen hatte, die nicht immer in 1-Woche-Sprints gepasst haben.\n\n### Spaß 1\nIch bin [heute über ein neues Tool gestolpert](https://holgerfrohloff.de/2023/02/28/habe-heute-mal.html). Es heißt [SketchyBar](https://felixkratz.github.io/SketchyBar/). Bevor du den Link klickst: das ist nur was für Leute, die gern mit dem Terminal unter MacOS arbeiten.\nSketchyBar hilft dir, eine Menüleiste unter MacOS zu erstellen, *wie sie dir gefällt*. Die orginale wird dabei ausgeblendet. Das hat den Vorteil, dass sie für dich perfekt sein kann. Das hat den Nachteil, dass du Zeit investieren musst, um sie so zu machen, wie du magst. Und das ist auch schon das Hauptproblem. Damals (TM) während des Studiums, und sogar schon Ende der Abizeit 2001, habe ich diese Zeit gehabt. Ich habe damals mein Windows Mac-artig gemacht. Da gab es die tollsten Tools, um das Aussehen zu verändern. Viel Gefrickel, aber es machte Spaß und funktionierte—meistens.\n\nHeute würde ich mir wünschen, dass es jemanden gibt, der das für mich macht. Ich sitze jetzt abends auf der Couch und schreibe das. Dafür reicht es bei mir jetzt noch abends im Kopf. Aber jetzt noch am Rechner sitzen und Syntax & Semantik des Tools kapieren, und dann noch wissen, was ich erreichen möchte? Das geht jetzt nicht mehr.  Also wäre es toll, wenn es jemanden gäbe der z.B. ein Patreon zu diesem Thema hat. Ich zahle einen kleinen Betrag, und kann mir raussuchen was mir gefällt. Vielleicht sogar einfach Copy & Paste machen und Dinge ausprobieren. \n\n### Spaß 2\nDer viel größere Spaß heute war, dass ich über den Spielplatz gerannt bin. Ich habe die kleine Tochter abgeholt und den Sonnenschein genutzt. Der Spielplatz liegt **direkt neben der Kita**. Da kommt man bei schönem Wetter nicht dran vorbei. Richtig so! möchte ich sagen. Dementsprechend voll war er. Ich habe dann noch die große Tochter angerufen, die kam dann dazu. Gemeinsam mit einer Kitafreundin und deren zwei Brüdern haben wir Fange gespielt. Ein herrliches Vergnügen. Am Ende waren meine Schuhe voll Sand. Ich sehe das als Beweis dafür, wie ungehemmt wir Spaß hatten. Perfekt.\n\nDaheim dann mit der großen Tochter noch Radschlagen geübt. Das war schwierig. In der Schule wird das wohl benotet (**WARUM?!?!**) und sie möchte keine 5. Naja, mit etwas Glück sind wir bei der 4 angelangt. Ist halt nicht so einfach.\n\nAm Abend dann Grießbrei und hier bloggen.\n\n\n### Gelesen\n\n[Frau Herzbruch](https://herzbruch.me/23-02-2023/) schreibt über eine Diskussion zum verfickten Angriffskrieg Russlands. Sie verfolgte diese, um fremde Standpunkte zu verstehen. Ich finde das gut. Leider ~bringt~ brachte das nur nichts. Und ich bin da ganz bei ihr.\n",
+				"date_published": "2023-02-28T20:12:35+01:00",
+				"url": "https://holgerfrohloff.de/2023/02/28/tagebuchblogggen.html",
+				"tags": ["tagebuchbloggen"]
+			},
+			{
 				"id": "http://holgerfrohloff.micro.blog/2023/02/28/habe-heute-mal.html",
 				
 				"content_html": "<p>Habe heute mal ein bissel mit SketchyBar herumgespielt. Herrliches Tool. Jetzt fehlt nur noch die Zeit, das zu konfigurieren und produktiv zu nutzen. Gibt es jemanden, der dazu sinnvolle, nutzbare Dinge veröffentlicht?</p>\n",
@@ -42,7 +83,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2023/02/10/wenn-ich-termineinladungen.html",
 				
 				"content_html": "<p>Wenn ich Termineinladungen wahrnehme, dann mittlerweile nur noch mit einem Kommentar: „Voll gerne!“</p>\n<p><a href=\"https://www.youtube.com/watch?v=u2HSc2Ym1Vk\">YouTube Video Andreas Bourani - Voll gerne (aus &ldquo;Vaiana&rdquo;)</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Wenn ich Termineinladungen wahrnehme, dann mittlerweile nur noch mit einem Kommentar: „Voll gerne!“\n\n[YouTube Video Andreas Bourani - Voll gerne (aus \"Vaiana\")](https://www.youtube.com/watch?v=u2HSc2Ym1Vk)\n\n<img src=\"uploads/2023/3d641107ec.png\" width=\"600\" height=\"498\" alt=\"\">\n",
+				"content_text": "Wenn ich Termineinladungen wahrnehme, dann mittlerweile nur noch mit einem Kommentar: „Voll gerne!“\n\n[YouTube Video Andreas Bourani - Voll gerne (aus \"Vaiana\")](https://www.youtube.com/watch?v=u2HSc2Ym1Vk)\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/3d641107ec.png\" width=\"600\" height=\"498\" alt=\"\">\n",
 				"date_published": "2023-02-10T09:50:12+01:00",
 				"url": "https://holgerfrohloff.de/2023/02/10/wenn-ich-termineinladungen.html"
 			},
@@ -310,7 +351,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2023/01/05/tiny-gamewho-can.html",
 				
 				"content_html": "<p>Tiny “game”:\nWho can tell me what that is?</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Tiny “game”:\nWho can tell me what that is?\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://holgerfrohloff.de/uploads/2023/76d0b8d6c6.mov\" width=\"640\" height=\"360\" poster=\"https://holgerfrohloff.de/uploads/2023/09c3958521.png\" preload=\"none\"></video>\n",
+				"content_text": "Tiny “game”:\nWho can tell me what that is?\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/8969/2023/76d0b8d6c6.mov\" width=\"640\" height=\"360\" poster=\"https://holgerfrohloff.de/uploads/2023/09c3958521.png\" preload=\"none\"></video>\n",
 				"date_published": "2023-01-05T10:04:14+01:00",
 				"url": "https://holgerfrohloff.de/2023/01/05/tiny-gamewho-can.html"
 			},
@@ -430,7 +471,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/12/10/kurze-unterbrechung-des.html",
 				
 				"content_html": "<p>Kurze Unterbrechung des Schreibens.</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Kurze Unterbrechung des Schreibens. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/171af3eae8.jpg\" width=\"600\" height=\"599\" alt=\"\">\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://holgerfrohloff.de/uploads/2022/cf50fdae3a.mov\" width=\"640\" height=\"360\" poster=\"https://holgerfrohloff.de/uploads/2022/aed3a244c4.png\" preload=\"none\"></video>\n",
+				"content_text": "Kurze Unterbrechung des Schreibens. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/171af3eae8.jpg\" width=\"600\" height=\"599\" alt=\"\">\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/8969/2022/cf50fdae3a.mov\" width=\"640\" height=\"360\" poster=\"https://holgerfrohloff.de/uploads/2022/aed3a244c4.png\" preload=\"none\"></video>\n",
 				"date_published": "2022-12-10T12:01:36+01:00",
 				"url": "https://holgerfrohloff.de/2022/12/10/kurze-unterbrechung-des.html"
 			},
@@ -502,7 +543,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/11/29/i-have-a.html",
 				
 				"content_html": "<p>I have a little bug report for the MB client app on macOS for <a href=\"https://micro.blog/manton\">@manton</a></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I have a little bug report for the MB client app on macOS for [@manton](https://micro.blog/manton) \n\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://holgerfrohloff.de/uploads/2022/b12dbba73d.mov\" width=\"582\" height=\"640\" poster=\"https://holgerfrohloff.de/uploads/2022/3eb73e77a3.png\" preload=\"none\"></video>\n",
+				"content_text": "I have a little bug report for the MB client app on macOS for [@manton](https://micro.blog/manton) \n\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/8969/2022/b12dbba73d.mov\" width=\"582\" height=\"640\" poster=\"https://holgerfrohloff.de/uploads/2022/3eb73e77a3.png\" preload=\"none\"></video>\n",
 				"date_published": "2022-11-29T21:49:07+01:00",
 				"url": "https://holgerfrohloff.de/2022/11/29/i-have-a.html"
 			},
@@ -767,7 +808,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/06/02/just-discovered-a.html",
 				
 				"content_html": "<p>Just discovered a bug in the newest releaes of the Microblog for Mac app <a href=\"https://micro.blog/manton\">@manton</a> (let&rsquo;s see if attaching a .mov file works here…)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Just discovered a bug in the newest releaes of the Microblog for Mac app [@manton](https://micro.blog/manton) (let's see if attaching a .mov file works here…)\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://holgerfrohloff.de/uploads/2022/822f10f433.mov\" width=\"536\" height=\"640\" poster=\"https://holgerfrohloff.de/uploads/2022/5618bf03f3.png\" preload=\"none\"></video>\n",
+				"content_text": "Just discovered a bug in the newest releaes of the Microblog for Mac app [@manton](https://micro.blog/manton) (let's see if attaching a .mov file works here…)\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/8969/2022/822f10f433.mov\" width=\"536\" height=\"640\" poster=\"https://holgerfrohloff.de/uploads/2022/5618bf03f3.png\" preload=\"none\"></video>\n",
 				"date_published": "2022-06-02T10:19:43+01:00",
 				"url": "https://holgerfrohloff.de/2022/06/02/just-discovered-a.html"
 			},
