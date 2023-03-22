@@ -24,6 +24,44 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://holgerfrohloff.de/2023/03/22/why-i-opened.html">Why I opened a pull request to Rails (again)</a></h1>
+		
+
+		<a href="https://holgerfrohloff.de/2023/03/22/why-i-opened.html" class="u-url"><time class="dt-published" datetime="2023-03-22 10:40:14 &#43;0100">Mar 22, 2023</time></a>
+
+		<div class="e-content">
+			 <p>It&rsquo;s been a few years but I finally opened a PR to Rails again. <a href="https://github.com/rails/rails/pull/47733">github.com/rails/rai&hellip;</a>
+The situation is a bit yak-shaving: I wanted to update to ActiveRecord v7 in my client&rsquo;s app. In order to be able to do this I needed to update the gem <a href="https://github.com/davidwinter/sensible_logging">sensible_logging</a>. This gem is stuck at Rails &lt; v7 though, so I created a PR to update the Gem which in turn surfaced a bug originating in Rails, hence the PR to Rails 🎉
+My last PR was from <a href="https://github.com/rails/rails/pull/18796">Feb 3, 2015</a>.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://holgerfrohloff.de/2023/03/16/moin.html" class="u-url"><time class="dt-published" datetime="2023-03-16 08:08:41 &#43;0100">Mar 16, 2023</time></a>
+
+		<div class="e-content">
+			 <p>moin</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://holgerfrohloff.de/2023/03/11/startrek-picard-season.html" class="u-url"><time class="dt-published" datetime="2023-03-11 23:09:34 &#43;0100">Mar 11, 2023</time></a>
+
+		<div class="e-content">
+			 <p>StarTrek Picard season 3 is the finest StarTrek I’ve seen in 30 years. So back to the essence. I applaud and thank the writers. And Frakes as director. …can’t go wrong.
+You make millions of lives happier as a result.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 
 		<a href="https://holgerfrohloff.de/2023/03/11/startrel-picard-season.html" class="u-url"><time class="dt-published" datetime="2023-03-11 23:08:40 &#43;0100">Mar 11, 2023</time></a>
 
@@ -1421,7 +1459,7 @@ You&rsquo;d need to be a senior-ish level developer, able to review React (JS &a
 
 		<div class="e-content">
 			 <p>Netlify let&rsquo;s you play a little game of matching Emojis while you wait for your deploy to finish. That&rsquo;s cute. 🤩
-<img src="https://cdn.uploads.micro.blog/8969/2022/327513d02f.jpg" alt="86BA9F15-12DD-4A18-93E1-C4C39FE45F9B.jpg"></p>
+<img src="https://holgerfrohloff.de/uploads/2022/327513d02f.jpg" alt="86BA9F15-12DD-4A18-93E1-C4C39FE45F9B.jpg"></p>
 
 		</div>
 	  </div>
@@ -2073,12 +2111,12 @@ What you have to do is create a table.</p>
 <p>When you reach 100% code coverage, what then? Are you done? Could you guarantee that there are absolutely no bugs in your code?</p>
 <p>If you are tempted to say <em>Yes</em>, or <em>&ldquo;maybe?&quot;</em> then let me tell you that you are wrong.</p>
 <p>Consider this piece of code.</p>
-<p><img src="https://cdn.uploads.micro.blog/wp-content/8969/2019/03/carbon.png" alt="" title="code coverage error"></p>
+<p><img src="https://holgerfrohloff.de/wp-content/uploads/2019/03/carbon.png" alt="" title="code coverage error"></p>
 <p>If you write a unit test for this method, the line <code>eval...</code> will be interpreted because of the <code>if emergency</code> at the end. The line is thus covered.
 But the code is not covered or tested.</p>
 <p>Admittedly, this is a very trivial example that I made up. In reality, there are some more profound things to consider.</p>
 <p>If you have complex conditionals you might need a logic table where you compare all possible combinations of the atomic parts of the conditional.</p>
-<p><img src="https://cdn.uploads.micro.blog/wp-content/8969/2019/03/conditionals.png" alt="" title="Conditionals"></p>
+<p><img src="https://holgerfrohloff.de/wp-content/uploads/2019/03/conditionals.png" alt="" title="Conditionals"></p>
 <p>You cannot possibly evaluate this in your head and know whether you checked for every possible, sensible combination. Yet when you cover that line you are at 100% coverage and can go home, right?</p>
 <p>So what do you do? Let&rsquo;s look at this tomorrow.</p>
 
@@ -2193,9 +2231,9 @@ I did not lint that email. Hence no robot told me about my error. I believe it i
 <h2 id="the-second-problem">The second problem</h2>
 <p>Do you remember that I wrote about JavaScript loops and gave the classic <code>for</code> loop example? I complained about the <code>i</code> variable and that it should be called <code>iterator</code>. Perhaps you did not like this idea and my example? Let me take a step back for a second.
 When naming variables and method names, you have to make sure they &ldquo;speak.&rdquo; The names should indicate their meaning and make it easier for another developer to understand the semantics of your code. Yet, when you are fully aware of the problem domain you code deals with, it can happen that you try to be <strong>too specific</strong>. If you are, you tend to use long, verbose names for variables and methods. An example could be this:</p>
-<p><img src="https://cdn.uploads.micro.blog/wp-content/8969/2019/03/example1.png" alt="">
+<p><img src="https://holgerfrohloff.de/wp-content/uploads/2019/03/example1.png" alt="">
 A common value for the allowed length of method names is 30 chars. The above example could be broken into two methods.</p>
-<p><img src="https://cdn.uploads.micro.blog/wp-content/8969/2019/03/example2.png" alt="">
+<p><img src="https://holgerfrohloff.de/wp-content/uploads/2019/03/example2.png" alt="">
 The next possible quick win might be to think about the existence of these methods inside the <code>Article</code> class. Verifying and fixing meta tags surely does not need to be done inside this class. If you want to follow the Single Responsibility Principle, you should make sure that the Article class does not have a reason to change, if you decide to change something about verifying and fixing meta tags. Rather the Article class might change when you decide that an article should have a mandatory sub-headline.</p>
 <p>Back to the <code>iterator</code>. This name could pass the test for <em>too specific</em>. Only, when <code>i</code> refers to a variable that is declared and initialized <strong>outside</strong> of the scope of the loop, does it make sense to choose a different name. Or doesn&rsquo;t it? As always it depends. The classic for loop is taught in almost every book on JavaScript, and it is easily identifiable as to what it is. But there might be reasons to deviate from that, as I indicated above.</p>
 <h2 id="conclusion">Conclusion</h2>
