@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://holgerfrohloff.micro.blog/2023/05/01/ausklang.html",
+				
+				"content_html": "<p>Ausklang</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ausklang\n\n<img src=\"uploads/2023/d83214ef84.jpg\" width=\"600\" height=\"401\" alt=\"\">\n",
+				"date_published": "2023-05-01T19:44:37+02:00",
+				"url": "https://holgerfrohloff.de/2023/05/01/ausklang.html"
+			},
+			{
 				"id": "http://holgerfrohloff.micro.blog/2023/04/19/am-wochenende-waren.html",
 				
 				"content_html": "<p>Am Wochenende waren wir bei Radhaus und haben neue Räder für die große Tochter Probe gefahren. Ich habe die Räder und Preisschilder fotografiert. Seit gestern folgt mir dann „zufällig“ Pegasus Bikes auf Instagram?!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -66,7 +74,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2023/03/01/ich-nehme-an.html",
 				
 				"content_html": "<p>Ich nehme an der GitHub Feature Preview <a href=\"https://docs.github.com/en/repositories/working-with-files/managing-files/navigating-files-with-the-new-code-view\">„New Code Search and Code View“</a> teil. Das verbessert das Browsen von Repos auf GitHub beträchtlich.\nEs gibt auch einen neuen Shortcut-Button, der direkt die Raw-Version der Datei in das Clipboard kopiert 👍</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ich nehme an der GitHub Feature Preview [„New Code Search and Code View“](https://docs.github.com/en/repositories/working-with-files/managing-files/navigating-files-with-the-new-code-view) teil. Das verbessert das Browsen von Repos auf GitHub beträchtlich.\nEs gibt auch einen neuen Shortcut-Button, der direkt die Raw-Version der Datei in das Clipboard kopiert 👍\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/2b84800321.png\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Ich nehme an der GitHub Feature Preview [„New Code Search and Code View“](https://docs.github.com/en/repositories/working-with-files/managing-files/navigating-files-with-the-new-code-view) teil. Das verbessert das Browsen von Repos auf GitHub beträchtlich.\nEs gibt auch einen neuen Shortcut-Button, der direkt die Raw-Version der Datei in das Clipboard kopiert 👍\n\n<img src=\"uploads/2023/2b84800321.png\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-03-01T10:08:21+02:00",
 				"url": "https://holgerfrohloff.de/2023/03/01/ich-nehme-an.html"
 			},
@@ -131,7 +139,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2023/02/10/wenn-ich-termineinladungen.html",
 				
 				"content_html": "<p>Wenn ich Termineinladungen wahrnehme, dann mittlerweile nur noch mit einem Kommentar: „Voll gerne!“</p>\n<p><a href=\"https://www.youtube.com/watch?v=u2HSc2Ym1Vk\">YouTube Video Andreas Bourani - Voll gerne (aus &ldquo;Vaiana&rdquo;)</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Wenn ich Termineinladungen wahrnehme, dann mittlerweile nur noch mit einem Kommentar: „Voll gerne!“\n\n[YouTube Video Andreas Bourani - Voll gerne (aus \"Vaiana\")](https://www.youtube.com/watch?v=u2HSc2Ym1Vk)\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/3d641107ec.png\" width=\"600\" height=\"498\" alt=\"\">\n",
+				"content_text": "Wenn ich Termineinladungen wahrnehme, dann mittlerweile nur noch mit einem Kommentar: „Voll gerne!“\n\n[YouTube Video Andreas Bourani - Voll gerne (aus \"Vaiana\")](https://www.youtube.com/watch?v=u2HSc2Ym1Vk)\n\n<img src=\"uploads/2023/3d641107ec.png\" width=\"600\" height=\"498\" alt=\"\">\n",
 				"date_published": "2023-02-10T10:50:12+02:00",
 				"url": "https://holgerfrohloff.de/2023/02/10/wenn-ich-termineinladungen.html"
 			},
@@ -139,7 +147,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2023/02/10/just-found-this.html",
 				
 				"content_html": "<p>Just found this <a href=\"https://discuss.systems/@Some_Emo_Chick@mastodon.social/109800786353429070\">@Some_Emo_Chick@mastodon.social</a> and thought it was funny</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Just found this [@Some_Emo_Chick@mastodon.social](https://discuss.systems/@Some_Emo_Chick@mastodon.social/109800786353429070) and thought it was funny\n\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/0238d92ee5.png\" width=\"526\" height=\"526\" alt=\"\">\n",
+				"content_text": "Just found this [@Some_Emo_Chick@mastodon.social](https://discuss.systems/@Some_Emo_Chick@mastodon.social/109800786353429070) and thought it was funny\n\n\n<img src=\"uploads/2023/0238d92ee5.png\" width=\"526\" height=\"526\" alt=\"\">\n",
 				"date_published": "2023-02-10T09:46:51+02:00",
 				"url": "https://holgerfrohloff.de/2023/02/10/just-found-this.html"
 			},
@@ -203,7 +211,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2023/01/20/tschss-hamburg.html",
 				
 				"content_html": "<p>Tschüss Hamburg</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tschüss Hamburg\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/46e035b5b7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Tschüss Hamburg\n\n<img src=\"uploads/2023/46e035b5b7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-20T20:20:45+02:00",
 				"url": "https://holgerfrohloff.de/2023/01/20/tschss-hamburg.html"
 			},
@@ -244,7 +252,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2023/01/20/honest-question-am.html",
 				
 				"content_html": "<p>Honest question: Am I paranoid or too worried?\nPeople leave their stuff all alone on their desk in this WeWork space. Their phone, computer unlocked. They were away for around 4 minutes. Enough time to be evil. If I wanted to 😇🤷‍♂️🤔🤔🤔</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Honest question: Am I paranoid or too worried?\nPeople leave their stuff all alone on their desk in this WeWork space. Their phone, computer unlocked. They were away for around 4 minutes. Enough time to be evil. If I wanted to 😇🤷‍♂️🤔🤔🤔\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/9ce73b7d6c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Honest question: Am I paranoid or too worried?\nPeople leave their stuff all alone on their desk in this WeWork space. Their phone, computer unlocked. They were away for around 4 minutes. Enough time to be evil. If I wanted to 😇🤷‍♂️🤔🤔🤔\n\n<img src=\"uploads/2023/9ce73b7d6c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-20T13:42:41+02:00",
 				"url": "https://holgerfrohloff.de/2023/01/20/honest-question-am.html"
 			},
@@ -277,7 +285,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2023/01/14/training.html",
 				
 				"content_html": "<p>Training ✅</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Training ✅\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/2f7bd8d4f4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Training ✅\n\n<img src=\"uploads/2023/2f7bd8d4f4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-14T12:41:31+02:00",
 				"url": "https://holgerfrohloff.de/2023/01/14/training.html"
 			},
@@ -285,7 +293,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2023/01/13/tonight-well-have.html",
 				
 				"content_html": "<p>Tonight we’ll have freshly made pitas with homemade fresh Tzaziki 😋😋😋</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Tonight we’ll have freshly made pitas with homemade fresh Tzaziki 😋😋😋\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/4dce98a3cc.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/8969/2023/c0e994298f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Tonight we’ll have freshly made pitas with homemade fresh Tzaziki 😋😋😋\n\n<img src=\"uploads/2023/4dce98a3cc.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/c0e994298f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-13T18:30:57+02:00",
 				"url": "https://holgerfrohloff.de/2023/01/13/tonight-well-have.html"
 			},
@@ -302,7 +310,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2023/01/12/after-four-days.html",
 				
 				"content_html": "<p>After four days of drinking regular coffee the new espresso beans finally arrived. I’m surprised to see that the packaging doesn’t have the little valve anymore. Maybe this is for saving on packaging reasons?\nI don’t know. ￼</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "After four days of drinking regular coffee the new espresso beans finally arrived. I’m surprised to see that the packaging doesn’t have the little valve anymore. Maybe this is for saving on packaging reasons?\n I don’t know. ￼\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/bd582cc09c.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/8969/2023/78869d9685.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "After four days of drinking regular coffee the new espresso beans finally arrived. I’m surprised to see that the packaging doesn’t have the little valve anymore. Maybe this is for saving on packaging reasons?\n I don’t know. ￼\n\n<img src=\"uploads/2023/bd582cc09c.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/78869d9685.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-12T18:28:11+02:00",
 				"url": "https://holgerfrohloff.de/2023/01/12/after-four-days.html"
 			},
@@ -310,7 +318,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2023/01/12/finally-made-the.html",
 				"title": "Finally made the migration",
 				"content_html": "<p>I finally made the migration to micro.blog with my personal site <a href=\"https://holgerfrohloff.de\">https://holgerfrohloff.de</a>\nAll the posts and newsletters I&rsquo;ve written are migrated. They are still being published so they are not styled, yet.\nHave to migrate all pages as well. And then the overal design of the site.\nI want it to look a little bit different and also showcase some of the functionality that microblog offers me now.\nOverall I am happy to be even more part of the <a href=\"https://indieweb.org/\">IndieWeb</a> now.</p>\n<p>Photo by <!-- raw HTML omitted -->Mathew Schwartz<!-- raw HTML omitted --> on <!-- raw HTML omitted -->Unsplash<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I finally made the migration to micro.blog with my personal site https://holgerfrohloff.de\r\nAll the posts and newsletters I've written are migrated. They are still being published so they are not styled, yet.\r\nHave to migrate all pages as well. And then the overal design of the site.\r\nI want it to look a little bit different and also showcase some of the functionality that microblog offers me now.\r\nOverall I am happy to be even more part of the [IndieWeb](https://indieweb.org/) now.\r\n\r\nPhoto by <a href=\"https://unsplash.com/@cadop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Mathew Schwartz</a> on <a href=\"https://unsplash.com/de/fotos/sb7RUrRMaC4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\r\n  \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/b29e558bf6.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "I finally made the migration to micro.blog with my personal site https://holgerfrohloff.de\r\nAll the posts and newsletters I've written are migrated. They are still being published so they are not styled, yet.\r\nHave to migrate all pages as well. And then the overal design of the site.\r\nI want it to look a little bit different and also showcase some of the functionality that microblog offers me now.\r\nOverall I am happy to be even more part of the [IndieWeb](https://indieweb.org/) now.\r\n\r\nPhoto by <a href=\"https://unsplash.com/@cadop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Mathew Schwartz</a> on <a href=\"https://unsplash.com/de/fotos/sb7RUrRMaC4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\r\n  \n\n<img src=\"uploads/2023/b29e558bf6.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-01-12T18:03:27+02:00",
 				"url": "https://holgerfrohloff.de/2023/01/12/finally-made-the.html",
 				"tags": ["article"]
@@ -327,7 +335,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2023/01/12/oh-i-am.html",
 				
 				"content_html": "<p>Oh I am beyond happy! My copy of <a href=\"https://steelbrothers.shop/products/the-new-walden\">The new Walden</a> by Steelbrothers just arrived.\nLet’s put this on my MB bookshelf!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Oh I am beyond happy! My copy of [The new Walden](https://steelbrothers.shop/products/the-new-walden) by Steelbrothers just arrived. \nLet’s put this on my MB bookshelf!\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/a0b3ee9f88.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/8969/2023/a00dd7b04a.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/8969/2023/a16736f770.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/8969/2023/0dd4802908.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/8969/2023/5d6b486bdd.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/8969/2023/705e65c44a.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/8969/2023/3793ff4e57.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Oh I am beyond happy! My copy of [The new Walden](https://steelbrothers.shop/products/the-new-walden) by Steelbrothers just arrived. \nLet’s put this on my MB bookshelf!\n\n<img src=\"uploads/2023/a0b3ee9f88.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/a00dd7b04a.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/a16736f770.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/0dd4802908.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/5d6b486bdd.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/705e65c44a.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/3793ff4e57.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-12T12:23:23+02:00",
 				"url": "https://holgerfrohloff.de/2023/01/12/oh-i-am.html"
 			},
@@ -383,7 +391,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2023/01/06/moin-das-bild.html",
 				
 				"content_html": "<p>Moin.</p>\n<p>(Das Bild ist aus Dänemark vom 29.12.22)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Moin. \n\n(Das Bild ist aus Dänemark vom 29.12.22)\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/71327ae7ff.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Moin. \n\n(Das Bild ist aus Dänemark vom 29.12.22)\n\n<img src=\"uploads/2023/71327ae7ff.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-06T10:08:05+02:00",
 				"url": "https://holgerfrohloff.de/2023/01/06/moin-das-bild.html"
 			},
@@ -399,7 +407,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2023/01/05/tiny-gamewho-can.html",
 				
 				"content_html": "<p>Tiny “game”:\nWho can tell me what that is?</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Tiny “game”:\nWho can tell me what that is?\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/8969/2023/76d0b8d6c6.mov\" width=\"640\" height=\"360\" poster=\"https://holgerfrohloff.de/uploads/2023/09c3958521.png\" preload=\"none\"></video>\n",
+				"content_text": "Tiny “game”:\nWho can tell me what that is?\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://holgerfrohloff.de/uploads/2023/76d0b8d6c6.mov\" width=\"640\" height=\"360\" poster=\"https://holgerfrohloff.de/uploads/2023/09c3958521.png\" preload=\"none\"></video>\n",
 				"date_published": "2023-01-05T11:04:14+02:00",
 				"url": "https://holgerfrohloff.de/2023/01/05/tiny-gamewho-can.html"
 			},
@@ -431,7 +439,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2023/01/04/the-one-who.html",
 				
 				"content_html": "<p>The one who opens espresso beans like this is a bad person.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The one who opens espresso beans like this is a bad person. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/fe452bf1f7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "The one who opens espresso beans like this is a bad person. \n\n<img src=\"uploads/2023/fe452bf1f7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-04T11:44:55+02:00",
 				"url": "https://holgerfrohloff.de/2023/01/04/the-one-who.html"
 			},
@@ -439,7 +447,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2023/01/04/mach-dem-radtraining.html",
 				
 				"content_html": "<p>Mach dem Radtraining ist vor der Prophylaxe! Moin vom Zahnarzt</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Mach dem Radtraining ist vor der Prophylaxe! Moin vom Zahnarzt\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/ce8c1cc50b.jpg\" width=\"567\" height=\"600\" alt=\"\">\n",
+				"content_text": "Mach dem Radtraining ist vor der Prophylaxe! Moin vom Zahnarzt\n\n<img src=\"uploads/2023/ce8c1cc50b.jpg\" width=\"567\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-04T10:05:07+02:00",
 				"url": "https://holgerfrohloff.de/2023/01/04/mach-dem-radtraining.html"
 			},
@@ -503,7 +511,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/12/11/heute-rckfahrt-als.html",
 				
 				"content_html": "<p>Heute Rückfahrt. 🗺  Als ich am Bahnhof ankam fuhr direkt ein Zug ein, den ich nehmen konnte. Tatsächlich hatte er 25min Verspätung. Für mich war das gut, ich hätte sonst noch 30min auf den nächsten warten müssen. 🤷‍♂️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Heute Rückfahrt. 🗺  Als ich am Bahnhof ankam fuhr direkt ein Zug ein, den ich nehmen konnte. Tatsächlich hatte er 25min Verspätung. Für mich war das gut, ich hätte sonst noch 30min auf den nächsten warten müssen. 🤷‍♂️\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/905e6d1ebe.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Heute Rückfahrt. 🗺  Als ich am Bahnhof ankam fuhr direkt ein Zug ein, den ich nehmen konnte. Tatsächlich hatte er 25min Verspätung. Für mich war das gut, ich hätte sonst noch 30min auf den nächsten warten müssen. 🤷‍♂️\n\n<img src=\"uploads/2022/905e6d1ebe.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-11T11:57:35+02:00",
 				"url": "https://holgerfrohloff.de/2022/12/11/heute-rckfahrt-als.html"
 			},
@@ -511,7 +519,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/12/10/schreibpause.html",
 				
 				"content_html": "<p>Schreibpause</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Schreibpause\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/5140f6a4c3.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/8969/2022/10159348a6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Schreibpause\n\n<img src=\"uploads/2022/5140f6a4c3.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2022/10159348a6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-10T15:29:34+02:00",
 				"url": "https://holgerfrohloff.de/2022/12/10/schreibpause.html"
 			},
@@ -519,7 +527,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/12/10/kurze-unterbrechung-des.html",
 				
 				"content_html": "<p>Kurze Unterbrechung des Schreibens.</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Kurze Unterbrechung des Schreibens. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/171af3eae8.jpg\" width=\"600\" height=\"599\" alt=\"\">\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/8969/2022/cf50fdae3a.mov\" width=\"640\" height=\"360\" poster=\"https://holgerfrohloff.de/uploads/2022/aed3a244c4.png\" preload=\"none\"></video>\n",
+				"content_text": "Kurze Unterbrechung des Schreibens. \n\n<img src=\"uploads/2022/171af3eae8.jpg\" width=\"600\" height=\"599\" alt=\"\">\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://holgerfrohloff.de/uploads/2022/cf50fdae3a.mov\" width=\"640\" height=\"360\" poster=\"https://holgerfrohloff.de/uploads/2022/aed3a244c4.png\" preload=\"none\"></video>\n",
 				"date_published": "2022-12-10T13:01:36+02:00",
 				"url": "https://holgerfrohloff.de/2022/12/10/kurze-unterbrechung-des.html"
 			},
@@ -527,7 +535,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/12/10/schreiben-mit-blick.html",
 				
 				"content_html": "<p>Schreiben mit Blick auf das Wasser. Dazu eine entspannte Jazz Playlist im Hintergrund. Danke fürs Fragen, ich komme zurecht.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Schreiben mit Blick auf das Wasser. Dazu eine entspannte Jazz Playlist im Hintergrund. Danke fürs Fragen, ich komme zurecht. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/dce9631645.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"content_text": "Schreiben mit Blick auf das Wasser. Dazu eine entspannte Jazz Playlist im Hintergrund. Danke fürs Fragen, ich komme zurecht. \n\n<img src=\"uploads/2022/dce9631645.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
 				"date_published": "2022-12-10T12:04:43+02:00",
 				"url": "https://holgerfrohloff.de/2022/12/10/schreiben-mit-blick.html"
 			},
@@ -559,7 +567,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/12/09/100753.html",
 				
 				"content_html": "<p>My wonderful wife just brought me a bowl of delicious oatmeal. Thank you!\nHeaven. 👻🫶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My wonderful wife just brought me a bowl of delicious oatmeal. Thank you!\nHeaven. 👻🫶\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/4c8a19f236.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "My wonderful wife just brought me a bowl of delicious oatmeal. Thank you!\nHeaven. 👻🫶\n\n<img src=\"uploads/2022/4c8a19f236.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-09T11:07:53+02:00",
 				"url": "https://holgerfrohloff.de/2022/12/09/100753.html"
 			},
@@ -591,7 +599,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/11/29/i-have-a.html",
 				
 				"content_html": "<p>I have a little bug report for the MB client app on macOS for <a href=\"https://micro.blog/manton\">@manton</a></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I have a little bug report for the MB client app on macOS for [@manton](https://micro.blog/manton) \n\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/8969/2022/b12dbba73d.mov\" width=\"582\" height=\"640\" poster=\"https://holgerfrohloff.de/uploads/2022/3eb73e77a3.png\" preload=\"none\"></video>\n",
+				"content_text": "I have a little bug report for the MB client app on macOS for [@manton](https://micro.blog/manton) \n\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://holgerfrohloff.de/uploads/2022/b12dbba73d.mov\" width=\"582\" height=\"640\" poster=\"https://holgerfrohloff.de/uploads/2022/3eb73e77a3.png\" preload=\"none\"></video>\n",
 				"date_published": "2022-11-29T22:49:07+02:00",
 				"url": "https://holgerfrohloff.de/2022/11/29/i-have-a.html"
 			},
@@ -623,7 +631,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/11/14/whats-the-matter.html",
 				
 				"content_html": "<p>What’s the matter? My mad magnetic matte PenMat materialized, mate! Thanks @pentips!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "What’s the matter? My mad magnetic matte PenMat materialized, mate! Thanks @pentips!\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/b3b0667d07.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "What’s the matter? My mad magnetic matte PenMat materialized, mate! Thanks @pentips!\n\n<img src=\"uploads/2022/b3b0667d07.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-14T14:45:00+02:00",
 				"url": "https://holgerfrohloff.de/2022/11/14/whats-the-matter.html"
 			},
@@ -631,7 +639,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/11/08/und-immer-wenn.html",
 				
 				"content_html": "<p>und immer, wenn der Mond scheint, dann ist Showtime, dann ist Showtime. 🦉</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "und immer, wenn der Mond scheint, dann ist Showtime, dann ist Showtime. 🦉\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/a0560d6801.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "und immer, wenn der Mond scheint, dann ist Showtime, dann ist Showtime. 🦉\n\n<img src=\"uploads/2022/a0560d6801.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-08T00:37:22+02:00",
 				"url": "https://holgerfrohloff.de/2022/11/08/und-immer-wenn.html"
 			},
@@ -639,7 +647,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/11/02/it-was-a.html",
 				
 				"content_html": "<p>It was a feast</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It was a feast\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/5f1c2a4e3c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "It was a feast\n\n<img src=\"uploads/2022/5f1c2a4e3c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-02T18:52:46+02:00",
 				"url": "https://holgerfrohloff.de/2022/11/02/it-was-a.html"
 			},
@@ -647,7 +655,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/11/01/fr-mbnov-msste.html",
 				
 				"content_html": "<p>Für #mbnov müsste ich jetzt englische Beiträge schreiben. Heute am 1.11. wäre das Wort figure dran. Aber ich poste einfach dieses Bild stattdessen.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Für #mbnov müsste ich jetzt englische Beiträge schreiben. Heute am 1.11. wäre das Wort figure dran. Aber ich poste einfach dieses Bild stattdessen. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/7c7be7603b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Für #mbnov müsste ich jetzt englische Beiträge schreiben. Heute am 1.11. wäre das Wort figure dran. Aber ich poste einfach dieses Bild stattdessen. \n\n<img src=\"uploads/2022/7c7be7603b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-01T12:28:00+02:00",
 				"url": "https://holgerfrohloff.de/2022/11/01/fr-mbnov-msste.html"
 			},
@@ -655,7 +663,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/11/01/viele-halloween-kostme.html",
 				
 				"content_html": "<p>Viele Halloween Kostüme in der Upper West Side heute. Großartiges Spektakel</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Viele Halloween Kostüme in der Upper West Side heute. Großartiges Spektakel\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/b4ce8008a3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Viele Halloween Kostüme in der Upper West Side heute. Großartiges Spektakel\n\n<img src=\"uploads/2022/b4ce8008a3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-01T00:11:45+02:00",
 				"url": "https://holgerfrohloff.de/2022/11/01/viele-halloween-kostme.html"
 			},
@@ -663,7 +671,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/10/30/so-sah-es.html",
 				
 				"content_html": "<p>So sah es heute aus. Von Liberty Island 🗽</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "So sah es heute aus. Von Liberty Island 🗽 \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/ffae3a38ca.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "So sah es heute aus. Von Liberty Island 🗽 \n\n<img src=\"uploads/2022/ffae3a38ca.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-30T23:12:30+02:00",
 				"url": "https://holgerfrohloff.de/2022/10/30/so-sah-es.html"
 			},
@@ -671,7 +679,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/10/27/ein-foto-vom.html",
 				
 				"content_html": "<p>Ein Foto vom gestrigen Tag</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ein Foto vom gestrigen Tag\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/3b9b96ec56.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Ein Foto vom gestrigen Tag\n\n<img src=\"uploads/2022/3b9b96ec56.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-27T13:10:49+02:00",
 				"url": "https://holgerfrohloff.de/2022/10/27/ein-foto-vom.html"
 			},
@@ -687,7 +695,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/10/22/wenn-dein-wasserhahn.html",
 				
 				"content_html": "<p>Wenn dein Wasserhahn eine Anleitung benötigt, läuft was verkehrt.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Wenn dein Wasserhahn eine Anleitung benötigt, läuft was verkehrt. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/72c9985b01.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Wenn dein Wasserhahn eine Anleitung benötigt, läuft was verkehrt. \n\n<img src=\"uploads/2022/72c9985b01.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-22T11:12:16+02:00",
 				"url": "https://holgerfrohloff.de/2022/10/22/wenn-dein-wasserhahn.html"
 			},
@@ -695,7 +703,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/10/19/soul-food-fr.html",
 				
 				"content_html": "<p>Soul food für den heutigen Tag 😋</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Soul food für den heutigen Tag 😋\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/9615c2ffd3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Soul food für den heutigen Tag 😋\n\n<img src=\"uploads/2022/9615c2ffd3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-19T12:24:41+02:00",
 				"url": "https://holgerfrohloff.de/2022/10/19/soul-food-fr.html"
 			},
@@ -703,7 +711,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/10/19/heute-morgen-auf.html",
 				
 				"content_html": "<p>Heute morgen auf dem Weg ins Büro kurz angehalten und ein paar Fitnessübungen gemacht.  Ich liebe diese „Sportinseln“, v.a. auch am Strand in Portugal und Katalonien!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Heute morgen auf dem Weg ins Büro kurz angehalten und ein paar Fitnessübungen gemacht.  Ich liebe diese „Sportinseln“, v.a. auch am Strand in Portugal und Katalonien!\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/30b503fe18.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Heute morgen auf dem Weg ins Büro kurz angehalten und ein paar Fitnessübungen gemacht.  Ich liebe diese „Sportinseln“, v.a. auch am Strand in Portugal und Katalonien!\n\n<img src=\"uploads/2022/30b503fe18.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-19T09:59:47+02:00",
 				"url": "https://holgerfrohloff.de/2022/10/19/heute-morgen-auf.html"
 			},
@@ -711,7 +719,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/10/17/milchreis.html",
 				
 				"content_html": "<p>Milchreis</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Milchreis\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/0d34629505.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
+				"content_text": "Milchreis\n\n<img src=\"uploads/2022/0d34629505.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-17T13:05:29+02:00",
 				"url": "https://holgerfrohloff.de/2022/10/17/milchreis.html"
 			},
@@ -719,7 +727,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/10/15/heute-hecke-schneiden.html",
 				
 				"content_html": "<p>Heute: Hecke schneiden</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Heute: Hecke schneiden\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/8555dc4dd0.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Heute: Hecke schneiden\n\n<img src=\"uploads/2022/8555dc4dd0.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-15T11:57:52+02:00",
 				"url": "https://holgerfrohloff.de/2022/10/15/heute-hecke-schneiden.html"
 			},
@@ -727,7 +735,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/10/14/posted-on-friday.html",
 				
 				"content_html": "<p>Posted on Friday, 14th at 4:13pm in Berlin\nA day in the Life</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Posted on Friday, 14th at 4:13pm in Berlin\nA day in the Life\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/e82a39cb7c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Posted on Friday, 14th at 4:13pm in Berlin\nA day in the Life\n\n<img src=\"uploads/2022/e82a39cb7c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-14T16:14:32+02:00",
 				"url": "https://holgerfrohloff.de/2022/10/14/posted-on-friday.html"
 			},
@@ -735,7 +743,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/10/07/mehr-herbst.html",
 				
 				"content_html": "<p>Mehr Herbst</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Mehr Herbst \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/8840768311.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Mehr Herbst \n\n<img src=\"uploads/2022/8840768311.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-07T21:44:24+02:00",
 				"url": "https://holgerfrohloff.de/2022/10/07/mehr-herbst.html"
 			},
@@ -743,7 +751,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/10/07/tri-tra-tralala.html",
 				
 				"content_html": "<p>Tri Tra Tralala der Herbst ist da.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tri Tra Tralala der Herbst ist da. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/50e27b51f9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Tri Tra Tralala der Herbst ist da. \n\n<img src=\"uploads/2022/50e27b51f9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-07T08:18:54+02:00",
 				"url": "https://holgerfrohloff.de/2022/10/07/tri-tra-tralala.html"
 			},
@@ -759,7 +767,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/10/05/heute-mal-ein.html",
 				
 				"content_html": "<p>Heute mal ein neues Büro probearbeiten mit Sicht auf den Amazon Tower</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Heute mal ein neues Büro probearbeiten mit Sicht auf den Amazon Tower\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/fe408866db.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Heute mal ein neues Büro probearbeiten mit Sicht auf den Amazon Tower\n\n<img src=\"uploads/2022/fe408866db.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-05T08:55:34+02:00",
 				"url": "https://holgerfrohloff.de/2022/10/05/heute-mal-ein.html"
 			},
@@ -776,7 +784,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/10/04/was-mchte-mir.html",
 				
 				"content_html": "<p>Was möchte mir der Autor damit sagen? Ich verstehe es wirklich nicht.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Was möchte mir der Autor damit sagen? Ich verstehe es wirklich nicht. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/f5aed11d36.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "Was möchte mir der Autor damit sagen? Ich verstehe es wirklich nicht. \n\n<img src=\"uploads/2022/f5aed11d36.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-04T13:45:31+02:00",
 				"url": "https://holgerfrohloff.de/2022/10/04/was-mchte-mir.html"
 			},
@@ -784,7 +792,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/09/27/christian-heilmann-codepo.html",
 				
 				"content_html": "<p>Christian Heilmann @codepo8 giving a talk in front of 🚢 in Hamburg at web-developer-conference 🥳</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Christian Heilmann @codepo8 giving a talk in front of 🚢 in Hamburg at web-developer-conference 🥳\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/c66118e8e3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Christian Heilmann @codepo8 giving a talk in front of 🚢 in Hamburg at web-developer-conference 🥳\n\n<img src=\"uploads/2022/c66118e8e3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-09-27T09:40:56+02:00",
 				"url": "https://holgerfrohloff.de/2022/09/27/christian-heilmann-codepo.html"
 			},
@@ -792,7 +800,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/09/26/ich-lasse-seit.html",
 				
 				"content_html": "<p>Ich lasse seit drei Tagen einen <a href=\"https://snowflake.torproject.org/\">Snowflake</a> Proxy in Docker auf meinem Rechner laufen.\nBisher bewirkt es nix Schlechtes für mich und hoffentlich etwas Hilfe da wo sie gebraucht wird.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ich lasse seit drei Tagen einen [Snowflake](https://snowflake.torproject.org/) Proxy in Docker auf meinem Rechner laufen.\nBisher bewirkt es nix Schlechtes für mich und hoffentlich etwas Hilfe da wo sie gebraucht wird.\n\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/684517827f.png\" width=\"600\" height=\"310\" alt=\"\" />\n",
+				"content_text": "Ich lasse seit drei Tagen einen [Snowflake](https://snowflake.torproject.org/) Proxy in Docker auf meinem Rechner laufen.\nBisher bewirkt es nix Schlechtes für mich und hoffentlich etwas Hilfe da wo sie gebraucht wird.\n\n\n<img src=\"uploads/2022/684517827f.png\" width=\"600\" height=\"310\" alt=\"\" />\n",
 				"date_published": "2022-09-26T10:47:11+02:00",
 				"url": "https://holgerfrohloff.de/2022/09/26/ich-lasse-seit.html"
 			},
@@ -800,7 +808,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/09/23/nachher-gibt-es.html",
 				
 				"content_html": "<p>Nachher gibt es endlich mal wieder Baked Oats zum Mittag. 😋😋😋</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Nachher gibt es endlich mal wieder Baked Oats zum Mittag. 😋😋😋\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/1a20944d3f.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "Nachher gibt es endlich mal wieder Baked Oats zum Mittag. 😋😋😋\n\n<img src=\"uploads/2022/1a20944d3f.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-09-23T10:07:06+02:00",
 				"url": "https://holgerfrohloff.de/2022/09/23/nachher-gibt-es.html"
 			},
@@ -808,7 +816,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/09/23/den-morgen-mit.html",
 				
 				"content_html": "<p>Den Morgen mit Radeln in der Garage beginnen. Eine Stunde Grundlage 😍😅</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Den Morgen mit Radeln in der Garage beginnen. Eine Stunde Grundlage 😍😅\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/c7023f8ef3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Den Morgen mit Radeln in der Garage beginnen. Eine Stunde Grundlage 😍😅\n\n<img src=\"uploads/2022/c7023f8ef3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-09-23T06:03:38+02:00",
 				"url": "https://holgerfrohloff.de/2022/09/23/den-morgen-mit.html"
 			},
@@ -824,7 +832,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/06/10/this-morning-i.html",
 				
 				"content_html": "<p>This morning I was able to gather quite a few strawberries 🍓 from our garden. 😍</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This morning I was able to gather quite a few strawberries 🍓 from our garden. 😍\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/54d6f6dd53.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "This morning I was able to gather quite a few strawberries 🍓 from our garden. 😍\n\n<img src=\"uploads/2022/54d6f6dd53.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-10T07:18:36+02:00",
 				"url": "https://holgerfrohloff.de/2022/06/10/this-morning-i.html"
 			},
@@ -832,7 +840,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/06/09/really-made-my.html",
 				
 				"content_html": "<p>Really made my day. What a wonderful comment.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Really made my day. What a wonderful comment. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/a7d9aed700.png\" width=\"529\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Really made my day. What a wonderful comment. \n\n<img src=\"uploads/2022/a7d9aed700.png\" width=\"529\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-09T07:18:47+02:00",
 				"url": "https://holgerfrohloff.de/2022/06/09/really-made-my.html"
 			},
@@ -856,7 +864,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/06/02/just-discovered-a.html",
 				
 				"content_html": "<p>Just discovered a bug in the newest releaes of the Microblog for Mac app <a href=\"https://micro.blog/manton\">@manton</a> (let&rsquo;s see if attaching a .mov file works here…)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Just discovered a bug in the newest releaes of the Microblog for Mac app [@manton](https://micro.blog/manton) (let's see if attaching a .mov file works here…)\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/8969/2022/822f10f433.mov\" width=\"536\" height=\"640\" poster=\"https://holgerfrohloff.de/uploads/2022/5618bf03f3.png\" preload=\"none\"></video>\n",
+				"content_text": "Just discovered a bug in the newest releaes of the Microblog for Mac app [@manton](https://micro.blog/manton) (let's see if attaching a .mov file works here…)\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://holgerfrohloff.de/uploads/2022/822f10f433.mov\" width=\"536\" height=\"640\" poster=\"https://holgerfrohloff.de/uploads/2022/5618bf03f3.png\" preload=\"none\"></video>\n",
 				"date_published": "2022-06-02T11:19:43+02:00",
 				"url": "https://holgerfrohloff.de/2022/06/02/just-discovered-a.html"
 			},
@@ -880,7 +888,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/05/23/macos-makes-it.html",
 				"title": "MacOs 12 makes it harder to know the selected keyboard layout",
 				"content_html": "<p>MacOS 12.4 changes the display of the selected keyboard layout. Before 12.4 it used to be a country&rsquo;s flag. I could discern the selected layout from glancing to the menu bar and recognize the flag (US or Germany). That was quick and easy.\nNow they changed it to show two white-ish letters or black background.</p>\n<p>I have to read the actual letters to know the layout. I don&rsquo;t think this really helps anything. It only makes things look more similar, uniform and boring.\nMaybe there is a setting to revert that back to colorful country flags, but I am not hopeful. 😑</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "MacOS 12.4 changes the display of the selected keyboard layout. Before 12.4 it used to be a country's flag. I could discern the selected layout from glancing to the menu bar and recognize the flag (US or Germany). That was quick and easy.\r\nNow they changed it to show two white-ish letters or black background. \r\n\r\nI have to read the actual letters to know the layout. I don't think this really helps anything. It only makes things look more similar, uniform and boring.\r\nMaybe there is a setting to revert that back to colorful country flags, but I am not hopeful. 😑\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/fb4c5bea39.png\" width=\"600\" height=\"46\" alt=\"\" />\n",
+				"content_text": "MacOS 12.4 changes the display of the selected keyboard layout. Before 12.4 it used to be a country's flag. I could discern the selected layout from glancing to the menu bar and recognize the flag (US or Germany). That was quick and easy.\r\nNow they changed it to show two white-ish letters or black background. \r\n\r\nI have to read the actual letters to know the layout. I don't think this really helps anything. It only makes things look more similar, uniform and boring.\r\nMaybe there is a setting to revert that back to colorful country flags, but I am not hopeful. 😑\r\n\n\n<img src=\"uploads/2022/fb4c5bea39.png\" width=\"600\" height=\"46\" alt=\"\" />\n",
 				"date_published": "2022-05-23T10:00:28+02:00",
 				"url": "https://holgerfrohloff.de/2022/05/23/macos-makes-it.html"
 			},
@@ -904,7 +912,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/05/13/and-this-is.html",
 				
 				"content_html": "<p>And this is how it looks:</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "And this is how it looks:\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/e20793b0a0.png\" width=\"600\" height=\"306\" alt=\"\" />\n",
+				"content_text": "And this is how it looks:\r\n\n\n<img src=\"uploads/2022/e20793b0a0.png\" width=\"600\" height=\"306\" alt=\"\" />\n",
 				"date_published": "2022-05-13T09:51:05+02:00",
 				"url": "https://holgerfrohloff.de/2022/05/13/and-this-is.html"
 			},
@@ -912,7 +920,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/05/13/i-just-found.html",
 				
 				"content_html": "<p>I just found the setting how to use TailwindCSS css classes autocompletion in <code>html.erb</code> files. Now I can type the beginning of the class name and TailwindCSS will show me matching autocompletion, even for my html.erb files. 🎉</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I just found the setting how to use TailwindCSS css classes autocompletion in `html.erb` files. Now I can type the beginning of the class name and TailwindCSS will show me matching autocompletion, even for my html.erb files. 🎉\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/9c80e2c1b7.png\" width=\"600\" height=\"256\" alt=\"\" />\n",
+				"content_text": "I just found the setting how to use TailwindCSS css classes autocompletion in `html.erb` files. Now I can type the beginning of the class name and TailwindCSS will show me matching autocompletion, even for my html.erb files. 🎉\r\n\n\n<img src=\"uploads/2022/9c80e2c1b7.png\" width=\"600\" height=\"256\" alt=\"\" />\n",
 				"date_published": "2022-05-13T09:50:11+02:00",
 				"url": "https://holgerfrohloff.de/2022/05/13/i-just-found.html"
 			},
@@ -943,8 +951,8 @@
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/05/10/netlify-lets-you.html",
 				
-				"content_html": "<p>Netlify let&rsquo;s you play a little game of matching Emojis while you wait for your deploy to finish. That&rsquo;s cute. 🤩\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/327513d02f.jpg\" alt=\"86BA9F15-12DD-4A18-93E1-C4C39FE45F9B.jpg\"></p>\n",
-				"content_text": "Netlify let's you play a little game of matching Emojis while you wait for your deploy to finish. That's cute. 🤩\n![86BA9F15-12DD-4A18-93E1-C4C39FE45F9B.jpg](https://cdn.uploads.micro.blog/8969/2022/327513d02f.jpg)\n",
+				"content_html": "<p>Netlify let&rsquo;s you play a little game of matching Emojis while you wait for your deploy to finish. That&rsquo;s cute. 🤩\n<img src=\"https://holgerfrohloff.de/uploads/2022/327513d02f.jpg\" alt=\"86BA9F15-12DD-4A18-93E1-C4C39FE45F9B.jpg\"></p>\n",
+				"content_text": "Netlify let's you play a little game of matching Emojis while you wait for your deploy to finish. That's cute. 🤩\n![86BA9F15-12DD-4A18-93E1-C4C39FE45F9B.jpg](https://holgerfrohloff.de/uploads/2022/327513d02f.jpg)\n",
 				"date_published": "2022-05-10T17:45:21+02:00",
 				"url": "https://holgerfrohloff.de/2022/05/10/netlify-lets-you.html"
 			},
@@ -984,7 +992,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2022/05/04/riding-on-zwift.html",
 				
 				"content_html": "<p>Riding on Zwift (aka commuting to the wfh office) and reading <a href=\"https://micro.blog/manton\">@manton</a>’s book (at book.micro.blog) on microblogging and the open web. 🥳</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Riding on Zwift (aka commuting to the wfh office) and reading [@manton](https://micro.blog/manton)’s book (at book.micro.blog) on microblogging and the open web. 🥳\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/e5873dae13.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Riding on Zwift (aka commuting to the wfh office) and reading [@manton](https://micro.blog/manton)’s book (at book.micro.blog) on microblogging and the open web. 🥳\n\n<img src=\"uploads/2022/e5873dae13.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-04T08:23:45+02:00",
 				"url": "https://holgerfrohloff.de/2022/05/04/riding-on-zwift.html"
 			},
@@ -1137,7 +1145,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2019/05/18/on-my-way.html",
 				
 				"content_html": "<p>On my way to Leipzig by train. Once I get there I will head back to Berlin. On my bike. I heard someone call this nonsense 🤣</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "On my way to Leipzig by train. Once I get there I will head back to Berlin. On my bike. I heard someone call this nonsense 🤣\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2019/9632089800.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "On my way to Leipzig by train. Once I get there I will head back to Berlin. On my bike. I heard someone call this nonsense 🤣\n\n<img src=\"uploads/2019/9632089800.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-05-18T09:21:16+02:00",
 				"url": "https://holgerfrohloff.de/2019/05/18/on-my-way.html"
 			},
@@ -1161,7 +1169,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2019/05/14/this-morning-i.html",
 				
 				"content_html": "<p>This morning I took some detours on my way to my client by bike. I rode through some parks, chose small streets and enjoyed myself on my @8barbikes adventure bike. I‘m very much in love.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This morning I took some detours on my way to my client by bike. I rode through some parks, chose small streets and enjoyed myself on my @8barbikes adventure bike. I‘m very much in love. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2019/67582f251a.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "This morning I took some detours on my way to my client by bike. I rode through some parks, chose small streets and enjoyed myself on my @8barbikes adventure bike. I‘m very much in love. \n\n<img src=\"uploads/2019/67582f251a.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2019-05-14T19:41:32+02:00",
 				"url": "https://holgerfrohloff.de/2019/05/14/this-morning-i.html"
 			},
@@ -1220,7 +1228,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2019/03/13/today-i-am.html",
 				
 				"content_html": "<p>Today I am working on a new visualization of fragmentation of ownership for Git repositories. The more fragmented a repo is, the more developers work on it together. This leads to no clear ownership and makes it easier for defects to creep into the code.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today I am working on a new visualization of fragmentation of ownership for Git repositories. The more fragmented a repo is, the more developers work on it together. This leads to no clear ownership and makes it easier for defects to creep into the code. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2019/901bbd362c.jpg\" width=\"600\" height=\"367\" alt=\"\" />\n",
+				"content_text": "Today I am working on a new visualization of fragmentation of ownership for Git repositories. The more fragmented a repo is, the more developers work on it together. This leads to no clear ownership and makes it easier for defects to creep into the code. \n\n<img src=\"uploads/2019/901bbd362c.jpg\" width=\"600\" height=\"367\" alt=\"\" />\n",
 				"date_published": "2019-03-13T12:27:40+02:00",
 				"url": "https://holgerfrohloff.de/2019/03/13/today-i-am.html"
 			},
@@ -1252,8 +1260,8 @@
 			{
 				"id": "http://holgerfrohloff.micro.blog/2019/03/11/code-coverage-can.html",
 				"title": "Code coverage can be misleading",
-				"content_html": "<p>During the last week, I had two discussions about code coverage. Code coverage is the metric of how many lines of code are covered by your automated test suite. Many test frameworks have built-in ways to measure this. Other times you have to install another tool manually. When you run your tests you then see how many lines are not <em>covered</em> by a test. That means that no test was run where this line of code was <em>evaluated</em> or <em>executed</em> or <em>interpreted</em>.</p>\n<p>When you reach 100% code coverage, what then? Are you done? Could you guarantee that there are absolutely no bugs in your code?</p>\n<p>If you are tempted to say <em>Yes</em>, or <em>&ldquo;maybe?&quot;</em> then let me tell you that you are wrong.</p>\n<p>Consider this piece of code.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/wp-content/8969/2019/03/carbon.png\" alt=\"\" title=\"code coverage error\"></p>\n<p>If you write a unit test for this method, the line <code>eval...</code> will be interpreted because of the <code>if emergency</code> at the end. The line is thus covered.\nBut the code is not covered or tested.</p>\n<p>Admittedly, this is a very trivial example that I made up. In reality, there are some more profound things to consider.</p>\n<p>If you have complex conditionals you might need a logic table where you compare all possible combinations of the atomic parts of the conditional.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/wp-content/8969/2019/03/conditionals.png\" alt=\"\" title=\"Conditionals\"></p>\n<p>You cannot possibly evaluate this in your head and know whether you checked for every possible, sensible combination. Yet when you cover that line you are at 100% coverage and can go home, right?</p>\n<p>So what do you do? Let&rsquo;s look at this tomorrow.</p>\n",
-				"content_text": "\n\nDuring the last week, I had two discussions about code coverage. Code coverage is the metric of how many lines of code are covered by your automated test suite. Many test frameworks have built-in ways to measure this. Other times you have to install another tool manually. When you run your tests you then see how many lines are not _covered_ by a test. That means that no test was run where this line of code was _evaluated_ or _executed_ or _interpreted_.\n\nWhen you reach 100% code coverage, what then? Are you done? Could you guarantee that there are absolutely no bugs in your code?\n\nIf you are tempted to say _Yes_, or _\"maybe?\"_ then let me tell you that you are wrong.\n\nConsider this piece of code.\n\n![][image-1]\n\nIf you write a unit test for this method, the line `eval...` will be interpreted because of the `if emergency` at the end. The line is thus covered.\nBut the code is not covered or tested.\n\nAdmittedly, this is a very trivial example that I made up. In reality, there are some more profound things to consider.\n\nIf you have complex conditionals you might need a logic table where you compare all possible combinations of the atomic parts of the conditional.\n\n![][image-2]\n\nYou cannot possibly evaluate this in your head and know whether you checked for every possible, sensible combination. Yet when you cover that line you are at 100% coverage and can go home, right?\n\nSo what do you do? Let's look at this tomorrow.\n\n[image-1]:\thttps://cdn.uploads.micro.blog/wp-content/8969/2019/03/carbon.png \"code coverage error\"\n[image-2]:\thttps://cdn.uploads.micro.blog/wp-content/8969/2019/03/conditionals.png \"Conditionals\"\n",
+				"content_html": "<p>During the last week, I had two discussions about code coverage. Code coverage is the metric of how many lines of code are covered by your automated test suite. Many test frameworks have built-in ways to measure this. Other times you have to install another tool manually. When you run your tests you then see how many lines are not <em>covered</em> by a test. That means that no test was run where this line of code was <em>evaluated</em> or <em>executed</em> or <em>interpreted</em>.</p>\n<p>When you reach 100% code coverage, what then? Are you done? Could you guarantee that there are absolutely no bugs in your code?</p>\n<p>If you are tempted to say <em>Yes</em>, or <em>&ldquo;maybe?&quot;</em> then let me tell you that you are wrong.</p>\n<p>Consider this piece of code.</p>\n<p><img src=\"https://holgerfrohloff.de/wp-content/uploads/2019/03/carbon.png\" alt=\"\" title=\"code coverage error\"></p>\n<p>If you write a unit test for this method, the line <code>eval...</code> will be interpreted because of the <code>if emergency</code> at the end. The line is thus covered.\nBut the code is not covered or tested.</p>\n<p>Admittedly, this is a very trivial example that I made up. In reality, there are some more profound things to consider.</p>\n<p>If you have complex conditionals you might need a logic table where you compare all possible combinations of the atomic parts of the conditional.</p>\n<p><img src=\"https://holgerfrohloff.de/wp-content/uploads/2019/03/conditionals.png\" alt=\"\" title=\"Conditionals\"></p>\n<p>You cannot possibly evaluate this in your head and know whether you checked for every possible, sensible combination. Yet when you cover that line you are at 100% coverage and can go home, right?</p>\n<p>So what do you do? Let&rsquo;s look at this tomorrow.</p>\n",
+				"content_text": "\n\nDuring the last week, I had two discussions about code coverage. Code coverage is the metric of how many lines of code are covered by your automated test suite. Many test frameworks have built-in ways to measure this. Other times you have to install another tool manually. When you run your tests you then see how many lines are not _covered_ by a test. That means that no test was run where this line of code was _evaluated_ or _executed_ or _interpreted_.\n\nWhen you reach 100% code coverage, what then? Are you done? Could you guarantee that there are absolutely no bugs in your code?\n\nIf you are tempted to say _Yes_, or _\"maybe?\"_ then let me tell you that you are wrong.\n\nConsider this piece of code.\n\n![][image-1]\n\nIf you write a unit test for this method, the line `eval...` will be interpreted because of the `if emergency` at the end. The line is thus covered.\nBut the code is not covered or tested.\n\nAdmittedly, this is a very trivial example that I made up. In reality, there are some more profound things to consider.\n\nIf you have complex conditionals you might need a logic table where you compare all possible combinations of the atomic parts of the conditional.\n\n![][image-2]\n\nYou cannot possibly evaluate this in your head and know whether you checked for every possible, sensible combination. Yet when you cover that line you are at 100% coverage and can go home, right?\n\nSo what do you do? Let's look at this tomorrow.\n\n[image-1]:\thttps://holgerfrohloff.de/wp-content/uploads/2019/03/carbon.png \"code coverage error\"\n[image-2]:\thttps://holgerfrohloff.de/wp-content/uploads/2019/03/conditionals.png \"Conditionals\"\n",
 				"date_published": "2019-03-11T02:00:00+02:00",
 				"url": "https://holgerfrohloff.de/2019/03/11/code-coverage-can.html",
 				"tags": ["article","testing"]
@@ -1279,8 +1287,8 @@
 			{
 				"id": "http://holgerfrohloff.micro.blog/2019/03/05/quick-wins-part.html",
 				"title": "Quick wins, part 2: Method names revisited",
-				"content_html": "<p>Yesterday, we had the first part of this series on quick wins and simple steps to improve your code quality. It was about naming — specifically variables and method names.</p>\n<p>Two things were not 100% right in these examples.</p>\n<h2 id=\"the-first-error\">The first error</h2>\n<p>You might have noticed that my loop examples were written in Ruby code. Yet the method name <code>doSomething</code> was written in <em>camelCase</em>. This is unusual for Ruby code where developers tend to use <em>snake_case</em> for method names.\nI did not lint that email. Hence no robot told me about my error. I believe it is a good example of the benefit of automatic linting. This error would have been found. If you read the code and were put off by this naming scheme, you even experienced why conventions and rules are necessary: Because coding by the rules helps developers to focus on the semantics of the code, not the syntax.</p>\n<h2 id=\"the-second-problem\">The second problem</h2>\n<p>Do you remember that I wrote about JavaScript loops and gave the classic <code>for</code> loop example? I complained about the <code>i</code> variable and that it should be called <code>iterator</code>. Perhaps you did not like this idea and my example? Let me take a step back for a second.\nWhen naming variables and method names, you have to make sure they &ldquo;speak.&rdquo; The names should indicate their meaning and make it easier for another developer to understand the semantics of your code. Yet, when you are fully aware of the problem domain you code deals with, it can happen that you try to be <strong>too specific</strong>. If you are, you tend to use long, verbose names for variables and methods. An example could be this:</p>\n<p><img src=\"https://cdn.uploads.micro.blog/wp-content/8969/2019/03/example1.png\" alt=\"\">\nA common value for the allowed length of method names is 30 chars. The above example could be broken into two methods.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/wp-content/8969/2019/03/example2.png\" alt=\"\">\nThe next possible quick win might be to think about the existence of these methods inside the <code>Article</code> class. Verifying and fixing meta tags surely does not need to be done inside this class. If you want to follow the Single Responsibility Principle, you should make sure that the Article class does not have a reason to change, if you decide to change something about verifying and fixing meta tags. Rather the Article class might change when you decide that an article should have a mandatory sub-headline.</p>\n<p>Back to the <code>iterator</code>. This name could pass the test for <em>too specific</em>. Only, when <code>i</code> refers to a variable that is declared and initialized <strong>outside</strong> of the scope of the loop, does it make sense to choose a different name. Or doesn&rsquo;t it? As always it depends. The classic for loop is taught in almost every book on JavaScript, and it is easily identifiable as to what it is. But there might be reasons to deviate from that, as I indicated above.</p>\n<h2 id=\"conclusion\">Conclusion</h2>\n<p>To summarize:</p>\n<ol>\n<li>Choose good names. 😎</li>\n<li>Spot places where knowledge about something does not belong.</li>\n</ol>\n<p>Tomorrow we&rsquo;ll look at another example for 2 and a practical idea of what to do about it.</p>\n",
-				"content_text": "\n\nYesterday, we had the first part of this series on quick wins and simple steps to improve your code quality. It was about naming — specifically variables and method names.\n\nTwo things were not 100% right in these examples.\n\n## The first error\n\nYou might have noticed that my loop examples were written in Ruby code. Yet the method name `doSomething` was written in _camelCase_. This is unusual for Ruby code where developers tend to use _snake\\_case_ for method names.\nI did not lint that email. Hence no robot told me about my error. I believe it is a good example of the benefit of automatic linting. This error would have been found. If you read the code and were put off by this naming scheme, you even experienced why conventions and rules are necessary: Because coding by the rules helps developers to focus on the semantics of the code, not the syntax.\n\n## The second problem\n\nDo you remember that I wrote about JavaScript loops and gave the classic `for` loop example? I complained about the `i` variable and that it should be called `iterator`. Perhaps you did not like this idea and my example? Let me take a step back for a second.\nWhen naming variables and method names, you have to make sure they \"speak.\" The names should indicate their meaning and make it easier for another developer to understand the semantics of your code. Yet, when you are fully aware of the problem domain you code deals with, it can happen that you try to be **too specific**. If you are, you tend to use long, verbose names for variables and methods. An example could be this:\n\n![][image-1]\nA common value for the allowed length of method names is 30 chars. The above example could be broken into two methods.\n\n![][image-2]\nThe next possible quick win might be to think about the existence of these methods inside the `Article` class. Verifying and fixing meta tags surely does not need to be done inside this class. If you want to follow the Single Responsibility Principle, you should make sure that the Article class does not have a reason to change, if you decide to change something about verifying and fixing meta tags. Rather the Article class might change when you decide that an article should have a mandatory sub-headline.\n\nBack to the `iterator`. This name could pass the test for _too specific_. Only, when `i` refers to a variable that is declared and initialized **outside** of the scope of the loop, does it make sense to choose a different name. Or doesn't it? As always it depends. The classic for loop is taught in almost every book on JavaScript, and it is easily identifiable as to what it is. But there might be reasons to deviate from that, as I indicated above.\n\n## Conclusion\n\nTo summarize:\n1. Choose good names. 😎\n2. Spot places where knowledge about something does not belong.\n\nTomorrow we'll look at another example for 2 and a practical idea of what to do about it.\n\n[image-1]:\thttps://cdn.uploads.micro.blog/wp-content/8969/2019/03/example1.png\n[image-2]:\thttps://cdn.uploads.micro.blog/wp-content/8969/2019/03/example2.png\n",
+				"content_html": "<p>Yesterday, we had the first part of this series on quick wins and simple steps to improve your code quality. It was about naming — specifically variables and method names.</p>\n<p>Two things were not 100% right in these examples.</p>\n<h2 id=\"the-first-error\">The first error</h2>\n<p>You might have noticed that my loop examples were written in Ruby code. Yet the method name <code>doSomething</code> was written in <em>camelCase</em>. This is unusual for Ruby code where developers tend to use <em>snake_case</em> for method names.\nI did not lint that email. Hence no robot told me about my error. I believe it is a good example of the benefit of automatic linting. This error would have been found. If you read the code and were put off by this naming scheme, you even experienced why conventions and rules are necessary: Because coding by the rules helps developers to focus on the semantics of the code, not the syntax.</p>\n<h2 id=\"the-second-problem\">The second problem</h2>\n<p>Do you remember that I wrote about JavaScript loops and gave the classic <code>for</code> loop example? I complained about the <code>i</code> variable and that it should be called <code>iterator</code>. Perhaps you did not like this idea and my example? Let me take a step back for a second.\nWhen naming variables and method names, you have to make sure they &ldquo;speak.&rdquo; The names should indicate their meaning and make it easier for another developer to understand the semantics of your code. Yet, when you are fully aware of the problem domain you code deals with, it can happen that you try to be <strong>too specific</strong>. If you are, you tend to use long, verbose names for variables and methods. An example could be this:</p>\n<p><img src=\"https://holgerfrohloff.de/wp-content/uploads/2019/03/example1.png\" alt=\"\">\nA common value for the allowed length of method names is 30 chars. The above example could be broken into two methods.</p>\n<p><img src=\"https://holgerfrohloff.de/wp-content/uploads/2019/03/example2.png\" alt=\"\">\nThe next possible quick win might be to think about the existence of these methods inside the <code>Article</code> class. Verifying and fixing meta tags surely does not need to be done inside this class. If you want to follow the Single Responsibility Principle, you should make sure that the Article class does not have a reason to change, if you decide to change something about verifying and fixing meta tags. Rather the Article class might change when you decide that an article should have a mandatory sub-headline.</p>\n<p>Back to the <code>iterator</code>. This name could pass the test for <em>too specific</em>. Only, when <code>i</code> refers to a variable that is declared and initialized <strong>outside</strong> of the scope of the loop, does it make sense to choose a different name. Or doesn&rsquo;t it? As always it depends. The classic for loop is taught in almost every book on JavaScript, and it is easily identifiable as to what it is. But there might be reasons to deviate from that, as I indicated above.</p>\n<h2 id=\"conclusion\">Conclusion</h2>\n<p>To summarize:</p>\n<ol>\n<li>Choose good names. 😎</li>\n<li>Spot places where knowledge about something does not belong.</li>\n</ol>\n<p>Tomorrow we&rsquo;ll look at another example for 2 and a practical idea of what to do about it.</p>\n",
+				"content_text": "\n\nYesterday, we had the first part of this series on quick wins and simple steps to improve your code quality. It was about naming — specifically variables and method names.\n\nTwo things were not 100% right in these examples.\n\n## The first error\n\nYou might have noticed that my loop examples were written in Ruby code. Yet the method name `doSomething` was written in _camelCase_. This is unusual for Ruby code where developers tend to use _snake\\_case_ for method names.\nI did not lint that email. Hence no robot told me about my error. I believe it is a good example of the benefit of automatic linting. This error would have been found. If you read the code and were put off by this naming scheme, you even experienced why conventions and rules are necessary: Because coding by the rules helps developers to focus on the semantics of the code, not the syntax.\n\n## The second problem\n\nDo you remember that I wrote about JavaScript loops and gave the classic `for` loop example? I complained about the `i` variable and that it should be called `iterator`. Perhaps you did not like this idea and my example? Let me take a step back for a second.\nWhen naming variables and method names, you have to make sure they \"speak.\" The names should indicate their meaning and make it easier for another developer to understand the semantics of your code. Yet, when you are fully aware of the problem domain you code deals with, it can happen that you try to be **too specific**. If you are, you tend to use long, verbose names for variables and methods. An example could be this:\n\n![][image-1]\nA common value for the allowed length of method names is 30 chars. The above example could be broken into two methods.\n\n![][image-2]\nThe next possible quick win might be to think about the existence of these methods inside the `Article` class. Verifying and fixing meta tags surely does not need to be done inside this class. If you want to follow the Single Responsibility Principle, you should make sure that the Article class does not have a reason to change, if you decide to change something about verifying and fixing meta tags. Rather the Article class might change when you decide that an article should have a mandatory sub-headline.\n\nBack to the `iterator`. This name could pass the test for _too specific_. Only, when `i` refers to a variable that is declared and initialized **outside** of the scope of the loop, does it make sense to choose a different name. Or doesn't it? As always it depends. The classic for loop is taught in almost every book on JavaScript, and it is easily identifiable as to what it is. But there might be reasons to deviate from that, as I indicated above.\n\n## Conclusion\n\nTo summarize:\n1. Choose good names. 😎\n2. Spot places where knowledge about something does not belong.\n\nTomorrow we'll look at another example for 2 and a practical idea of what to do about it.\n\n[image-1]:\thttps://holgerfrohloff.de/wp-content/uploads/2019/03/example1.png\n[image-2]:\thttps://holgerfrohloff.de/wp-content/uploads/2019/03/example2.png\n",
 				"date_published": "2019-03-05T02:00:00+02:00",
 				"url": "https://holgerfrohloff.de/2019/03/05/quick-wins-part.html",
 				"tags": ["article"]
