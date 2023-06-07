@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://holgerfrohloff.micro.blog/2023/06/07/finished-reading-project.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593135228\">Project Hail Mary: A Novel</a> by Andy Weir 📚</p>\n<p>Inspiring, sometimes slightly overwhelming, thrilling and moving. A wonderful book. Recommended for everyone who likes science fiction.</p>\n",
+				"content_text": "Finished reading: [Project Hail Mary: A Novel](https://micro.blog/books/9780593135228) by Andy Weir 📚\r\n\r\nInspiring, sometimes slightly overwhelming, thrilling and moving. A wonderful book. Recommended for everyone who likes science fiction.\n",
+				"date_published": "2023-06-07T17:08:07+02:00",
+				"url": "https://holgerfrohloff.de/2023/06/07/finished-reading-project.html"
+			},
+			{
 				"id": "http://holgerfrohloff.micro.blog/2023/05/01/ausklang.html",
 				
 				"content_html": "<p>Ausklang</p>\n<!-- raw HTML omitted -->\n",
