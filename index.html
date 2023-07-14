@@ -25,6 +25,40 @@
 	  <div class="h-entry">
 		
 
+		<a href="https://holgerfrohloff.de/2023/07/14/currently-reading-recursion.html" class="u-url"><time class="dt-published" datetime="2023-07-14 08:15:28 &#43;0200">Jul 14, 2023</time></a>
+
+		<div class="e-content">
+			 <p>Currently reading: <a href="https://micro.blog/books/9781524759797">Recursion: A Novel</a> by Blake Crouch 📚</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://holgerfrohloff.de/2023/07/14/finished-reading-dust.html" class="u-url"><time class="dt-published" datetime="2023-07-14 08:14:53 &#43;0200">Jul 14, 2023</time></a>
+
+		<div class="e-content">
+			 <p>Finished reading: <a href="https://micro.blog/books/9780544838260">Dust (Silo Trilogy)</a> by Hugh Howey 📚
+What an amzing series this has been. Incredible!</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://holgerfrohloff.de/2023/06/22/currently-reading-dust.html" class="u-url"><time class="dt-published" datetime="2023-06-22 09:40:46 &#43;0200">Jun 22, 2023</time></a>
+
+		<div class="e-content">
+			 <p>Currently reading: <a href="https://micro.blog/books/9780544838260">Dust (Silo Trilogy)</a> by Hugh Howey 📚</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
 		<a href="https://holgerfrohloff.de/2023/06/22/finished-reading-shift.html" class="u-url"><time class="dt-published" datetime="2023-06-22 09:40:22 &#43;0200">Jun 22, 2023</time></a>
 
 		<div class="e-content">
@@ -1529,7 +1563,7 @@ You&rsquo;d need to be a senior-ish level developer, able to review React (JS &a
 
 		<div class="e-content">
 			 <p>Netlify let&rsquo;s you play a little game of matching Emojis while you wait for your deploy to finish. That&rsquo;s cute. 🤩
-<img src="https://holgerfrohloff.de/uploads/2022/327513d02f.jpg" alt="86BA9F15-12DD-4A18-93E1-C4C39FE45F9B.jpg"></p>
+<img src="https://cdn.uploads.micro.blog/8969/2022/327513d02f.jpg" alt="86BA9F15-12DD-4A18-93E1-C4C39FE45F9B.jpg"></p>
 
 		</div>
 	  </div>
@@ -2181,12 +2215,12 @@ What you have to do is create a table.</p>
 <p>When you reach 100% code coverage, what then? Are you done? Could you guarantee that there are absolutely no bugs in your code?</p>
 <p>If you are tempted to say <em>Yes</em>, or <em>&ldquo;maybe?&quot;</em> then let me tell you that you are wrong.</p>
 <p>Consider this piece of code.</p>
-<p><img src="https://holgerfrohloff.de/wp-content/uploads/2019/03/carbon.png" alt="" title="code coverage error"></p>
+<p><img src="https://cdn.uploads.micro.blog/wp-content/8969/2019/03/carbon.png" alt="" title="code coverage error"></p>
 <p>If you write a unit test for this method, the line <code>eval...</code> will be interpreted because of the <code>if emergency</code> at the end. The line is thus covered.
 But the code is not covered or tested.</p>
 <p>Admittedly, this is a very trivial example that I made up. In reality, there are some more profound things to consider.</p>
 <p>If you have complex conditionals you might need a logic table where you compare all possible combinations of the atomic parts of the conditional.</p>
-<p><img src="https://holgerfrohloff.de/wp-content/uploads/2019/03/conditionals.png" alt="" title="Conditionals"></p>
+<p><img src="https://cdn.uploads.micro.blog/wp-content/8969/2019/03/conditionals.png" alt="" title="Conditionals"></p>
 <p>You cannot possibly evaluate this in your head and know whether you checked for every possible, sensible combination. Yet when you cover that line you are at 100% coverage and can go home, right?</p>
 <p>So what do you do? Let&rsquo;s look at this tomorrow.</p>
 
@@ -2301,9 +2335,9 @@ I did not lint that email. Hence no robot told me about my error. I believe it i
 <h2 id="the-second-problem">The second problem</h2>
 <p>Do you remember that I wrote about JavaScript loops and gave the classic <code>for</code> loop example? I complained about the <code>i</code> variable and that it should be called <code>iterator</code>. Perhaps you did not like this idea and my example? Let me take a step back for a second.
 When naming variables and method names, you have to make sure they &ldquo;speak.&rdquo; The names should indicate their meaning and make it easier for another developer to understand the semantics of your code. Yet, when you are fully aware of the problem domain you code deals with, it can happen that you try to be <strong>too specific</strong>. If you are, you tend to use long, verbose names for variables and methods. An example could be this:</p>
-<p><img src="https://holgerfrohloff.de/wp-content/uploads/2019/03/example1.png" alt="">
+<p><img src="https://cdn.uploads.micro.blog/wp-content/8969/2019/03/example1.png" alt="">
 A common value for the allowed length of method names is 30 chars. The above example could be broken into two methods.</p>
-<p><img src="https://holgerfrohloff.de/wp-content/uploads/2019/03/example2.png" alt="">
+<p><img src="https://cdn.uploads.micro.blog/wp-content/8969/2019/03/example2.png" alt="">
 The next possible quick win might be to think about the existence of these methods inside the <code>Article</code> class. Verifying and fixing meta tags surely does not need to be done inside this class. If you want to follow the Single Responsibility Principle, you should make sure that the Article class does not have a reason to change, if you decide to change something about verifying and fixing meta tags. Rather the Article class might change when you decide that an article should have a mandatory sub-headline.</p>
 <p>Back to the <code>iterator</code>. This name could pass the test for <em>too specific</em>. Only, when <code>i</code> refers to a variable that is declared and initialized <strong>outside</strong> of the scope of the loop, does it make sense to choose a different name. Or doesn&rsquo;t it? As always it depends. The classic for loop is taught in almost every book on JavaScript, and it is easily identifiable as to what it is. But there might be reasons to deviate from that, as I indicated above.</p>
 <h2 id="conclusion">Conclusion</h2>
