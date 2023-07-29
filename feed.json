@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://holgerfrohloff.micro.blog/2023/07/29/finished-reading-a.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250236227\">A Psalm for the Wild-Built</a> by Becky Chambers 📚\nEin ruhiges Buch, bewegend und nachdenklich stimmend. Unterhaltsam und komisch. Kürzer als gedacht.</p>\n",
+				"content_text": "Finished reading: [A Psalm for the Wild-Built](https://micro.blog/books/9781250236227) by Becky Chambers 📚\nEin ruhiges Buch, bewegend und nachdenklich stimmend. Unterhaltsam und komisch. Kürzer als gedacht. \n",
+				"date_published": "2023-07-29T14:32:16+02:00",
+				"url": "https://holgerfrohloff.de/2023/07/29/finished-reading-a.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/07/20/currently-reading-a.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781250236227\">A Psalm for the Wild-Built</a> by Becky Chambers 📚</p>\n",
+				"content_text": "Currently reading: [A Psalm for the Wild-Built](https://micro.blog/books/9781250236227) by Becky Chambers 📚\n",
+				"date_published": "2023-07-20T23:21:43+02:00",
+				"url": "https://holgerfrohloff.de/2023/07/20/currently-reading-a.html"
+			},
+			{
 				"id": "http://holgerfrohloff.micro.blog/2023/07/20/finished-reading-recursion.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781524759797\">Recursion: A Novel</a> by Blake Crouch 📚\nHabe lange nicht mehr ein so fesselndes Buch gelesen. Plötzlich war es halb drei in der Früh! Keine Ahnung wo die Zeit hin war (passend!). Ich konnte es nicht weglegen.</p>\n",
