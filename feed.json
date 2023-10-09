@@ -7,6 +7,96 @@
 	"items": [
 		
 			{
+				"id": "http://holgerfrohloff.micro.blog/2023/10/06/currently-reading-assassins.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780007504015\">Royal Assassin</a> by Robin Hobb 📚</p>\n<p>Lese dann lieber den zweiten Teil weiter. Der erste war super!</p>\n",
+				"content_text": "Currently reading: [Royal Assassin](https://micro.blog/books/9780007504015) by Robin Hobb 📚\n\nLese dann lieber den zweiten Teil weiter. Der erste war super!\n",
+				"date_published": "2023-10-06T17:33:58+02:00",
+				"url": "https://holgerfrohloff.de/2023/10/06/currently-reading-assassins.html",
+				"tags": ["tagebuchbloggen"]
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/10/06/gestern-angefangen-zu.html",
+				
+				"content_html": "<p>Gestern angefangen zu lesen: <a href=\"https://micro.blog/books/9780062458735\">Fall; or, Dodge in Hell</a> by Neal Stephenson 📚\nheute aufgehört. Hat mich nach dem ersten Kapitel überhaupt nicht abgeholt.</p>\n",
+				"content_text": "Gestern angefangen zu lesen: [Fall; or, Dodge in Hell](https://micro.blog/books/9780062458735) by Neal Stephenson 📚\r\nheute aufgehört. Hat mich nach dem ersten Kapitel überhaupt nicht abgeholt.\n",
+				"date_published": "2023-10-06T17:31:26+02:00",
+				"url": "https://holgerfrohloff.de/2023/10/06/gestern-angefangen-zu.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/10/06/ich-habe-meine.html",
+				"title": "Ich habe meine Website umgezogen, komplett vom iPad aus",
+				"content_html": "<p>Bisher ist meine Unternehmens-Website mit fly.io auf AWS gehostet. Das ist <a href=\"https://www.websitecarbon.com/website/full-circle-software-consulting-de/\">nicht grün</a> und nicht gut. Tatsächlich habe ich mir bisher nicht die Zeit genommen, das zu ändern. Ich wusste, was ich ändern möchte — z.B. den Hoster. Aber im Alltag war mir anderes meist wichtiger.\nAuf der <a href=\"https://holgerfrohloff.de/2023/10/05/heute-auf-der.html\">Konferenz</a> war heute ein inspirierender Talk zu dem Thema, was wir als IT Professionals tun können, um einen Beitrag zu leisten die Stärke der Klimakatastrophe zu verringern.</p>\n<p>Ich hatte mein iPad dabei, also habe ich die Seite umgezogen. Dafür konnte ich die Blink Shell app nutzen, um mich per SSH zu meinem Server zu verbinden. Außerdem habe ich auf GitHub Codespaces die notwendigen Anpassungen am Code für die Next.js App gemacht und die GitHub Actions Workflow Datei geschrieben.\nUnd dann konnte ich committen und hatte einen Deploy, der nun wunderbar funktioniert wann immer ich Änderungen zu GitHub pushe.\nUnd nun läuft <a href=\"https://full-circle-software-consulting.de\">meine Website</a> auf einem deutschen Hoster und mit Strom aus erneuerbaren Ressourcen.</p>\n<p>Ich finde es toll, wie viel Arbeit mittlerweile am iPad möglich ist. Ich mag das ja immer wieder.</p>\n",
+				"content_text": "Bisher ist meine Unternehmens-Website mit fly.io auf AWS gehostet. Das ist [nicht grün](https://www.websitecarbon.com/website/full-circle-software-consulting-de/) und nicht gut. Tatsächlich habe ich mir bisher nicht die Zeit genommen, das zu ändern. Ich wusste, was ich ändern möchte — z.B. den Hoster. Aber im Alltag war mir anderes meist wichtiger.\r\nAuf der [Konferenz](https://holgerfrohloff.de/2023/10/05/heute-auf-der.html) war heute ein inspirierender Talk zu dem Thema, was wir als IT Professionals tun können, um einen Beitrag zu leisten die Stärke der Klimakatastrophe zu verringern.\r\n\r\nIch hatte mein iPad dabei, also habe ich die Seite umgezogen. Dafür konnte ich die Blink Shell app nutzen, um mich per SSH zu meinem Server zu verbinden. Außerdem habe ich auf GitHub Codespaces die notwendigen Anpassungen am Code für die Next.js App gemacht und die GitHub Actions Workflow Datei geschrieben.\r\nUnd dann konnte ich committen und hatte einen Deploy, der nun wunderbar funktioniert wann immer ich Änderungen zu GitHub pushe.\r\nUnd nun läuft [meine Website](https://full-circle-software-consulting.de) auf einem deutschen Hoster und mit Strom aus erneuerbaren Ressourcen.\r\n\r\nIch finde es toll, wie viel Arbeit mittlerweile am iPad möglich ist. Ich mag das ja immer wieder.\n",
+				"date_published": "2023-10-06T16:25:25+02:00",
+				"url": "https://holgerfrohloff.de/2023/10/06/ich-habe-meine.html",
+				"tags": ["article"]
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/10/06/hey-vincent-on.html",
+				
+				"content_html": "<p>Hey <a href=\"https://micro.blog/vincent\">@vincent</a>\non iPhone 13 mini if I create a new post with the latest version of the micro.blocg app on iOS the text does not scroll upwards, but keeps hiding behind the uploaded image. If I close the new post screen and reopen it, everything works as expected.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hey [@vincent](https://micro.blog/vincent) \non iPhone 13 mini if I create a new post with the latest version of the micro.blocg app on iOS the text does not scroll upwards, but keeps hiding behind the uploaded image. If I close the new post screen and reopen it, everything works as expected. \n\n<img src=\"uploads/2023/2612e0b4e0.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-10-06T08:41:05+02:00",
+				"url": "https://holgerfrohloff.de/2023/10/06/hey-vincent-on.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/10/06/visuelle-markierungen-im.html",
+				"title": "Visuelle Markierungen im ebook Reader",
+				"content_html": "<p>Als ich gerade diese Stelle markiert habe, fiel mir auf, dass die Trennungsstriche, (wie heißt das korrekt?) der getrennten Wörter auf der rechten Seite, nicht in der Markierung enthalten sind. Und ich vermute, dass das technisch gar nicht so einfach sein wird, bei den getrennten Wörtern zu berechnen, bis wohin die visuelle Darstellung der Markierung gehen soll.\nNa wie auch immer. Fiel mir grad auf. 😊</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Als ich gerade diese Stelle markiert habe, fiel mir auf, dass die Trennungsstriche, (wie heißt das korrekt?) der getrennten Wörter auf der rechten Seite, nicht in der Markierung enthalten sind. Und ich vermute, dass das technisch gar nicht so einfach sein wird, bei den getrennten Wörtern zu berechnen, bis wohin die visuelle Darstellung der Markierung gehen soll. \nNa wie auch immer. Fiel mir grad auf. 😊\n\n<img src=\"uploads/2023/5a98ae8725.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-10-06T08:39:12+02:00",
+				"url": "https://holgerfrohloff.de/2023/10/06/visuelle-markierungen-im.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/10/05/closing-keynote-heute.html",
+				
+				"content_html": "<p>Closing Keynote heute von <a href=\"https://micro.blog/claresudbery@mastodon.social\">@claresudbery@mastodon.social</a>\nmit Katzen!🐈\nSuper.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Closing Keynote heute von [@claresudbery@mastodon.social](https://micro.blog/claresudbery@mastodon.social)\nmit Katzen!🐈 \nSuper. \n\n<img src=\"uploads/2023/c4bd77391a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-10-05T17:22:05+02:00",
+				"url": "https://holgerfrohloff.de/2023/10/05/closing-keynote-heute.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/10/05/teenager-wlan.html",
+				"title": "Teenager Wlan",
+				"content_html": "<p>Seit ein paar Wochen spinnt unser Wlan daheim. Vielleicht zählen Wlan-Jahre doppelt oder so. Wir sind vor 6 Jahren in das Haus gezogen. Eventuell ist das Wlan jetzt also 12—Teenager halt. Und so benimmt es sich. Macht was es will, sagt „mir doch egal“ und „verschwinde“. Vor allem aber: „Lass mich in Ruhe!“ Und macht die Tür zu.</p>\n<p>Habe schon versucht die Fritz!box zurückzusetzen, schrecke aber vor der Neukonfiguration zurück. Mir ist bekannt, dass ich eine Config Datei speichern kann, aber ich traue dem Braten nicht. Neustart allein reicht aber nicht, also komme ich vermutlich doch nicht drum herum.</p>\n<p>Wie sich das Rumgezicke äußert? Die HomePods brechen einfach zwischendrin die Musikwiedergabe ab, und sind dann nicht mehr verbunden mit dem Internet.\nIn Videocalls ist die Verbindung manchmal schlecht, oder ganz weg.\nDie Sonos sind manchmal verbunden, manchmal nicht.\nUnd der Repeater in der ersten Etage muss ständig neu gestartet werden, damit da oben halbwegs Wlan ankommt.</p>\n<p>Es nervt.</p>\n",
+				"content_text": "Seit ein paar Wochen spinnt unser Wlan daheim. Vielleicht zählen Wlan-Jahre doppelt oder so. Wir sind vor 6 Jahren in das Haus gezogen. Eventuell ist das Wlan jetzt also 12—Teenager halt. Und so benimmt es sich. Macht was es will, sagt „mir doch egal“ und „verschwinde“. Vor allem aber: „Lass mich in Ruhe!“ Und macht die Tür zu. \n\nHabe schon versucht die Fritz!box zurückzusetzen, schrecke aber vor der Neukonfiguration zurück. Mir ist bekannt, dass ich eine Config Datei speichern kann, aber ich traue dem Braten nicht. Neustart allein reicht aber nicht, also komme ich vermutlich doch nicht drum herum. \n\nWie sich das Rumgezicke äußert? Die HomePods brechen einfach zwischendrin die Musikwiedergabe ab, und sind dann nicht mehr verbunden mit dem Internet. \nIn Videocalls ist die Verbindung manchmal schlecht, oder ganz weg. \nDie Sonos sind manchmal verbunden, manchmal nicht. \nUnd der Repeater in der ersten Etage muss ständig neu gestartet werden, damit da oben halbwegs Wlan ankommt. \n\nEs nervt. \n",
+				"date_published": "2023-10-05T17:13:51+02:00",
+				"url": "https://holgerfrohloff.de/2023/10/05/teenager-wlan.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/10/05/heute-auf-der.html",
+				
+				"content_html": "<p>Heute auf der Konferenz Agile meets Architecture in Berlin.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Heute auf der Konferenz Agile meets Architecture in Berlin. \n\n<img src=\"uploads/2023/d2c08f81b8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-10-05T10:36:24+02:00",
+				"url": "https://holgerfrohloff.de/2023/10/05/heute-auf-der.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/10/04/monotype-hat-fontshop.html",
+				
+				"content_html": "<p>Monotype hat Fontshop nun fast komplett kaputt gemacht. So traurig das Ganze.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Monotype hat Fontshop nun fast komplett kaputt gemacht. So traurig das Ganze.\n\n<img src=\"uploads/2023/b6e6e8c942.png\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-10-04T16:12:08+02:00",
+				"url": "https://holgerfrohloff.de/2023/10/04/monotype-hat-fontshop.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/10/04/currently-reading-this.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780525540847\">This Is Marketing: You Can&rsquo;t Be Seen Until You Learn to See</a> by Seth Godin 📚</p>\n",
+				"content_text": "Currently reading: [This Is Marketing: You Can't Be Seen Until You Learn to See](https://micro.blog/books/9780525540847) by Seth Godin 📚\n",
+				"date_published": "2023-10-04T13:07:45+02:00",
+				"url": "https://holgerfrohloff.de/2023/10/04/currently-reading-this.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/10/04/finished-reading-assassins.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780006480099\">Assassin&rsquo;s Apprentice</a> by Robin Hobb 📚</p>\n",
+				"content_text": "Finished reading: [Assassin's Apprentice](https://micro.blog/books/9780006480099) by Robin Hobb 📚\n",
+				"date_published": "2023-10-04T13:00:21+02:00",
+				"url": "https://holgerfrohloff.de/2023/10/04/finished-reading-assassins.html"
+			},
+			{
 				"id": "http://holgerfrohloff.micro.blog/2023/10/03/feiertagsnachmittagsbeschftigung-mit-der.html",
 				
 				"content_html": "<p>Feiertagsnachmittagsbeschäftigung mit der ganzen Familie. Habe mit der kleinen Tochter angefangen. Am Ende haben alle mitgemacht. 😅😍</p>\n<!-- raw HTML omitted -->\n",
