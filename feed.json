@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://holgerfrohloff.micro.blog/2023/10/21/das-war-der.html",
+				
+				"content_html": "<p>Das war der Beginn…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Das war der Beginn…\n\n<img src=\"uploads/2023/26d756f79e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-10-21T20:10:11+02:00",
+				"url": "https://holgerfrohloff.de/2023/10/21/das-war-der.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2023/10/21/so-sehen-vier.html",
+				
+				"content_html": "<p>So sehen vier Stunden Arbeit aus. Gut voran gekommen, aber noch viel zu tun.</p>\n<p><img src=\"https://holgerfrohloff.de/uploads/2023/12d4cc83-fde6-4e17-9489-1537540cb55b.jpg\" alt=\"\">\n<img src=\"https://holgerfrohloff.de/uploads/2023/37d9162c-711c-4b03-8e0c-f35d32f8b1d7.jpg\" alt=\"\">\n<img src=\"https://holgerfrohloff.de/uploads/2023/f93036eb-c2cb-4629-a94d-bf523d749405.jpg\" alt=\"\"></p>\n",
+				"content_text": "So sehen vier Stunden Arbeit aus. Gut voran gekommen, aber noch viel zu tun. \n\n![](https://holgerfrohloff.de/uploads/2023/12d4cc83-fde6-4e17-9489-1537540cb55b.jpg)\n![](https://holgerfrohloff.de/uploads/2023/37d9162c-711c-4b03-8e0c-f35d32f8b1d7.jpg)\n![](https://holgerfrohloff.de/uploads/2023/f93036eb-c2cb-4629-a94d-bf523d749405.jpg)\n",
+				"date_published": "2023-10-21T20:09:01+02:00",
+				"url": "https://holgerfrohloff.de/2023/10/21/so-sehen-vier.html"
+			},
+			{
 				"id": "http://holgerfrohloff.micro.blog/2023/10/21/eben-waren-wir.html",
 				
 				"content_html": "<p>Eben waren wir im Baumarkt und haben die Fliesen abgeholt. Außerdem Fliesenkleber und anderen Kram. Jetzt leerräumen und vorbereiten. Nachher werden die ersten Fliesen fallen. 🏗️👷‍♂️💪</p>\n",
