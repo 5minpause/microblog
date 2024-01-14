@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://holgerfrohloff.micro.blog/2024/01/09/today-there-wont.html",
+				
+				"content_html": "<p>Today there won&rsquo;t be a stream as I have a terrrible cold and I don&rsquo;t want to share my sniffing and sneazing with you all 🤧 😷 🤒</p>\n",
+				"content_text": "Today there won't be a stream as I have a terrrible cold and I don't want to share my sniffing and sneazing with you all 🤧 😷 🤒 \n",
+				"date_published": "2024-01-09T09:54:04+01:00",
+				"url": "https://holgerfrohloff.de/2024/01/09/today-there-wont.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2024/01/09/another-day-another.html",
+				"title": "Another day, another stream",
+				"content_html": "<p>Yesterday I&rsquo;ve streamed for another 2 hours. While I started with a &ldquo;Just Chatting&rdquo; segment, I quickly turned to programming again. Not least because I was only chatting with myself 😂.</p>\n<p>Eventually I started with implementing an algorithm for &ldquo;rolling weeks&rdquo; in my chores app. Have a look to find out what that is about 😉</p>\n<p><a href=\"https://www.twitch.tv/videos/2026343540\">www.twitch.tv/videos/20&hellip;</a></p>\n",
+				"content_text": "Yesterday I've streamed for another 2 hours. While I started with a \"Just Chatting\" segment, I quickly turned to programming again. Not least because I was only chatting with myself 😂.\n\nEventually I started with implementing an algorithm for \"rolling weeks\" in my chores app. Have a look to find out what that is about 😉\n\n\n[www.twitch.tv/videos/20...](https://www.twitch.tv/videos/2026343540)\n",
+				"date_published": "2024-01-09T08:46:52+01:00",
+				"url": "https://holgerfrohloff.de/2024/01/09/another-day-another.html"
+			},
+			{
 				"id": "http://holgerfrohloff.micro.blog/2024/01/08/in-a-few.html",
 				
 				"content_html": "<p>In a few minutes my stream will be live again. Today it&rsquo;s mostly chatting, maybe a bit of programming. Would really make my day if you dropped by and stayed to chat a bit.</p>\n<p><a href=\"https://www.twitch.tv/5minpause\">www.twitch.tv/5minpause</a></p>\n",
