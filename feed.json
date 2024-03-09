@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://holgerfrohloff.micro.blog/2024/03/09/walking-the-dog.html",
+				
+				"content_html": "<p>walking the dog</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "walking the dog\n\n<img src=\"uploads/2024/800d6a4dfe.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-03-09T09:09:06+01:00",
+				"url": "https://holgerfrohloff.de/2024/03/09/walking-the-dog.html"
+			},
+			{
 				"id": "http://holgerfrohloff.micro.blog/2024/02/12/the-puppy-needs.html",
 				
 				"content_html": "<p>The puppy needs rest! So much today today! 🐶</p>\n<!-- raw HTML omitted -->\n",
