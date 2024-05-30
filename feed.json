@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://holgerfrohloff.micro.blog/2024/05/22/in-meinem-rss.html",
+				
+				"content_html": "<p>In meinem RSS feed erscheinen regelmäßig die Beiträge von <a href=\"https://micro.blog/heibie@mastodon.social\">@heibie@mastodon.social</a>. Mit dabei sind Posts in denen man sieht, dass er einen Artikel »liked« oder »bookmarked« hat. Und ich frage mich, wie er das technisch umsetzt. Falls du das siehst, Heiko, magst du oder hast du darüber geschrieben?</p>\n",
+				"content_text": "In meinem RSS feed erscheinen regelmäßig die Beiträge von [@heibie@mastodon.social](https://micro.blog/heibie@mastodon.social). Mit dabei sind Posts in denen man sieht, dass er einen Artikel »liked« oder »bookmarked« hat. Und ich frage mich, wie er das technisch umsetzt. Falls du das siehst, Heiko, magst du oder hast du darüber geschrieben?\n",
+				"date_published": "2024-05-22T14:12:40+02:00",
+				"url": "https://holgerfrohloff.de/2024/05/22/in-meinem-rss.html"
+			},
+			{
 				"id": "http://holgerfrohloff.micro.blog/2024/05/16/dadurch-dass-ich.html",
 				
 				"content_html": "<p>Dadurch, dass ich nun ein <a href=\"https://playbackbone.com/\">Backbone</a> für mein iPhone habe, benutze ich es ab und an wieder ohne Hülle. Die Apple Finewoven Case passt nicht ins Backbone. 🤷‍♂️\nJedenfalls ist es wieder ein Genuss, dieses Titangehäuse in der Hand zu haben. Ohne Hülle ist besser. Aber halt auch gefährlicher…</p>\n",
