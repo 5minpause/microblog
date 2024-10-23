@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://holgerfrohloff.micro.blog/2024/10/23/new-to-me.html",
+				"title": "New to me backup solution restic",
+				"content_html": "<p>I found the link to a new backup software that looked interesting.</p>\n<!-- raw HTML omitted -->\n<pre><code>                  &lt;footer&gt; &lt;cite&gt;&lt;a href=&quot;https://restic.net/&quot;&gt;https://restic.net/&lt;/a&gt;&lt;/cite&gt;&lt;/footer&gt;\r\n                  &lt;/blockquote&gt;\r\n                  &lt;script note=&quot;&quot; src=&quot;https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js&quot;&gt;&lt;/script&gt;\r\n</code></pre>\n<p>I used to use <a href=\"https://www.arqbackup.com\">Arq</a> which costs money. When I was runnning my business and was self-employed it was a sensible cost to pay. Now that I am no longer self-employed I&rsquo;d like to cut costs. Once Arq will ask to renew my license I&rsquo;ll switch.</p>\n<p>Posting this here for you as much as for me so I can find it again later. 😉</p>\n",
+				"content_text": "I found the link to a new backup software that looked interesting.\r\n\r\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"restic%20%C2%B7%20Backups%20done%20right!\" data-author=\"\" cite=\"https://restic.net/\">\r\n                      <p>Restic is a modern backup program that can back up your files:</p>\r\n<ul>\r\n<li>\r\n<p>from <strong>Linux, BSD, Mac and Windows</strong></p>\r\n</li>\r\n<li>\r\n<p>to <strong>many different storage types</strong>, including self-hosted and online services</p>\r\n</li>\r\n<li>\r\n<p><strong>easily</strong>, being a single executable that you can run without a server or complex setup</p>\r\n</li>\r\n<li>\r\n<p><strong>effectively</strong>, only transferring the parts that actually changed in the files you back up</p>\r\n</li>\r\n<li>\r\n<p><strong>securely</strong>, by careful use of cryptography in every part of the process</p>\r\n</li>\r\n<li>\r\n<p><strong>verifiably</strong>, enabling you to make sure that your files can be restored when needed</p>\r\n</li>\r\n<li>\r\n<p><strong>freely</strong> - restic is entirely free to use and completely open source</p>\r\n</li>\r\n</ul>\r\n\r\n\r\n                      <footer> <cite><a href=\"https://restic.net/\">https://restic.net/</a></cite></footer>\r\n                      </blockquote>\r\n                      <script note=\"\" src=\"https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js\"></script>\r\n\r\nI used to use [Arq](https://www.arqbackup.com) which costs money. When I was runnning my business and was self-employed it was a sensible cost to pay. Now that I am no longer self-employed I'd like to cut costs. Once Arq will ask to renew my license I'll switch.\r\n\r\nPosting this here for you as much as for me so I can find it again later. 😉\n",
+				"date_published": "2024-10-23T09:11:31+02:00",
+				"url": "https://holgerfrohloff.de/2024/10/23/new-to-me.html",
+				"tags": ["article"]
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2024/10/16/i-continued-to.html",
+				
+				"content_html": "<p>I continued to read “Tress and the Emerald Sea” and it’s been given me thoughts like:</p>\n<p>The thing about going by subway is that you might be underground. But you are also not above ground.</p>\n<p>Which is important as I am very much freezing above ground right now.</p>\n",
+				"content_text": "I continued to read “Tress and the Emerald Sea” and it’s been given me thoughts like:\n\nThe thing about going by subway is that you might be underground. But you are also not above ground. \n\nWhich is important as I am very much freezing above ground right now. \n",
+				"date_published": "2024-10-16T07:43:53+02:00",
+				"url": "https://holgerfrohloff.de/2024/10/16/i-continued-to.html"
+			},
+			{
 				"id": "http://holgerfrohloff.micro.blog/2024/10/10/guter-artikel-von.html",
 				
 				"content_html": "<p>Guter Artikel von <a href=\"https://micro.blog/tante@tldr.nettime.org\">@tante@tldr.nettime.org</a></p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p>Später verlinkt er einen lesenswerten Artikel von Wiglaf Droste.</p>\n<!-- raw HTML omitted -->\n<p>Ich denke nicht, dass wir mit Nazis reden sollten. Nicht über Politik und nicht über andere Themen. Ich verschwende meine Zeit nicht an selbstgewählte Arschlöcher.<br>\nUnd die AfD sollte verboten werden.</p>\n",
@@ -84,7 +101,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2024/09/26/this-morning-i.html",
 				
 				"content_html": "<p>This morning I was able to reproduce a bug(?) I came across using <a href=\"https://halide.cam/\">Halide</a>. Photos seem to disappear randomly. At first I thought I was imagining and didn’t properly take a picture. This recording demonstrates it. Wrote to support already.\n(The pic of my white cupboards just vanishes…)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "This morning I was able to reproduce a bug(?) I came across using [Halide](https://halide.cam/). Photos seem to disappear randomly. At first I thought I was imagining and didn’t properly take a picture. This recording demonstrates it. Wrote to support already. \n(The pic of my white cupboards just vanishes…)\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://holgerfrohloff.de/uploads/2024/image.mp4\" width=\"640\" height=\"1386\" poster=\"https://holgerfrohloff.de/uploads/2024/f03e9ef0c9.png\" preload=\"none\"></video>\n",
+				"content_text": "This morning I was able to reproduce a bug(?) I came across using [Halide](https://halide.cam/). Photos seem to disappear randomly. At first I thought I was imagining and didn’t properly take a picture. This recording demonstrates it. Wrote to support already. \n(The pic of my white cupboards just vanishes…)\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/8969/2024/image.mp4\" width=\"640\" height=\"1386\" poster=\"https://holgerfrohloff.de/uploads/2024/f03e9ef0c9.png\" preload=\"none\"></video>\n",
 				"date_published": "2024-09-26T09:00:35+02:00",
 				"url": "https://holgerfrohloff.de/2024/09/26/this-morning-i.html"
 			},
@@ -94,7 +111,8 @@
 				"content_html": "<p>It’s #processZero Wednesday according to <a href=\"https://micro.blog/maique\">@maique</a> 📷</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "It’s #processZero Wednesday according to [@maique](https://micro.blog/maique) 📷\n\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2024/87362136c1.jpg\" width=\"600\" height=\"449\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/8969/2024/d3cf10f3ea.jpg\" width=\"600\" height=\"471\" alt=\"\">\n",
 				"date_published": "2024-09-25T14:07:05+02:00",
-				"url": "https://holgerfrohloff.de/2024/09/25/its-processzero-wednesday.html"
+				"url": "https://holgerfrohloff.de/2024/09/25/its-processzero-wednesday.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2024/09/25/this-israel-is.html",
@@ -127,7 +145,8 @@
 				"content_html": "<p>Since switching to Vivaldi, yesterday</p>\n<!-- raw HTML omitted -->\n<p>I noticed that my camera has new options during a video call. I can set a background 🎉.\nThis background choice is just lovely. 😍</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Since switching to Vivaldi, yesterday\r\n\r\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Replies\" data-author=\"\" cite=\"https://holgerfrohloff.de/replies/\">\r\n                      For now I will switch and try out Vivaldi. The feature set makes somehow sense and what I've seen about the browser so far seems good. We'll see.\r\n                      <footer> <cite><a href=\"https://holgerfrohloff.de/replies/\">https://holgerfrohloff.de/replies/</a></cite></footer>\r\n                      </blockquote>\r\n                      <script note=\"\" src=\"https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js\"></script>\r\n\r\nI noticed that my camera has new options during a video call. I can set a background 🎉.\r\nThis background choice is just lovely. 😍\r\n\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2024/screenshot-2024-09-25-at-10.12.21.png\" width=\"459\" height=\"600\" alt=\"A person wearing headphones is on a video call with a vibrant rainbow background and video settings options displayed.\">\n",
 				"date_published": "2024-09-25T10:13:26+02:00",
-				"url": "https://holgerfrohloff.de/2024/09/25/since-switching-to.html"
+				"url": "https://holgerfrohloff.de/2024/09/25/since-switching-to.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2024/09/25/pinboard-is-dead.html",
@@ -136,7 +155,7 @@
 				"content_text": "Yesterday, I read an opinion about the bookmarking service [pinboard.in](https://pinboard.in). I am a user since 2010. In 2019 I paid ~$210 for a 10 year contract because I wanted to do my part to keep the service running and enable the founder to do his thing. Because I believed in his mission and the purpose of the service.\r\n[Gordon](https://notes.kateva.org/2024/09/the-end-times-have-come-for-pinboardin.html) made me aware that Pinboard might be over. There is a [Hacker News thread](https://news.ycombinator.com/item?id=41533958) for the linked article where alternatives are discussed, if you are interested. The thing is, I believe Gordon and others might be right. Roughly 1,5 years ago I tried to write a small application to interface with the Pinboard API. Unfortunately, the API didn't work as expected. When I looked into it, I learned about a version 2 of that API that was supposed to be in development. The documentation to that API was insufficient and things didn't work in any way like they were documented. When I reached out to the Pinboard founder I heard nothing back. The state of the API hasn't changed at all since then. There were no updates.\r\n\r\nThe founder still writes on the web about things like lunar programs and moon landers with SpaceX and other political topics. He also gave entertaining talks on conferences during the last years. But he didn't do what he was paid for. At least in my opinion. Sure, the basic website still works. And maybe that could be considered enough?\r\n\r\nI have since stopped using the service. Bookmarking is an activity I not do as often anymore as before. If I want to have a website handy for later reading or watching, I use [Omnivore](https://omnivore.app). It's an open-source solution that is free to use. Eventually you can even do [self-hosting](https://github.com/omnivore-app/omnivore#how-to-deploy-to-your-own-server). I chose it because it works well and I can read and understand the code and tech stack. If they ever decide to discontinue the web app I can host it myself.\r\n\r\nFor saving website to reference later, which you could call bookmarking, I mostly use [Obsidian](https://obsidian.md). It's my preferred solution for taking notes that I want to keep. Right now I have over 5.600 notes in there. A big part of those are my journal notes, which I imported from Day one.  \r\nTo make saving websites quicker I wrote a small Alfred.app workflow that calls a Shortcut (from Apple shortcuts). If everything works out (it does most of the times!) a note is created in Obsidian.\r\n\r\nI attached a screenshot of the note, because I don't have a good way to share it with you otherwise right now. Those bookmarks land in a folder called `/sites`. I can add tags and link them to my notes, or references the bookmark in a note somewhere else. It doesn't save a complete copy of the bookmark. So if the website disappears from the web, my bookmark would cease to work. Maybe that is something that I will add later. I am not sure yet.\r\n\r\nSo yeah, Pinboard is dead as far as I am concerned.\r\n\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2024/screenshot-2024-09-25-at-09.25.21.png\" width=\"600\" height=\"320\" alt=\"\">\n",
 				"date_published": "2024-09-25T09:28:12+02:00",
 				"url": "https://holgerfrohloff.de/2024/09/25/pinboard-is-dead.html",
-				"tags": ["article"]
+				"tags": ["article","Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2024/09/20/in-order-to.html",
@@ -144,7 +163,8 @@
 				"content_html": "<p>In order to fulfill my part in documenting life and the seasons here’s the first chestnut 🌰 I saw this year. Autumn is coming.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "In order to fulfill my part in documenting life and the seasons here’s the first chestnut 🌰 I saw this year. Autumn is coming. \n\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2024/215699bdd4.jpg\" width=\"476\" height=\"600\" alt=\"A couple of chestnuts lie on a textured ground amidst scattered twigs and leaves.\">\n",
 				"date_published": "2024-09-20T09:14:24+02:00",
-				"url": "https://holgerfrohloff.de/2024/09/20/in-order-to.html"
+				"url": "https://holgerfrohloff.de/2024/09/20/in-order-to.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2024/09/14/its-impressive-how.html",
@@ -152,7 +172,8 @@
 				"content_html": "<p>It’s impressive how much greener the grass is on our side since we installed our automated irrigation system. 🥳</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "It’s impressive how much greener the grass is on our side since we installed our automated irrigation system. 🥳\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2024/56a7a95e5e.jpg\" width=\"409\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-09-14T12:45:09+02:00",
-				"url": "https://holgerfrohloff.de/2024/09/14/its-impressive-how.html"
+				"url": "https://holgerfrohloff.de/2024/09/14/its-impressive-how.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2024/09/14/i-canceled-my.html",
@@ -185,7 +206,8 @@
 				"content_html": "<p>Iced Americano ☕️</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Iced Americano ☕️\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2024/14b558b5e2.jpg\" width=\"559\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-31T10:00:01+02:00",
-				"url": "https://holgerfrohloff.de/2024/08/31/iced-americano.html"
+				"url": "https://holgerfrohloff.de/2024/08/31/iced-americano.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2024/08/31/good-morning.html",
@@ -193,7 +215,8 @@
 				"content_html": "<p>Good Morning ☕️</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Good Morning ☕️\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2024/a1c4776d58.jpg\" width=\"508\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-31T09:54:14+02:00",
-				"url": "https://holgerfrohloff.de/2024/08/31/good-morning.html"
+				"url": "https://holgerfrohloff.de/2024/08/31/good-morning.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2024/08/30/started-reading-yumi.html",
@@ -298,7 +321,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<img src=\"https://cdn.uploads.micro.blog/8969/2024/f4220474-7bbb-4762-a12e-fdce1a435f03.jpg\" height=\"600\" alt=\"Silhouettes of two people, one of them a child, standing on a beach at sunset, with the ocean and sun in the background. The sky is partly cloudy, and their shadows stretch across the sand.\" />\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2024/759f815c-c9ab-46c0-9be7-05e08d7f42a1.jpg\" height=\"600\" alt=\"Silhouette of a person standing on a beach, facing the ocean during sunset or sunrise. The sky and water have a bright, reflective quality, and the overall appearance is in black and white.\" />\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2024/8c6287b2-9e1c-4453-9152-ecc5cb0cf5b1.jpg\" height=\"600\" alt=\"Beach scene at sunset with the sun low on the horizon, a person bending down near the water, and scattered clouds in the sky. Waves gently roll onto the shore, with golden light reflecting off the water and wet sand.\" />\n\n",
 				"date_published": "2024-07-01T18:41:23+02:00",
-				"url": "https://holgerfrohloff.de/2024/07/01/184123.html"
+				"url": "https://holgerfrohloff.de/2024/07/01/184123.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2024/06/24/finished-reading-cantoras.html",
@@ -340,7 +364,7 @@
 				"content_text": "Gestern war wieder Bouldern angesagt. Da in der Berta Block demnächst die Berta Block Masters anstehen (Samstag am 8.6.), werden die Routen aktuell nicht umgebaut. Deshalb wollte ich mal etwas Neues probieren und wir sind nach Oranienburg gefahren. Die Halle dort heißt [Family Rocks](https://familyrocks.de/), und ich war mit den Kids da. Das hat gepasst.  \nDas Schöne ist, dass es einen großen Kletter- und Tobebereich für die Kids gibt. So wurde es ihnen nicht langweilig. Zwischendurch gab es etwas zu Essen, so dass sie nicht mehr ganz so grummelig waren (hangry!).  \nIch fand sehr anspruchsvolle Boulderprobleme um mich daran abzuarbeiten. Die Halle ist noch ziemlich neu, und nicht so stark besucht. Das hat zur Folge, dass die Griffe größtenteis noch **sehr rau** und griffig sind. Es kostet ziemlich viel Haut dort zu klettern. Auch sind die Schrauber der Meinung auch auf den leichten Routen schon mal ein paar anspruchsvollere Griffe einzubauen, wie mir der Betreiber erklärte. Das machen sie, damit sie auch die Anfänger mal an die härteren Griffe heranführen, die sie sonst nie anfassen würden. Dadurch wird es nicht leichter—aber interessanter.  \n\nIch bewege mich aktuell im unteren Mittelfeld. Dort sind das die grünen—blauen Routen. Und da gab es genug zu klettern und ich hatte viel Unterhaltung. Das Publikum war, wie so oft beim Bouldern, wunderbar relaxed und man konnte sich austauschen und gegenseitig anfeuern. Klasse!  \n\nWir kommen gern wieder, auch wenn die Anfahrt relativ lange dauert. Selbst aus dem Norden von Berlin brauchten wir 30min mit dem Auto.  \n\nInsgesamt ★★★★☆ v.a. wegen des Kidsbereichs.\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2024/144a48e7-bd11-4fe8-9c0d-f013d5b89be4.jpg\" width=\"600\" alt=\"A person wearing climbing shoes is bouldering on an indoor climbing wall with orange and green holds. The climbing facility features padded flooring and additional climbing walls in the background. The climber’s face is covered with a smiley face emoji\" />\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2024/ad5b8b6b-4603-4d1b-9eb2-8db7e2e3b492.jpg\" height=\"600\" alt=\"Indoor climbing gym with a wooden climbing wall featuring orange and turquoise holds. A person is climbing on the left side, and another individual is sitting inside a hexagonal cutout on the wall.\" />\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2024/381675de-0c3b-4cf1-84ce-e74f9224b84e.jpg\" width=\"600\" alt=\"A child standing inside an indoor rock climbing gym, wearing a smiley face emoji over their face. The climbing walls feature various colored holds in blue, yellow, orange, pink, green, and gray. There is a hexagonal wooden structure inset into\" />\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2024/fcdd9e26-30f0-4e55-85bc-68ba013b20b9.jpg\" width=\"600\" alt=\"A young child sits at a table in an indoor climbing gym, eating food with a drink bottle and a cup of Costa coffee on the table. The gym features bouldering walls and a children's play area in the background.\" />\n\n\n\n",
 				"date_published": "2024-06-03T14:40:26+02:00",
 				"url": "https://holgerfrohloff.de/2024/06/03/bouldern-im-family.html",
-				"tags": ["tagebuchbloggen"]
+				"tags": ["tagebuchbloggen","Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2024/05/22/in-meinem-rss.html",
@@ -364,7 +388,8 @@
 				"content_html": "<p>Erd-, Stachel- und Johannesbeeren halten sich an ihre Jobbeschreibung! 👍🫶</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Erd-, Stachel- und Johannesbeeren halten sich an ihre Jobbeschreibung! 👍🫶\n\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2024/24a505edf6.jpg\" width=\"450\" height=\"600\" alt=\"ein Foto von noch grünen, wachsenden Erdbeeren\"><img src=\"https://cdn.uploads.micro.blog/8969/2024/c3d2129e74.jpg\" width=\"450\" height=\"600\" alt=\"ein Foto von noch grünen, wachsenden Stachelbeeren ￼\"><img src=\"https://cdn.uploads.micro.blog/8969/2024/dd55a1c3ae.jpg\" width=\"450\" height=\"600\" alt=\"ein Foto von noch grünen, wachsenden Johannisbeeren ￼\">\n",
 				"date_published": "2024-05-15T11:55:42+02:00",
-				"url": "https://holgerfrohloff.de/2024/05/15/erd-stachel-und.html"
+				"url": "https://holgerfrohloff.de/2024/05/15/erd-stachel-und.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2024/05/15/vogelgesang-whrend-der.html",
@@ -373,7 +398,7 @@
 				"content_text": "Heute morgen, während ich Milo spazieren führte, habe ich wieder Vögel bestimmt. Ich bin auf die App durch [@Buddenbohm@fnordon.de](https://micro.blog/Buddenbohm@fnordon.de) aufmerksam geworden. Gerade bei uns am Kanal waren schön viele Vögel zu hören. Und ist es nicht schön? Sie singen so toll und ich kann endlich mal lernen, welcher Vogel wie klingt. Steigert nachhaltig die Naturverbundenheit. Und wer kann schon was gegen nachhaltig sagen.  \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2024/3d1bbedb-4ef2-46e1-9a94-51db7d106087.jpg\" width=\"450\" height=\"600\" alt=\"Mein Hund Milo steht auf dem Weg und blickt nach hinten. Der Weg ist sandig. Im Hintergrund sieht man grüne Bäume. Es wirkt sehr ländlich.\">\n\nAmsel und Gartenrotschwanz fand ich am Schönsten. Zaukönig und Buntspecht haben mich überrascht. Ich habe auch noch Elstern gehört, konnte sie aber nicht aufnehmen, weil der Hund da wieder Blödsinn machte in dem Moment.  \n<img src=\"https://cdn.uploads.micro.blog/8969/2024/80c913c5-ff1e-4162-8211-a96d0fd3e8cc.png\" width=\"450\" height=\"600\" alt=\"Man sieht die 'Life List' Seite in der Merlin Bird ID App. Dort sind 10 Vögel zu sehen.\">  \nHabe jetzt 10 Vögel in meiner Life List in der App. Mal sehen, welche ich auf der Nachmittagsrunde vernehmen werde.\n\n",
 				"date_published": "2024-05-15T10:14:42+02:00",
 				"url": "https://holgerfrohloff.de/2024/05/15/vogelgesang-whrend-der.html",
-				"tags": ["article","tagebuchbloggen"]
+				"tags": ["article","tagebuchbloggen","Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2024/05/08/today-is-the.html",
@@ -398,7 +423,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2024/9f2f42a7c6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-21T12:27:09+02:00",
-				"url": "https://holgerfrohloff.de/2024/04/21/122709.html"
+				"url": "https://holgerfrohloff.de/2024/04/21/122709.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2024/04/21/122356.html",
@@ -406,7 +432,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2024/2dd3ccb618.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-21T12:23:56+02:00",
-				"url": "https://holgerfrohloff.de/2024/04/21/122356.html"
+				"url": "https://holgerfrohloff.de/2024/04/21/122356.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2024/04/12/yesterday-i-visited.html",
@@ -430,7 +457,8 @@
 				"content_html": "<p>walking the dog</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "walking the dog\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2024/800d6a4dfe.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-03-09T10:09:06+02:00",
-				"url": "https://holgerfrohloff.de/2024/03/09/walking-the-dog.html"
+				"url": "https://holgerfrohloff.de/2024/03/09/walking-the-dog.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2024/02/12/the-puppy-needs.html",
@@ -438,7 +466,8 @@
 				"content_html": "<p>The puppy needs rest! So much today today! 🐶</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "The puppy needs rest! So much today today! 🐶\n\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2024/07788252de.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-02-12T20:45:47+02:00",
-				"url": "https://holgerfrohloff.de/2024/02/12/the-puppy-needs.html"
+				"url": "https://holgerfrohloff.de/2024/02/12/the-puppy-needs.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2024/02/08/currently-watching-griselda.html",
@@ -576,7 +605,8 @@
 				"content_html": "<p>Good morning from snowy Berlin.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Good morning from snowy Berlin. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2024/ed12c4e4ba.jpg\" width=\"375\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/8969/2024/e10cfd186d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-01-05T10:03:56+02:00",
-				"url": "https://holgerfrohloff.de/2024/01/05/good-morning-from.html"
+				"url": "https://holgerfrohloff.de/2024/01/05/good-morning-from.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2024/01/03/i-will-start.html",
@@ -608,7 +638,8 @@
 				"content_html": "<p>Wonderful sunrise over Berlin today</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Wonderful sunrise over Berlin today\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2024/a01b7bd57d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-01-03T09:59:33+02:00",
-				"url": "https://holgerfrohloff.de/2024/01/03/wonderful-sunrise-over.html"
+				"url": "https://holgerfrohloff.de/2024/01/03/wonderful-sunrise-over.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2024/01/02/spent-hours-streaming.html",
@@ -625,7 +656,8 @@
 				"content_html": "<p>Merry Christmas 😘</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Merry Christmas 😘\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/ca3c6e578f.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-12-25T10:40:35+02:00",
-				"url": "https://holgerfrohloff.de/2023/12/25/merry-christmas.html"
+				"url": "https://holgerfrohloff.de/2023/12/25/merry-christmas.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/11/18/unser-bad-renovierungsprojekt.html",
@@ -642,7 +674,8 @@
 				"content_html": "<p>Port Askaig im Whisky Sour 🥃\n😍</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Port Askaig im Whisky Sour 🥃\n😍\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/b1857cb758.jpg\" width=\"476\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-11-05T21:38:49+02:00",
-				"url": "https://holgerfrohloff.de/2023/11/05/port-askaig-im.html"
+				"url": "https://holgerfrohloff.de/2023/11/05/port-askaig-im.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/11/03/bin-den-halben.html",
@@ -658,7 +691,8 @@
 				"content_html": "<p>On my way to the barbershop yesterday. I liked how there’s such a clear vantage point.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "On my way to the barbershop yesterday. I liked how there’s such a clear vantage point. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/e69d0b05ab.jpg\" width=\"544\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-11-02T12:42:19+02:00",
-				"url": "https://holgerfrohloff.de/2023/11/02/on-my-way.html"
+				"url": "https://holgerfrohloff.de/2023/11/02/on-my-way.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/10/31/guter-artikel-debatte.html",
@@ -714,7 +748,8 @@
 				"content_html": "<p>Das war der Beginn…</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Das war der Beginn…\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/26d756f79e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-10-21T20:10:11+02:00",
-				"url": "https://holgerfrohloff.de/2023/10/21/das-war-der.html"
+				"url": "https://holgerfrohloff.de/2023/10/21/das-war-der.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/10/21/so-sehen-vier.html",
@@ -779,7 +814,8 @@
 				"content_html": "<p>I use Macs since ~2008. I work as a professional programmer since ~2011.\nSince then I wasn&rsquo;t able to use AppleScript (and recently Shortcuts.app) to automate my Mac.\nI don&rsquo;t know whether this is due to me being stupid or because AppleScript and Shortcut syntax are really strange.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I use Macs since ~2008. I work as a professional programmer since ~2011.\nSince then I wasn't able to use AppleScript (and recently Shortcuts.app) to automate my Mac.\nI don't know whether this is due to me being stupid or because AppleScript and Shortcut syntax are really strange.\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/f543501ad0.png\" width=\"600\" height=\"183\" alt=\"\">\n",
 				"date_published": "2023-10-17T14:43:09+02:00",
-				"url": "https://holgerfrohloff.de/2023/10/17/i-use-macs.html"
+				"url": "https://holgerfrohloff.de/2023/10/17/i-use-macs.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/10/16/i-hate-computers.html",
@@ -795,7 +831,8 @@
 				"content_html": "<p>And now <a href=\"https://cache.ruby-lang.org\">cache.ruby-lang.org</a> is down for me. But only me it seems.\nI just want to go back to bed. Nothing works. This is frustrating.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "And now [cache.ruby-lang.org](https://cache.ruby-lang.org) is down for me. But only me it seems.\nI just want to go back to bed. Nothing works. This is frustrating.\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/de7a8bc19f.png\" width=\"600\" height=\"173\" alt=\"\">\n",
 				"date_published": "2023-10-16T09:28:38+02:00",
-				"url": "https://holgerfrohloff.de/2023/10/16/and-now-httpscacherubylangorg.html"
+				"url": "https://holgerfrohloff.de/2023/10/16/and-now-httpscacherubylangorg.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/10/16/i-really-hate.html",
@@ -845,7 +882,8 @@
 				"content_html": "<p>Reviving and working on an oldish MacBookPro with Touchbar. The fan noise is really loud. Almost forgot how it used to to be with these things. Still, I need access to an old MacOS version and x86_64 arch today 🤷‍♂️</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Reviving and working on an oldish MacBookPro with Touchbar. The fan noise is really loud. Almost forgot how it used to to be with these things. Still, I need access to an old MacOS version and x86_64 arch today 🤷‍♂️\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/3d855773d1.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-10-12T08:31:45+02:00",
-				"url": "https://holgerfrohloff.de/2023/10/12/reviving-and-working.html"
+				"url": "https://holgerfrohloff.de/2023/10/12/reviving-and-working.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/10/11/love-marc-martels.html",
@@ -853,7 +891,8 @@
 				"content_html": "<p>Love Marc Martel‘s shirt tonight</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Love Marc Martel‘s shirt tonight\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/92a660ae54.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-10-11T20:57:39+02:00",
-				"url": "https://holgerfrohloff.de/2023/10/11/love-marc-martels.html"
+				"url": "https://holgerfrohloff.de/2023/10/11/love-marc-martels.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/10/09/currently-reading-tomorrow.html",
@@ -895,7 +934,8 @@
 				"content_html": "<p>Hey <a href=\"https://micro.blog/vincent\">@vincent</a>\non iPhone 13 mini if I create a new post with the latest version of the micro.blocg app on iOS the text does not scroll upwards, but keeps hiding behind the uploaded image. If I close the new post screen and reopen it, everything works as expected.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Hey [@vincent](https://micro.blog/vincent) \non iPhone 13 mini if I create a new post with the latest version of the micro.blocg app on iOS the text does not scroll upwards, but keeps hiding behind the uploaded image. If I close the new post screen and reopen it, everything works as expected. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/2612e0b4e0.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-10-06T08:41:05+02:00",
-				"url": "https://holgerfrohloff.de/2023/10/06/hey-vincent-on.html"
+				"url": "https://holgerfrohloff.de/2023/10/06/hey-vincent-on.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/10/06/visuelle-markierungen-im.html",
@@ -904,7 +944,7 @@
 				"content_text": "Als ich gerade diese Stelle markiert habe, fiel mir auf, dass die Trennungsstriche, (wie heißt das korrekt?) der getrennten Wörter auf der rechten Seite, nicht in der Markierung enthalten sind. Und ich vermute, dass das technisch gar nicht so einfach sein wird, bei den getrennten Wörtern zu berechnen, bis wohin die visuelle Darstellung der Markierung gehen soll. \nNa wie auch immer. Fiel mir grad auf. 😊\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/5a98ae8725.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-10-06T08:39:12+02:00",
 				"url": "https://holgerfrohloff.de/2023/10/06/visuelle-markierungen-im.html",
-				"tags": ["article"]
+				"tags": ["article","Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/10/05/closing-keynote-heute.html",
@@ -912,7 +952,8 @@
 				"content_html": "<p>Closing Keynote heute von <a href=\"https://micro.blog/claresudbery@mastodon.social\">@claresudbery@mastodon.social</a>\nmit Katzen!🐈\nSuper.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Closing Keynote heute von [@claresudbery@mastodon.social](https://micro.blog/claresudbery@mastodon.social)\nmit Katzen!🐈 \nSuper. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/c4bd77391a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-10-05T17:22:05+02:00",
-				"url": "https://holgerfrohloff.de/2023/10/05/closing-keynote-heute.html"
+				"url": "https://holgerfrohloff.de/2023/10/05/closing-keynote-heute.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/10/05/teenager-wlan.html",
@@ -929,7 +970,8 @@
 				"content_html": "<p>Heute auf der Konferenz Agile meets Architecture in Berlin.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Heute auf der Konferenz Agile meets Architecture in Berlin. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/d2c08f81b8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-10-05T10:36:24+02:00",
-				"url": "https://holgerfrohloff.de/2023/10/05/heute-auf-der.html"
+				"url": "https://holgerfrohloff.de/2023/10/05/heute-auf-der.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/10/04/monotype-hat-fontshop.html",
@@ -937,7 +979,8 @@
 				"content_html": "<p>Monotype hat Fontshop nun fast komplett kaputt gemacht. So traurig das Ganze.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Monotype hat Fontshop nun fast komplett kaputt gemacht. So traurig das Ganze.\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/b6e6e8c942.png\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-10-04T16:12:08+02:00",
-				"url": "https://holgerfrohloff.de/2023/10/04/monotype-hat-fontshop.html"
+				"url": "https://holgerfrohloff.de/2023/10/04/monotype-hat-fontshop.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/10/04/currently-reading-this.html",
@@ -961,7 +1004,8 @@
 				"content_html": "<p>Feiertagsnachmittagsbeschäftigung mit der ganzen Familie. Habe mit der kleinen Tochter angefangen. Am Ende haben alle mitgemacht. 😅😍</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Feiertagsnachmittagsbeschäftigung mit der ganzen Familie. Habe mit der kleinen Tochter angefangen. Am Ende haben alle mitgemacht. 😅😍\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/0d2a4f3ec8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-10-03T18:03:18+02:00",
-				"url": "https://holgerfrohloff.de/2023/10/03/feiertagsnachmittagsbeschftigung-mit-der.html"
+				"url": "https://holgerfrohloff.de/2023/10/03/feiertagsnachmittagsbeschftigung-mit-der.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/09/27/ich-habe-die.html",
@@ -993,7 +1037,8 @@
 				"content_html": "<p>Heute unterwegs!</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Heute unterwegs!\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/8d2e96f4ab.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-09-21T11:00:21+02:00",
-				"url": "https://holgerfrohloff.de/2023/09/21/heute-unterwegs.html"
+				"url": "https://holgerfrohloff.de/2023/09/21/heute-unterwegs.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/09/20/worin-der-vorteil.html",
@@ -1009,7 +1054,8 @@
 				"content_html": "<p>Wisst ihr noch? Früher, als <a href=\"https://fnordon.de/@Buddenbohm\">@Buddenbohm@fnordon.de</a> noch Rezepte bloggte? Jetzt kocht er nur noch. 🫣</p>\n<p>Soo lecker.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Wisst ihr noch? Früher, als [@Buddenbohm@fnordon.de](https://fnordon.de/@Buddenbohm) noch Rezepte bloggte? Jetzt kocht er nur noch. 🫣\n\nSoo lecker. \n\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/3c9720f662.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-19T20:30:00+02:00",
-				"url": "https://holgerfrohloff.de/2023/09/19/wisst-ihr-noch.html"
+				"url": "https://holgerfrohloff.de/2023/09/19/wisst-ihr-noch.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/09/13/heute-hab-ich.html",
@@ -1033,7 +1079,8 @@
 				"content_html": "<p>Bei der Physiotherapie gibt es WLan in Flaschen.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Bei der Physiotherapie gibt es WLan in Flaschen. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/e7b46617f3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-06T12:04:32+02:00",
-				"url": "https://holgerfrohloff.de/2023/09/06/bei-der-physiotherapie.html"
+				"url": "https://holgerfrohloff.de/2023/09/06/bei-der-physiotherapie.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/08/25/mein-aktueller-status.html",
@@ -1081,7 +1128,8 @@
 				"content_html": "<p>Habe mich gerade in Twitter eingeloggt, um sämtliche Connected Apps und Dinge zu deaktivieren. Das erste, was ich sehe ist 👇, wozu ich denke 🖕.\nSo eine Shitshow, was das geworden ist.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Habe mich gerade in Twitter eingeloggt, um sämtliche Connected Apps und Dinge zu deaktivieren. Das erste, was ich sehe ist 👇, wozu ich denke 🖕.\nSo eine Shitshow, was das geworden ist.\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/5a682ab4a1.png\" width=\"493\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-08-17T13:35:21+02:00",
-				"url": "https://holgerfrohloff.de/2023/08/17/habe-mich-gerade.html"
+				"url": "https://holgerfrohloff.de/2023/08/17/habe-mich-gerade.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/08/17/bldsinn-tiktok-und.html",
@@ -1090,7 +1138,7 @@
 				"content_text": "Berlin, 17. August\nKennt ihr das, wenn ihr irgendwo etwas lest/seht und euch das die nächsten Tage weiter beschäftigt — obwohl es eigentlich Blödsinn ist?\nBzw. ich weiß gar nicht, ob es Blödsinn ist.\nJedenfalls hat vor ein paar Tagen jemand auf TikTok behauptet (so fangen die dümmsten Stories an 😜), dass „mein“ Stoffwechsel „resettet“ werden müsste. Klare Anzeichen dafür wären, dass mir 7-8h Schlaf nicht ausreichen würde um morgens nicht müde zu sein, dass ich nach dem Mittagessen in ein Energieloch fallen würde und müde wäre usw. usf.\nUnd nun wache ich seitdem morgens auf, schlief mind. 7h, und bin groggy. Ja ich habe sogar einmal verschlafen seitdem! Stell dir vor! 😅\n\nAlso: Meine aktuelle Arbeitshypothese ist, dass das Blödsinn war und er nur sein achsotolles Programm zum Stoffwechsel-Reset (Blödsinn!) verkaufen wollte (Blödsinn!) und ich einfach nur gerade wieder einmal viel zu viel Stress im Job habe (kein Blödsinn 🤨).\n\nAnsonsten bin ich heute das erste Mal nach dem Unfall und der OP mit meinem _neuen_ Gravelbike zum Büro gefahren. Nun steht es hier auf dem Balkon neben mir, und ich freue mich jedes Mal, wenn ich rausschaue.\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/4d0ca998cd.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-08-17T13:29:37+02:00",
 				"url": "https://holgerfrohloff.de/2023/08/17/bldsinn-tiktok-und.html",
-				"tags": ["article"]
+				"tags": ["article","Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/08/13/heute-geburtstagsfeier-so.html",
@@ -1098,7 +1146,8 @@
 				"content_html": "<p>Heute Geburtstagsfeier! So groß schon.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Heute Geburtstagsfeier! So groß schon. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/8a971bceb0.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-08-13T09:46:12+02:00",
-				"url": "https://holgerfrohloff.de/2023/08/13/heute-geburtstagsfeier-so.html"
+				"url": "https://holgerfrohloff.de/2023/08/13/heute-geburtstagsfeier-so.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/08/11/ich-kann-ein.html",
@@ -1106,7 +1155,8 @@
 				"content_html": "<p>Ich kann ein Abo bei Apple nicht löschen. Wirklich großartig. Es wurde mir nicht angezeigt als aktiv, und ich kann es nicht kündigen. Problem habe ich bei Apple eingereicht. Mal sehen, wann ich das Geld zurück bekomme.\nPasst zum Rest des Tages.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Ich kann ein Abo bei Apple nicht löschen. Wirklich großartig. Es wurde mir nicht angezeigt als aktiv, und ich kann es nicht kündigen. Problem habe ich bei Apple eingereicht. Mal sehen, wann ich das Geld zurück bekomme.\nPasst zum Rest des Tages.\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/image.png\" width=\"600\" height=\"447\" alt=\"\">\n",
 				"date_published": "2023-08-11T13:58:51+02:00",
-				"url": "https://holgerfrohloff.de/2023/08/11/ich-kann-ein.html"
+				"url": "https://holgerfrohloff.de/2023/08/11/ich-kann-ein.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/08/11/jetzt-wartet-die.html",
@@ -1131,7 +1181,8 @@
 				"content_html": "<p>Seit Ewigkeiten heute mal wieder allein ins Kino. Muss mindestens 13 Jahre her sein.\nMal sehen, wie der neue Indy wird.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Seit Ewigkeiten heute mal wieder allein ins Kino. Muss mindestens 13 Jahre her sein. \nMal sehen, wie der neue Indy wird. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/3140848b31.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-08-09T19:41:14+02:00",
-				"url": "https://holgerfrohloff.de/2023/08/09/seit-ewigkeiten-heute.html"
+				"url": "https://holgerfrohloff.de/2023/08/09/seit-ewigkeiten-heute.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/08/07/warten-auf-die.html",
@@ -1139,7 +1190,8 @@
 				"content_html": "<p>Warten auf die Physiotherapie.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Warten auf die Physiotherapie.\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-08-07T12:37:24+02:00",
-				"url": "https://holgerfrohloff.de/2023/08/07/warten-auf-die.html"
+				"url": "https://holgerfrohloff.de/2023/08/07/warten-auf-die.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/08/03/gestern-wieder-etwas.html",
@@ -1235,7 +1287,8 @@
 				"content_html": "<p>Ausklang</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Ausklang\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/d83214ef84.jpg\" width=\"600\" height=\"401\" alt=\"\">\n",
 				"date_published": "2023-05-01T19:44:37+02:00",
-				"url": "https://holgerfrohloff.de/2023/05/01/ausklang.html"
+				"url": "https://holgerfrohloff.de/2023/05/01/ausklang.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/04/19/am-wochenende-waren.html",
@@ -1243,7 +1296,8 @@
 				"content_html": "<p>Am Wochenende waren wir bei Radhaus und haben neue Räder für die große Tochter Probe gefahren. Ich habe die Räder und Preisschilder fotografiert. Seit gestern folgt mir dann „zufällig“ Pegasus Bikes auf Instagram?!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Am Wochenende waren wir bei Radhaus und haben neue Räder für die große Tochter Probe gefahren. Ich habe die Räder und Preisschilder fotografiert. Seit gestern folgt mir dann „zufällig“ Pegasus Bikes auf Instagram?! \n\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/7b68096ba5.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/8969/2023/a1df260983.jpg\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-19T09:21:33+02:00",
-				"url": "https://holgerfrohloff.de/2023/04/19/am-wochenende-waren.html"
+				"url": "https://holgerfrohloff.de/2023/04/19/am-wochenende-waren.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/04/18/in-seiner-bersicht.html",
@@ -1300,7 +1354,8 @@
 				"content_html": "<p>Ich nehme an der GitHub Feature Preview <a href=\"https://docs.github.com/en/repositories/working-with-files/managing-files/navigating-files-with-the-new-code-view\">„New Code Search and Code View“</a> teil. Das verbessert das Browsen von Repos auf GitHub beträchtlich.\nEs gibt auch einen neuen Shortcut-Button, der direkt die Raw-Version der Datei in das Clipboard kopiert 👍</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Ich nehme an der GitHub Feature Preview [„New Code Search and Code View“](https://docs.github.com/en/repositories/working-with-files/managing-files/navigating-files-with-the-new-code-view) teil. Das verbessert das Browsen von Repos auf GitHub beträchtlich.\nEs gibt auch einen neuen Shortcut-Button, der direkt die Raw-Version der Datei in das Clipboard kopiert 👍\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/2b84800321.png\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-03-01T10:08:21+02:00",
-				"url": "https://holgerfrohloff.de/2023/03/01/ich-nehme-an.html"
+				"url": "https://holgerfrohloff.de/2023/03/01/ich-nehme-an.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/03/01/day-secure.html",
@@ -1308,7 +1363,8 @@
 				"content_html": "<p>Day 1: Secure</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 1: Secure\n\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/e983e3ed1c.jpg\" width=\"541\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-01T08:13:04+02:00",
-				"url": "https://holgerfrohloff.de/2023/03/01/day-secure.html"
+				"url": "https://holgerfrohloff.de/2023/03/01/day-secure.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/02/28/testing-microblog-bookmarking.html",
@@ -1365,7 +1421,8 @@
 				"content_html": "<p>Wenn ich Termineinladungen wahrnehme, dann mittlerweile nur noch mit einem Kommentar: „Voll gerne!“</p>\n<p><a href=\"https://www.youtube.com/watch?v=u2HSc2Ym1Vk\">YouTube Video Andreas Bourani - Voll gerne (aus &ldquo;Vaiana&rdquo;)</a></p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Wenn ich Termineinladungen wahrnehme, dann mittlerweile nur noch mit einem Kommentar: „Voll gerne!“\n\n[YouTube Video Andreas Bourani - Voll gerne (aus \"Vaiana\")](https://www.youtube.com/watch?v=u2HSc2Ym1Vk)\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/3d641107ec.png\" width=\"600\" height=\"498\" alt=\"\">\n",
 				"date_published": "2023-02-10T10:50:12+02:00",
-				"url": "https://holgerfrohloff.de/2023/02/10/wenn-ich-termineinladungen.html"
+				"url": "https://holgerfrohloff.de/2023/02/10/wenn-ich-termineinladungen.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/02/10/just-found-this.html",
@@ -1373,7 +1430,8 @@
 				"content_html": "<p>Just found this <a href=\"https://discuss.systems/@Some_Emo_Chick@mastodon.social/109800786353429070\">@Some_Emo_Chick@mastodon.social</a> and thought it was funny</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Just found this [@Some_Emo_Chick@mastodon.social](https://discuss.systems/@Some_Emo_Chick@mastodon.social/109800786353429070) and thought it was funny\n\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/0238d92ee5.png\" width=\"526\" height=\"526\" alt=\"\">\n",
 				"date_published": "2023-02-10T09:46:51+02:00",
-				"url": "https://holgerfrohloff.de/2023/02/10/just-found-this.html"
+				"url": "https://holgerfrohloff.de/2023/02/10/just-found-this.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/02/09/moin.html",
@@ -1438,7 +1496,8 @@
 				"content_html": "<p>Tschüss Hamburg</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Tschüss Hamburg\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/46e035b5b7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-20T20:20:45+02:00",
-				"url": "https://holgerfrohloff.de/2023/01/20/tschss-hamburg.html"
+				"url": "https://holgerfrohloff.de/2023/01/20/tschss-hamburg.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/01/20/i-will-try.html",
@@ -1479,7 +1538,8 @@
 				"content_html": "<p>Honest question: Am I paranoid or too worried?\nPeople leave their stuff all alone on their desk in this WeWork space. Their phone, computer unlocked. They were away for around 4 minutes. Enough time to be evil. If I wanted to 😇🤷‍♂️🤔🤔🤔</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Honest question: Am I paranoid or too worried?\nPeople leave their stuff all alone on their desk in this WeWork space. Their phone, computer unlocked. They were away for around 4 minutes. Enough time to be evil. If I wanted to 😇🤷‍♂️🤔🤔🤔\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/9ce73b7d6c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-20T13:42:41+02:00",
-				"url": "https://holgerfrohloff.de/2023/01/20/honest-question-am.html"
+				"url": "https://holgerfrohloff.de/2023/01/20/honest-question-am.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/01/20/so-heute-arbeite.html",
@@ -1512,7 +1572,8 @@
 				"content_html": "<p>Training ✅</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Training ✅\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/2f7bd8d4f4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-14T12:41:31+02:00",
-				"url": "https://holgerfrohloff.de/2023/01/14/training.html"
+				"url": "https://holgerfrohloff.de/2023/01/14/training.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/01/13/tonight-well-have.html",
@@ -1520,7 +1581,8 @@
 				"content_html": "<p>Tonight we’ll have freshly made pitas with homemade fresh Tzaziki 😋😋😋</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Tonight we’ll have freshly made pitas with homemade fresh Tzaziki 😋😋😋\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/4dce98a3cc.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/8969/2023/c0e994298f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-13T18:30:57+02:00",
-				"url": "https://holgerfrohloff.de/2023/01/13/tonight-well-have.html"
+				"url": "https://holgerfrohloff.de/2023/01/13/tonight-well-have.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/01/13/utility-tool-to.html",
@@ -1537,7 +1599,8 @@
 				"content_html": "<p>After four days of drinking regular coffee the new espresso beans finally arrived. I’m surprised to see that the packaging doesn’t have the little valve anymore. Maybe this is for saving on packaging reasons?\nI don’t know. ￼</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "After four days of drinking regular coffee the new espresso beans finally arrived. I’m surprised to see that the packaging doesn’t have the little valve anymore. Maybe this is for saving on packaging reasons?\n I don’t know. ￼\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/bd582cc09c.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/8969/2023/78869d9685.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-12T18:28:11+02:00",
-				"url": "https://holgerfrohloff.de/2023/01/12/after-four-days.html"
+				"url": "https://holgerfrohloff.de/2023/01/12/after-four-days.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/01/12/finally-made-the.html",
@@ -1546,7 +1609,7 @@
 				"content_text": "I finally made the migration to micro.blog with my personal site https://holgerfrohloff.de\r\nAll the posts and newsletters I've written are migrated. They are still being published so they are not styled, yet.\r\nHave to migrate all pages as well. And then the overal design of the site.\r\nI want it to look a little bit different and also showcase some of the functionality that microblog offers me now.\r\nOverall I am happy to be even more part of the [IndieWeb](https://indieweb.org/) now.\r\n\r\nPhoto by <a href=\"https://unsplash.com/@cadop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Mathew Schwartz</a> on <a href=\"https://unsplash.com/de/fotos/sb7RUrRMaC4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\r\n  \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/b29e558bf6.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-01-12T18:03:27+02:00",
 				"url": "https://holgerfrohloff.de/2023/01/12/finally-made-the.html",
-				"tags": ["article"]
+				"tags": ["article","Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/01/12/dear-heymichellemacpkmsocial-is.html",
@@ -1562,7 +1625,8 @@
 				"content_html": "<p>Oh I am beyond happy! My copy of <a href=\"https://steelbrothers.shop/products/the-new-walden\">The new Walden</a> by Steelbrothers just arrived.\nLet’s put this on my MB bookshelf!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Oh I am beyond happy! My copy of [The new Walden](https://steelbrothers.shop/products/the-new-walden) by Steelbrothers just arrived. \nLet’s put this on my MB bookshelf!\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/a0b3ee9f88.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/8969/2023/a00dd7b04a.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/8969/2023/a16736f770.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/8969/2023/0dd4802908.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/8969/2023/5d6b486bdd.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/8969/2023/705e65c44a.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/8969/2023/3793ff4e57.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-12T12:23:23+02:00",
-				"url": "https://holgerfrohloff.de/2023/01/12/oh-i-am.html"
+				"url": "https://holgerfrohloff.de/2023/01/12/oh-i-am.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/01/12/moin-erste-meeting.html",
@@ -1618,7 +1682,8 @@
 				"content_html": "<p>Moin.</p>\n<p>(Das Bild ist aus Dänemark vom 29.12.22)</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Moin. \n\n(Das Bild ist aus Dänemark vom 29.12.22)\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/71327ae7ff.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-06T10:08:05+02:00",
-				"url": "https://holgerfrohloff.de/2023/01/06/moin-das-bild.html"
+				"url": "https://holgerfrohloff.de/2023/01/06/moin-das-bild.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/01/06/finished-reading-gmbh.html",
@@ -1666,7 +1731,8 @@
 				"content_html": "<p>The one who opens espresso beans like this is a bad person.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "The one who opens espresso beans like this is a bad person. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/fe452bf1f7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-04T11:44:55+02:00",
-				"url": "https://holgerfrohloff.de/2023/01/04/the-one-who.html"
+				"url": "https://holgerfrohloff.de/2023/01/04/the-one-who.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/01/04/mach-dem-radtraining.html",
@@ -1674,7 +1740,8 @@
 				"content_html": "<p>Mach dem Radtraining ist vor der Prophylaxe! Moin vom Zahnarzt</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Mach dem Radtraining ist vor der Prophylaxe! Moin vom Zahnarzt\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2023/ce8c1cc50b.jpg\" width=\"567\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-04T10:05:07+02:00",
-				"url": "https://holgerfrohloff.de/2023/01/04/mach-dem-radtraining.html"
+				"url": "https://holgerfrohloff.de/2023/01/04/mach-dem-radtraining.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2023/01/04/guten-morgen-jetzt.html",
@@ -1738,7 +1805,8 @@
 				"content_html": "<p>Heute Rückfahrt. 🗺  Als ich am Bahnhof ankam fuhr direkt ein Zug ein, den ich nehmen konnte. Tatsächlich hatte er 25min Verspätung. Für mich war das gut, ich hätte sonst noch 30min auf den nächsten warten müssen. 🤷‍♂️</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Heute Rückfahrt. 🗺  Als ich am Bahnhof ankam fuhr direkt ein Zug ein, den ich nehmen konnte. Tatsächlich hatte er 25min Verspätung. Für mich war das gut, ich hätte sonst noch 30min auf den nächsten warten müssen. 🤷‍♂️\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/905e6d1ebe.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-11T11:57:35+02:00",
-				"url": "https://holgerfrohloff.de/2022/12/11/heute-rckfahrt-als.html"
+				"url": "https://holgerfrohloff.de/2022/12/11/heute-rckfahrt-als.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/12/10/schreibpause.html",
@@ -1746,7 +1814,8 @@
 				"content_html": "<p>Schreibpause</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Schreibpause\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/5140f6a4c3.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/8969/2022/10159348a6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-10T15:29:34+02:00",
-				"url": "https://holgerfrohloff.de/2022/12/10/schreibpause.html"
+				"url": "https://holgerfrohloff.de/2022/12/10/schreibpause.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/12/10/kurze-unterbrechung-des.html",
@@ -1754,7 +1823,8 @@
 				"content_html": "<p>Kurze Unterbrechung des Schreibens.</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Kurze Unterbrechung des Schreibens. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/171af3eae8.jpg\" width=\"600\" height=\"599\" alt=\"\">\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/8969/2022/cf50fdae3a.mov\" width=\"640\" height=\"360\" poster=\"https://holgerfrohloff.de/uploads/2022/aed3a244c4.png\" preload=\"none\"></video>\n",
 				"date_published": "2022-12-10T13:01:36+02:00",
-				"url": "https://holgerfrohloff.de/2022/12/10/kurze-unterbrechung-des.html"
+				"url": "https://holgerfrohloff.de/2022/12/10/kurze-unterbrechung-des.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/12/10/schreiben-mit-blick.html",
@@ -1762,7 +1832,8 @@
 				"content_html": "<p>Schreiben mit Blick auf das Wasser. Dazu eine entspannte Jazz Playlist im Hintergrund. Danke fürs Fragen, ich komme zurecht.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Schreiben mit Blick auf das Wasser. Dazu eine entspannte Jazz Playlist im Hintergrund. Danke fürs Fragen, ich komme zurecht. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/dce9631645.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
 				"date_published": "2022-12-10T12:04:43+02:00",
-				"url": "https://holgerfrohloff.de/2022/12/10/schreiben-mit-blick.html"
+				"url": "https://holgerfrohloff.de/2022/12/10/schreiben-mit-blick.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/12/09/rckblickend.html",
@@ -1796,7 +1867,8 @@
 				"content_html": "<p>My wonderful wife just brought me a bowl of delicious oatmeal. Thank you!\nHeaven. 👻🫶</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "My wonderful wife just brought me a bowl of delicious oatmeal. Thank you!\nHeaven. 👻🫶\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/4c8a19f236.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-09T11:07:53+02:00",
-				"url": "https://holgerfrohloff.de/2022/12/09/100753.html"
+				"url": "https://holgerfrohloff.de/2022/12/09/100753.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/12/09/with-all-the.html",
@@ -1860,7 +1932,8 @@
 				"content_html": "<p>What’s the matter? My mad magnetic matte PenMat materialized, mate! Thanks @pentips!</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "What’s the matter? My mad magnetic matte PenMat materialized, mate! Thanks @pentips!\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/b3b0667d07.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-14T14:45:00+02:00",
-				"url": "https://holgerfrohloff.de/2022/11/14/whats-the-matter.html"
+				"url": "https://holgerfrohloff.de/2022/11/14/whats-the-matter.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/11/08/und-immer-wenn.html",
@@ -1868,7 +1941,8 @@
 				"content_html": "<p>und immer, wenn der Mond scheint, dann ist Showtime, dann ist Showtime. 🦉</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "und immer, wenn der Mond scheint, dann ist Showtime, dann ist Showtime. 🦉\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/a0560d6801.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-08T00:37:22+02:00",
-				"url": "https://holgerfrohloff.de/2022/11/08/und-immer-wenn.html"
+				"url": "https://holgerfrohloff.de/2022/11/08/und-immer-wenn.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/11/02/it-was-a.html",
@@ -1876,7 +1950,8 @@
 				"content_html": "<p>It was a feast</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "It was a feast\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/5f1c2a4e3c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-02T18:52:46+02:00",
-				"url": "https://holgerfrohloff.de/2022/11/02/it-was-a.html"
+				"url": "https://holgerfrohloff.de/2022/11/02/it-was-a.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/11/01/fr-mbnov-msste.html",
@@ -1884,7 +1959,8 @@
 				"content_html": "<p>Für #mbnov müsste ich jetzt englische Beiträge schreiben. Heute am 1.11. wäre das Wort figure dran. Aber ich poste einfach dieses Bild stattdessen.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Für #mbnov müsste ich jetzt englische Beiträge schreiben. Heute am 1.11. wäre das Wort figure dran. Aber ich poste einfach dieses Bild stattdessen. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/7c7be7603b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-01T12:28:00+02:00",
-				"url": "https://holgerfrohloff.de/2022/11/01/fr-mbnov-msste.html"
+				"url": "https://holgerfrohloff.de/2022/11/01/fr-mbnov-msste.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/11/01/viele-halloween-kostme.html",
@@ -1892,7 +1968,8 @@
 				"content_html": "<p>Viele Halloween Kostüme in der Upper West Side heute. Großartiges Spektakel</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Viele Halloween Kostüme in der Upper West Side heute. Großartiges Spektakel\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/b4ce8008a3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-01T00:11:45+02:00",
-				"url": "https://holgerfrohloff.de/2022/11/01/viele-halloween-kostme.html"
+				"url": "https://holgerfrohloff.de/2022/11/01/viele-halloween-kostme.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/10/30/so-sah-es.html",
@@ -1900,7 +1977,8 @@
 				"content_html": "<p>So sah es heute aus. Von Liberty Island 🗽</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "So sah es heute aus. Von Liberty Island 🗽 \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/ffae3a38ca.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-30T23:12:30+02:00",
-				"url": "https://holgerfrohloff.de/2022/10/30/so-sah-es.html"
+				"url": "https://holgerfrohloff.de/2022/10/30/so-sah-es.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/10/27/ein-foto-vom.html",
@@ -1908,7 +1986,8 @@
 				"content_html": "<p>Ein Foto vom gestrigen Tag</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Ein Foto vom gestrigen Tag\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/3b9b96ec56.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-27T13:10:49+02:00",
-				"url": "https://holgerfrohloff.de/2022/10/27/ein-foto-vom.html"
+				"url": "https://holgerfrohloff.de/2022/10/27/ein-foto-vom.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/10/27/ich-bemerke-wie.html",
@@ -1924,7 +2003,8 @@
 				"content_html": "<p>Wenn dein Wasserhahn eine Anleitung benötigt, läuft was verkehrt.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Wenn dein Wasserhahn eine Anleitung benötigt, läuft was verkehrt. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/72c9985b01.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-22T11:12:16+02:00",
-				"url": "https://holgerfrohloff.de/2022/10/22/wenn-dein-wasserhahn.html"
+				"url": "https://holgerfrohloff.de/2022/10/22/wenn-dein-wasserhahn.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/10/19/soul-food-fr.html",
@@ -1932,7 +2012,8 @@
 				"content_html": "<p>Soul food für den heutigen Tag 😋</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Soul food für den heutigen Tag 😋\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/9615c2ffd3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-19T12:24:41+02:00",
-				"url": "https://holgerfrohloff.de/2022/10/19/soul-food-fr.html"
+				"url": "https://holgerfrohloff.de/2022/10/19/soul-food-fr.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/10/19/heute-morgen-auf.html",
@@ -1940,7 +2021,8 @@
 				"content_html": "<p>Heute morgen auf dem Weg ins Büro kurz angehalten und ein paar Fitnessübungen gemacht.  Ich liebe diese „Sportinseln“, v.a. auch am Strand in Portugal und Katalonien!</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Heute morgen auf dem Weg ins Büro kurz angehalten und ein paar Fitnessübungen gemacht.  Ich liebe diese „Sportinseln“, v.a. auch am Strand in Portugal und Katalonien!\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/30b503fe18.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-19T09:59:47+02:00",
-				"url": "https://holgerfrohloff.de/2022/10/19/heute-morgen-auf.html"
+				"url": "https://holgerfrohloff.de/2022/10/19/heute-morgen-auf.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/10/17/milchreis.html",
@@ -1948,7 +2030,8 @@
 				"content_html": "<p>Milchreis</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Milchreis\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/0d34629505.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-17T13:05:29+02:00",
-				"url": "https://holgerfrohloff.de/2022/10/17/milchreis.html"
+				"url": "https://holgerfrohloff.de/2022/10/17/milchreis.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/10/15/heute-hecke-schneiden.html",
@@ -1956,7 +2039,8 @@
 				"content_html": "<p>Heute: Hecke schneiden</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Heute: Hecke schneiden\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/8555dc4dd0.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-15T11:57:52+02:00",
-				"url": "https://holgerfrohloff.de/2022/10/15/heute-hecke-schneiden.html"
+				"url": "https://holgerfrohloff.de/2022/10/15/heute-hecke-schneiden.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/10/14/posted-on-friday.html",
@@ -1964,7 +2048,8 @@
 				"content_html": "<p>Posted on Friday, 14th at 4:13pm in Berlin\nA day in the Life</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Posted on Friday, 14th at 4:13pm in Berlin\nA day in the Life\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/e82a39cb7c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-14T16:14:32+02:00",
-				"url": "https://holgerfrohloff.de/2022/10/14/posted-on-friday.html"
+				"url": "https://holgerfrohloff.de/2022/10/14/posted-on-friday.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/10/07/mehr-herbst.html",
@@ -1972,7 +2057,8 @@
 				"content_html": "<p>Mehr Herbst</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Mehr Herbst \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/8840768311.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-07T21:44:24+02:00",
-				"url": "https://holgerfrohloff.de/2022/10/07/mehr-herbst.html"
+				"url": "https://holgerfrohloff.de/2022/10/07/mehr-herbst.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/10/07/tri-tra-tralala.html",
@@ -1980,7 +2066,8 @@
 				"content_html": "<p>Tri Tra Tralala der Herbst ist da.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Tri Tra Tralala der Herbst ist da. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/50e27b51f9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-07T08:18:54+02:00",
-				"url": "https://holgerfrohloff.de/2022/10/07/tri-tra-tralala.html"
+				"url": "https://holgerfrohloff.de/2022/10/07/tri-tra-tralala.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/10/06/i-am-really.html",
@@ -1996,7 +2083,8 @@
 				"content_html": "<p>Heute mal ein neues Büro probearbeiten mit Sicht auf den Amazon Tower</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Heute mal ein neues Büro probearbeiten mit Sicht auf den Amazon Tower\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/fe408866db.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-05T08:55:34+02:00",
-				"url": "https://holgerfrohloff.de/2022/10/05/heute-mal-ein.html"
+				"url": "https://holgerfrohloff.de/2022/10/05/heute-mal-ein.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/10/05/maintaining-custom-software.html",
@@ -2013,7 +2101,8 @@
 				"content_html": "<p>Was möchte mir der Autor damit sagen? Ich verstehe es wirklich nicht.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Was möchte mir der Autor damit sagen? Ich verstehe es wirklich nicht. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/f5aed11d36.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-04T13:45:31+02:00",
-				"url": "https://holgerfrohloff.de/2022/10/04/was-mchte-mir.html"
+				"url": "https://holgerfrohloff.de/2022/10/04/was-mchte-mir.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/09/27/christian-heilmann-codepo.html",
@@ -2021,7 +2110,8 @@
 				"content_html": "<p>Christian Heilmann @codepo8 giving a talk in front of 🚢 in Hamburg at web-developer-conference 🥳</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Christian Heilmann @codepo8 giving a talk in front of 🚢 in Hamburg at web-developer-conference 🥳\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/c66118e8e3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-09-27T09:40:56+02:00",
-				"url": "https://holgerfrohloff.de/2022/09/27/christian-heilmann-codepo.html"
+				"url": "https://holgerfrohloff.de/2022/09/27/christian-heilmann-codepo.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/09/26/ich-lasse-seit.html",
@@ -2029,7 +2119,8 @@
 				"content_html": "<p>Ich lasse seit drei Tagen einen <a href=\"https://snowflake.torproject.org/\">Snowflake</a> Proxy in Docker auf meinem Rechner laufen.\nBisher bewirkt es nix Schlechtes für mich und hoffentlich etwas Hilfe da wo sie gebraucht wird.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Ich lasse seit drei Tagen einen [Snowflake](https://snowflake.torproject.org/) Proxy in Docker auf meinem Rechner laufen.\nBisher bewirkt es nix Schlechtes für mich und hoffentlich etwas Hilfe da wo sie gebraucht wird.\n\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/684517827f.png\" width=\"600\" height=\"310\" alt=\"\" />\n",
 				"date_published": "2022-09-26T10:47:11+02:00",
-				"url": "https://holgerfrohloff.de/2022/09/26/ich-lasse-seit.html"
+				"url": "https://holgerfrohloff.de/2022/09/26/ich-lasse-seit.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/09/23/nachher-gibt-es.html",
@@ -2037,7 +2128,8 @@
 				"content_html": "<p>Nachher gibt es endlich mal wieder Baked Oats zum Mittag. 😋😋😋</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Nachher gibt es endlich mal wieder Baked Oats zum Mittag. 😋😋😋\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/1a20944d3f.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-09-23T10:07:06+02:00",
-				"url": "https://holgerfrohloff.de/2022/09/23/nachher-gibt-es.html"
+				"url": "https://holgerfrohloff.de/2022/09/23/nachher-gibt-es.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/09/23/den-morgen-mit.html",
@@ -2045,7 +2137,8 @@
 				"content_html": "<p>Den Morgen mit Radeln in der Garage beginnen. Eine Stunde Grundlage 😍😅</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Den Morgen mit Radeln in der Garage beginnen. Eine Stunde Grundlage 😍😅\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/c7023f8ef3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-09-23T06:03:38+02:00",
-				"url": "https://holgerfrohloff.de/2022/09/23/den-morgen-mit.html"
+				"url": "https://holgerfrohloff.de/2022/09/23/den-morgen-mit.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/06/27/i-left-my.html",
@@ -2061,7 +2154,8 @@
 				"content_html": "<p>This morning I was able to gather quite a few strawberries 🍓 from our garden. 😍</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "This morning I was able to gather quite a few strawberries 🍓 from our garden. 😍\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/54d6f6dd53.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-10T07:18:36+02:00",
-				"url": "https://holgerfrohloff.de/2022/06/10/this-morning-i.html"
+				"url": "https://holgerfrohloff.de/2022/06/10/this-morning-i.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/06/09/really-made-my.html",
@@ -2069,7 +2163,8 @@
 				"content_html": "<p>Really made my day. What a wonderful comment.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Really made my day. What a wonderful comment. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/a7d9aed700.png\" width=\"529\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-09T07:18:47+02:00",
-				"url": "https://holgerfrohloff.de/2022/06/09/really-made-my.html"
+				"url": "https://holgerfrohloff.de/2022/06/09/really-made-my.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/06/02/it-was-supposed.html",
@@ -2118,7 +2213,7 @@
 				"content_text": "MacOS 12.4 changes the display of the selected keyboard layout. Before 12.4 it used to be a country's flag. I could discern the selected layout from glancing to the menu bar and recognize the flag (US or Germany). That was quick and easy.\r\nNow they changed it to show two white-ish letters or black background. \r\n\r\nI have to read the actual letters to know the layout. I don't think this really helps anything. It only makes things look more similar, uniform and boring.\r\nMaybe there is a setting to revert that back to colorful country flags, but I am not hopeful. 😑\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/fb4c5bea39.png\" width=\"600\" height=\"46\" alt=\"\" />\n",
 				"date_published": "2022-05-23T10:00:28+02:00",
 				"url": "https://holgerfrohloff.de/2022/05/23/macos-makes-it.html",
-				"tags": ["article"]
+				"tags": ["article","Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/05/16/i-am-very.html",
@@ -2142,7 +2237,8 @@
 				"content_html": "<p>And this is how it looks:</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "And this is how it looks:\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/e20793b0a0.png\" width=\"600\" height=\"306\" alt=\"\" />\n",
 				"date_published": "2022-05-13T09:51:05+02:00",
-				"url": "https://holgerfrohloff.de/2022/05/13/and-this-is.html"
+				"url": "https://holgerfrohloff.de/2022/05/13/and-this-is.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/05/13/i-just-found.html",
@@ -2150,7 +2246,8 @@
 				"content_html": "<p>I just found the setting how to use TailwindCSS css classes autocompletion in <code>html.erb</code> files. Now I can type the beginning of the class name and TailwindCSS will show me matching autocompletion, even for my html.erb files. 🎉</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I just found the setting how to use TailwindCSS css classes autocompletion in `html.erb` files. Now I can type the beginning of the class name and TailwindCSS will show me matching autocompletion, even for my html.erb files. 🎉\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/9c80e2c1b7.png\" width=\"600\" height=\"256\" alt=\"\" />\n",
 				"date_published": "2022-05-13T09:50:11+02:00",
-				"url": "https://holgerfrohloff.de/2022/05/13/i-just-found.html"
+				"url": "https://holgerfrohloff.de/2022/05/13/i-just-found.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/05/12/i-appreciate-the.html",
@@ -2222,7 +2319,8 @@
 				"content_html": "<p>Riding on Zwift (aka commuting to the wfh office) and reading <a href=\"https://micro.blog/manton\">@manton</a>’s book (at book.micro.blog) on microblogging and the open web. 🥳</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Riding on Zwift (aka commuting to the wfh office) and reading [@manton](https://micro.blog/manton)’s book (at book.micro.blog) on microblogging and the open web. 🥳\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2022/e5873dae13.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-04T08:23:45+02:00",
-				"url": "https://holgerfrohloff.de/2022/05/04/riding-on-zwift.html"
+				"url": "https://holgerfrohloff.de/2022/05/04/riding-on-zwift.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2022/05/03/staubsaugerroboter-sind-gar.html",
@@ -2375,7 +2473,8 @@
 				"content_html": "<p>On my way to Leipzig by train. Once I get there I will head back to Berlin. On my bike. I heard someone call this nonsense 🤣</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "On my way to Leipzig by train. Once I get there I will head back to Berlin. On my bike. I heard someone call this nonsense 🤣\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2019/9632089800.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-05-18T09:21:16+02:00",
-				"url": "https://holgerfrohloff.de/2019/05/18/on-my-way.html"
+				"url": "https://holgerfrohloff.de/2019/05/18/on-my-way.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2019/05/15/using-css-modules.html",
@@ -2399,7 +2498,8 @@
 				"content_html": "<p>This morning I took some detours on my way to my client by bike. I rode through some parks, chose small streets and enjoyed myself on my @8barbikes adventure bike. I‘m very much in love.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "This morning I took some detours on my way to my client by bike. I rode through some parks, chose small streets and enjoyed myself on my @8barbikes adventure bike. I‘m very much in love. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2019/67582f251a.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2019-05-14T19:41:32+02:00",
-				"url": "https://holgerfrohloff.de/2019/05/14/this-morning-i.html"
+				"url": "https://holgerfrohloff.de/2019/05/14/this-morning-i.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2019/04/12/from-my-friend.html",
@@ -2458,7 +2558,8 @@
 				"content_html": "<p>Today I am working on a new visualization of fragmentation of ownership for Git repositories. The more fragmented a repo is, the more developers work on it together. This leads to no clear ownership and makes it easier for defects to creep into the code.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Today I am working on a new visualization of fragmentation of ownership for Git repositories. The more fragmented a repo is, the more developers work on it together. This leads to no clear ownership and makes it easier for defects to creep into the code. \n\n<img src=\"https://cdn.uploads.micro.blog/8969/2019/901bbd362c.jpg\" width=\"600\" height=\"367\" alt=\"\" />\n",
 				"date_published": "2019-03-13T12:27:40+02:00",
-				"url": "https://holgerfrohloff.de/2019/03/13/today-i-am.html"
+				"url": "https://holgerfrohloff.de/2019/03/13/today-i-am.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2019/03/13/complex-conditionals.html",
@@ -3149,7 +3250,7 @@
 				"content_text": "A week ago I mentioned my Automation project: Factory 0.1. During the last week I managed to get it to a point where it works. Today I wanted to tell you a bit about it.\n**This will be a lengthy, nerdy post about details and automation.**\n<!--more-->\n\n### Writing the article\n\nThe first thing to do is to write my article/email. This is where it all starts, and this is what I look forward to doing. Writing happens for me in the application [Ulysses](https://ulysses.app/). I used to write in other apps like Simplenote, IA writer or more long-form in Scrivener. For a few months now, I use Ulysses exclusively for all my writing and notes. It feels good to have everything in one place and not scattered throughout more apps.\n\nI write in Markdown. All the time. I just got used to it over the years and I like the simplicity. Of course that comes in handy when writing Issues, Pull Requests, Wiki entries or Readme for GitHub powered repositories. Since GitHub uses (or supports) Markdown for all these, I can easily write for that. So if you never really got into Markdown, I can really suggest trying it out some more.\n\nI start my articles with the date of the current day or the date when I plan to publish the article. Sometimes I write a few days in advance—if I know I won't get around to doing it on the day in question.\nThe next line will hold the title. I mention it in this detail because it's important in a later step.\nThen the body of the article will begin.\n\nI aim for a length of about 2 minutes reading time. Earlier in my career I wrote really long articles (like this one 😉). But I noticed that people tend to not want to read such long articles. And since I write every week-day, I try to keep it short and on-point. This is usually harder than it sounds. Ulysses helps me reach the 2-minutes-marker with a visualisation of the goal.\n\n<img src=\"https://www.holgerfrohloff.de/assets/ulysses-goal.png\" style=\"height: 450px;\" />\n\nOnce I am done with the article, it's time to proof-read.\n\nThen on to\n\n### Publishing the article\n\nI use [Jekyll](https://jekyllrb.com) a static site generator for my website. I used to use Wordpress but I didn't really _use_ Wordpress and the constant necessity for updates was annoying. Also I do not use PHP and have little experience. So I was always dependent on external themes and plugins for anything. But I wanted to be able to develop/hack on my own website. Since I do know Ruby very well it made absolute sense to use that as my website technology.\nHosting is done via GitHub pages. So that's one more thing I do not have to worry about. The hosting, the SSL certificate and all \"updates\" are handled by GitHub. Of course updates to Jekyll are made by me. GitHub offers security monitoring for repositories, so I am always aware if a dependency it outdated or has a leak.\nAnother convenience is the ubiquity of GitHub. It's available in many automation tools' stacks, so I can easily use it if needed.\n\nTo publish my article, I use my iPad. I love the iPad's form factor (it's a 12.9\"), the tactility and using it. I look for ways to use it more.\nWith the apps [Workflow](https://www.workflow.is/), [Drafts](https://getdrafts.com/) and [Working Copy](https://workingcopyapp.com/) I have everything I need.\n\n#### Breakdown of the steps for publishing\n\nTo have a new article published with Jekyll, I need to do the following things. I used to do them manually:\n\n0. Write in Ulysses\n1. Create a new file in site/\\_posts folder with the naming convention `_posts/${year-month-day}-this-is-the-title.markdown`\n2. Format the front matter (configuration for this specific post/article in YAML) with\n\t- date\n\t- title\n\t- layout\n\t- categories\n3. Insert the contents of the article from Ulysses\n4. Commit the file/changes\n5. Push to `origin/master`\n\nThe first two steps involved more work than I'd like to do for publishing.\nAfter automating this process, this is the remaining procedure:\n\n0. Write in Ulysses\n1. In Ulysses: Sharing -\\> \"Preview in Text/Markdown\" -\\> `…` -\\> \"Open in another application\"\n2. Tap \"Drafts\" (version 5, it might also work in version 4), then in the Drafts-layer tap \"Open\"\n3. Inside Drafts, I access my \"Publish article to www.holgerfrohloff.de\" action\n\nThe rest happens automatically and I am left with an open Safari browser tab pointing at my website.\n\nAnother thing that happens: IFTTT watches my site's RSS feed and publishes new articles to [LinkedIn](https://www.linkedin.com/in/holger-frohloff) automatically.\n\nAt the end I show ideas for further reducing the amount of steps that I will probably explore.\n\n### The Workflow workflow\n\nBefore going into the actions for Drafts, I want to make a quick detour to Workflow.app. Using Workflow is actually the very first step that happens in the Draft action and I want to show what I am doing there.\n\nAs you saw in the original procedure in step 1, I needed to create a file with the title of the article as part of the filename. In Rails you call this a [parameterized string](http://api.rubyonrails.org/classes/String.html#method-i-parameterize). Workflow creates it for me:\n\n<img src=\"https://www.holgerfrohloff.de/assets/parameterize-text.PNG\" style=\"height: 450px;\" />\n\nIt gets the document's title as input. This is the first line in a Drafts document.\nIt returns the parameterized title.\nI will then use that output inside an action in Drafts.\n\n### The Drafts actions\n\nI actually have and use three Drafts actions:\n- Publish article to www.holgerfrohloff.de (the main one I manually start)\n- Commit-in-Working-Copy\n- Push-in-Working-Copy\n\nThe latter ones are run by the first one.\nWhile experimenting and trying to make it work I ran into a problem with Drafts, that I didn't know how to get around: I could not chain two x-callback-url action steps. If you do not know what x-callback-urls are, I will get to that in a minute.\nI researched how other solved that, and stumbled upon this article [Automating iOS: A Comprehensive Guide to URL Schemes and Drafts Actions](https://www.macstories.net/tutorials/guide-url-scheme-ios-drafts/). It's from 2014 and targets Drafts 4 (the previous version), but the concepts still somehow applied to my problems. The author presents the necessary workaround:\nUse an `x-success` x-callback-url to call another Action in Drafts, with the `runAction` action. Puh. Here's the docs from [Drafts](https://getdrafts.com/urls/#runaction).\n\nWhat happens is essentially this: Once the action is finished it returns to Drafts (specified so in the `x-success` callback) and executes the action `runAction` with its given parameters. In URL this looks like this:\n```\nworking-copy://x-callback-url/commit/?repo={{5minpause.github.io}}&limit={{3}}&message={{broadcast}}&key={{secret-key}}&x-success=drafts5%3A%2F%2Fx-callback-url%2FrunAction%3Ftext%3D%26action%3DPush-in-Working-Copy%26allowEmpty%3Dtrue\n```\n\nThe start is the x-callback-url for Working copy app. I execute the `commit` action on the `repo` 5minpause.github.io (my website) with the `limit` of 3 ([only changes with three files get committed](https://workingcopyapp.com/url-schemes.html#committing)) a `message` that serves as the commit message and the secret `key` needed to do this at all via x-callback-url. This is a requirement and safety mechanism by Working Copy.\nThe value passed to the `x-success` parameter is url-encoded. This is needed for Drafts to be able to run it. Without encoding it would look like this:\n\t`drafts5://x-callback-url/runAction?text=&action=Push-in-Working-Copy&allowEmpty=true`\n\nAgain, `drafts://x-callback-url/runAction` just opens Drafts and tells it to use the `runAction` action. The param `text` is left empty (but it is required!). You could specify text to be included in your document (that is created as part of the action). I do not need that. `action` has the name of the Action I want to run in Drafts. You noticed, that is the name of one of my actions from above. The last param `allowEmpty=true` is decisive. It allows me to leave the `text` blank and essentially leads to the action being executed just on any document that happens to be active in Drafts. Since the \"Push in Working Copy\" action is document-agnostic that's exactly what I want.\n\nBut this was already the last step in the chain. I used that because it was easier to describe. The first step actually looks like this:\n\n```\nworking-copy://x-callback-url/write/?repo={{5minpause.github.io}}&path={{_posts/}}[[date]]-[[workflow_result]].markdown&text=---%0a{{layout: post}}%0a{{title: \"}}[[title]]{{\"}}%0a{{categories: \"newsletter\"}}%0a{{date: }}[[date]]{{ 15:00:00 +0200}}%0a---%0a[[body]]&key={{secret-key}}&x-success=drafts5%3A%2F%2Fx-callback-url%2FrunAction%3Ftext%3D%26action%3DCommit-in-Working-Copy%26allowEmpty%3Dtrue\n```\n\nIt starts with Working Copy and the [`write` action](https://workingcopyapp.com/url-schemes.html#writing). I specify the `path`. Notice the `[[date]]` value. This is Drafts-magic, as it automatically replaces/interprets certain values in the URL. The other one is `[[workflow_result]]` that is provided by an earlier action step in this action, the Workflow \"parameterize text\" workflow. The value for the `text` param is the contents of the document. It starts with the YAML front matter. Everything written in `&#123;&#123; }}` is put like that into the document, including spaces, without escaping/interpreting it. `%0a` means line-break.\nAt the end you see the \"Commit in Working Copy\" action being called as `x-success` parameter.\n\nThe last step is opening the Safari browser at https://www.holgerfrohloff.de and that is simply another `x-success={{https://www.holgerfrohloff.de}}` parameter. Since Safari is registered as the receiving app for http/https protocols, it gets used to open that URL.\n\nAnd that's the thing about x-callback-urls. There is probably a lot to say about it, but the essence is that apps can register for a certain protocol. Working copy registered for the protocol `working-copy://`, Drafts for `drafts5://`. Numerous other apps offer this as well. [This website](http://x-callback-url.com/) offers the spec for app authors to implement and shows a comprehensive list of x-callback-urls for different apps.\n\nThis is how it looks on my iPad:\n<iframe src=\"https://player.vimeo.com/video/284349596\" width=\"640\" height=\"480\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>\n<p><a href=\"https://vimeo.com/284349596\">Automating publishing to a Jekyll website using iOS</a></p>\n## Next steps\n\nI have some ideas/things I'd like to try out:\n- Automating the removal of the date. If you looked at the video, you saw that I manually remove the date from the beginning of the article. This could be automated.\n- Wrap everything into a workflow that I can access/start from the share sheet on iOS. This would essentially remove everything after Ulysses. I would only need to call the action from the share sheet in Ulysses and I would be done.\n- Try to improve usage of callback-urls in Drafts. While searching for ways to chain actions in Drafts, I created a topic on the forums: [https://forums.getdrafts.com/t/chaining-x-callback-urls-does-not-work-as-expected/2157/2](https://forums.getdrafts.com/t/chaining-x-callback-urls-does-not-work-as-expected/2157/2). The support then pointed out that using `Call URL` action steps might not be the optimal way. I should change those to use the `Call Callback-URL` action steps inside Drafts.\n- Support drafting of articles. Sometimes I write these articles a few days in advance. I cannot, currently, publish them without running through the pushing to `origin/master` step.\n\n**The big thing remaining is publishing to Drip.** Since I use Drip to send these articles as newsletters to my readers, I have to create the on their website and schedule them. Drip offers a REST API that I could probably use from within Workflow app.  An alternative would be to use Zapier to create these POST requests after pushing to GitHub. That might also work.\n",
 				"date_published": "2018-08-10T02:00:00+02:00",
 				"url": "https://holgerfrohloff.de/2018/08/10/my-automated-publishing.html",
-				"tags": ["article","newsletter"]
+				"tags": ["article","newsletter","Photos"]
 			},
 			{
 				"id": "http://holgerfrohloff.micro.blog/2018/08/09/books-i-enjoyed.html",
