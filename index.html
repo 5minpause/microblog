@@ -24,6 +24,86 @@
 	
 	  <div class="h-entry">
 		
+
+		<a href="https://holgerfrohloff.de/2025/01/21/this-is-so-good-httpsyoutubeatrrdesijovqzoiuavksm.html" class="u-url"><time class="dt-published" datetime="2025-01-21 22:27:15 &#43;0100">Jan 21, 2025</time></a>
+
+		<div class="e-content">
+			 <p>THIS. IS. SO. GOOD!</p>
+<p><a href="https://youtu.be/7a5trrD8E_0?si=JOvq04ZOIuAv0Ksm">youtu.be/7a5trrD8E&hellip;</a></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://holgerfrohloff.de/2025/01/15/i-journal-almost-daily-writing.html">How I created a “On this day” feature in Obsidian for my journaling</a></h1>
+		
+
+		<a href="https://holgerfrohloff.de/2025/01/15/i-journal-almost-daily-writing.html" class="u-url"><time class="dt-published" datetime="2025-01-15 10:40:39 &#43;0100">Jan 15, 2025</time></a>
+
+		<div class="e-content">
+			 <p>I journal almost daily writing my thoughts into Obsidian. They appear as entries in my Daily post. Previously, I journaled in DayOne. There I wrote using Markdown format for a few years. When I switched to Obsidian I was able to export everything from DayOne in Markdown format. When I imported they entries into Obsidian, I got this file/folder structure.</p>
+<p>&lt;img src=&ldquo;uploads/2025/492db98be7.png&quot;height=&ldquo;400&rdquo; alt=&quot;&quot;&gt;</p>
+<p>In the image you can see that I have a top-level folder called &ldquo;DayOne&rdquo; with subfolders for each notebook (or whatever it was called in DayOne). In &ldquo;Tagebuch&rdquo; (That&rsquo;s journal in German) I have all my daily journal entries reaching back until 2012. DayOne had this awesome feature called &ldquo;On This Day&rdquo; where you were presented with all your entries from the current day from previous years.</p>
+<p>I built that for myself in Obsidian and now I&rsquo;ll share how I did it.</p>
+<p>First, create the note that you want the contents to show up in. I called it &ldquo;On this day&rdquo;.
+You will need the <a href="https://github.com/blacksmithgu/obsidian-dataview">Dataview plugin</a>. In your note create a dataview snippet like this. I&rsquo;ll explain what it does in a second:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript">
+<span style="color:#a6e22e">dataviewjs</span>
+<span style="color:#66d9ef">const</span> <span style="color:#a6e22e">date</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">dv</span>.<span style="color:#a6e22e">date</span>(<span style="color:#e6db74">&#39;today&#39;</span>)
+<span style="color:#66d9ef">const</span> <span style="color:#a6e22e">todayDay</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">date</span>.<span style="color:#a6e22e">day</span>
+<span style="color:#66d9ef">const</span> <span style="color:#a6e22e">todayMonth</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">date</span>.<span style="color:#a6e22e">month</span>
+<span style="color:#a6e22e">dv</span>.<span style="color:#a6e22e">list</span>(
+	<span style="color:#a6e22e">dv</span>.<span style="color:#a6e22e">pages</span>(<span style="color:#e6db74">&#39;&#34;DayOne&#34;&#39;</span>).<span style="color:#a6e22e">where</span>(<span style="color:#a6e22e">p</span> =&gt; 
+		<span style="color:#a6e22e">p</span>.<span style="color:#a6e22e">dates</span> <span style="color:#f92672">&amp;&amp;</span> <span style="color:#a6e22e">p</span>.<span style="color:#a6e22e">dates</span>.<span style="color:#a6e22e">length</span> <span style="color:#f92672">&gt;</span> <span style="color:#ae81ff">0</span> <span style="color:#f92672">&amp;&amp;</span>
+		<span style="color:#a6e22e">p</span>.<span style="color:#a6e22e">dates</span>[<span style="color:#ae81ff">0</span>].<span style="color:#a6e22e">month</span> <span style="color:#f92672">===</span> <span style="color:#a6e22e">todayMonth</span> <span style="color:#f92672">&amp;&amp;</span> <span style="color:#a6e22e">p</span>.<span style="color:#a6e22e">dates</span>[<span style="color:#ae81ff">0</span>].<span style="color:#a6e22e">day</span> <span style="color:#f92672">===</span> <span style="color:#a6e22e">todayDay</span>
+	).<span style="color:#a6e22e">distinct</span>().<span style="color:#a6e22e">forEach</span>(<span style="color:#a6e22e">page</span> =&gt; {
+		<span style="color:#a6e22e">dv</span>.<span style="color:#a6e22e">paragraph</span>(<span style="color:#e6db74">&#34;![[&#34;</span><span style="color:#f92672">+</span><span style="color:#a6e22e">page</span>.<span style="color:#a6e22e">file</span>.<span style="color:#a6e22e">path</span><span style="color:#f92672">+</span><span style="color:#e6db74">&#34;]]&#34;</span>)
+	})
+)
+
+
+<span style="color:#a6e22e">dv</span>.<span style="color:#a6e22e">list</span>(
+	<span style="color:#a6e22e">dv</span>.<span style="color:#a6e22e">pages</span>(<span style="color:#e6db74">&#39;&#34;1 Projekte/0 log/daily&#34;&#39;</span>).<span style="color:#a6e22e">where</span>(<span style="color:#a6e22e">p</span> =&gt; {
+		<span style="color:#66d9ef">const</span> <span style="color:#a6e22e">fileDate</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">dv</span>.<span style="color:#a6e22e">date</span>(<span style="color:#a6e22e">p</span>.<span style="color:#a6e22e">file</span>.<span style="color:#a6e22e">name</span>);
+		<span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">fileDate</span>) {
+			<span style="color:#a6e22e">fileDate</span>.<span style="color:#a6e22e">month</span> <span style="color:#f92672">===</span> <span style="color:#a6e22e">todayMonth</span> <span style="color:#f92672">&amp;&amp;</span> <span style="color:#a6e22e">fileDate</span>.<span style="color:#a6e22e">day</span> <span style="color:#f92672">===</span> <span style="color:#a6e22e">todayDay</span>
+		} <span style="color:#66d9ef">else</span> { <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">false</span> }
+	}).<span style="color:#a6e22e">distinct</span>().<span style="color:#a6e22e">forEach</span>(<span style="color:#a6e22e">page</span> =&gt; {
+		<span style="color:#a6e22e">dv</span>.<span style="color:#a6e22e">paragraph</span>(<span style="color:#e6db74">&#34;![[&#34;</span><span style="color:#f92672">+</span><span style="color:#a6e22e">page</span>.<span style="color:#a6e22e">file</span>.<span style="color:#a6e22e">path</span><span style="color:#f92672">+</span><span style="color:#e6db74">&#34;]]&#34;</span>)
+	})
+)
+
+</code></pre></div><p>What I am doing here is getting today&rsquo;s day and month. I don&rsquo;t care for the year since I want to have entries for all previous years. Then I use the Dataview feature of creating a list from the pages inside a folder: <code>dv.list(dv.pages('&quot;DayOne&quot;')</code> The double quotes inside single quotes is a Dataview thing. It&rsquo;s documented and simply has to be like that.</p>
+<p>Then I filter the list of all the pages in the DayOne folder by day and month:
+<code>.where(p =&gt; p.dates &amp;&amp; p.dates.length &gt; 0 &amp;&amp; p.dates[0].month === todayMonth &amp;&amp; p.dates[0].day === todayDay)</code>. This works because my frontmatter in Obsidian has a <code>dates</code> entry that is <strong>of the type date</strong>. It&rsquo;s not only text but Obsidian knows this is a date and can separate it into day and month components. The frontmatter was setup by DayOne and part of the export of the entries.</p>
+<!-- raw HTML omitted -->
+<p>For my own journal entries created in Obsidian I don&rsquo;t always have that date in the frontmatter. But I have the date as part of the filename. That&rsquo;s what I deal with in the second part of that Dataview query. I parse the filename and create a date from it so I can again compare the day and month: <code>const fileDate = dv.date(p.file.name)</code></p>
+<p>What&rsquo;s remaining for both list of pages is to create paragraphs that get embedded into the current note/page so I can see the contents of the entries:</p>
+<p><code>.distinct().forEach(page =&gt; { dv.paragraph(&quot;![[&quot;+page.file.path+&quot;]]&quot;) })</code></p>
+<p>The syntax <code>![[&quot;+page.file.path+&quot;]]</code> is typical Obsidian for embedding a note that you know the name of.
+Everytime I open the On This Day note in Obsidian the whole Dataview query is run and the contents updates.</p>
+<p>It also shows images:
+<!-- raw HTML omitted --></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://holgerfrohloff.de/2025/01/14/just-looked-at-the-cookie.html" class="u-url"><time class="dt-published" datetime="2025-01-14 13:55:49 &#43;0100">Jan 14, 2025</time></a>
+
+		<div class="e-content">
+			 <p>Just looked at the cookie banner for The Verge (@manton <a href="https://www.manton.org/2025/01/11/there-are-a-bunch-of.html">shared a post</a> from them and I wanted to take a look at it).</p>
+<p>This is ridiculous. Functional cookies are usable for 810 partners? They transmit 2.6MB of JS for that article. It&rsquo;s only text with 4 images.</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 			<h1><a href="https://holgerfrohloff.de/2025/01/11/eine-typische-siri-situation.html">Eine typische Siri Situation 🤦</a></h1>
 		
 
@@ -630,7 +710,7 @@ This opens the page where I can see the assigned merge requests.</p>
 <p>If I want to access the MRs for review, I do the same but type <code>mrs review</code>. This overview is filtered for MRs where I haven&rsquo;t approved yet.</p>
 <p>Works wonderfully.</p>
 <p>You can download the workflow from my <a href="https://github.com/5minpause/alfred-gitLab-merge-requests-workflow">GitHub repo</a></p>
-<p><img src="https://holgerfrohloff.de/uploads/2024/screenshot-2024-07-11-at-12.16.24.png" alt="The window of Alfred app is visible and the command &lsquo;mrs review&rsquo; was entered. Below the command you can see a short description of what the command will do."></p>
+<p><img src="https://cdn.uploads.micro.blog/8969/2024/screenshot-2024-07-11-at-12.16.24.png" alt="The window of Alfred app is visible and the command &lsquo;mrs review&rsquo; was entered. Below the command you can see a short description of what the command will do."></p>
 
 		</div>
 	  </div>
@@ -853,10 +933,10 @@ An interesting garage might make me think, “Hey I wonder what car Hank is work
 
 		<div class="e-content">
 			 <p>Yesterday I visited the Elixir / Ruby user group mashup in Berlin. I gave a talk about my professional journey and why I left freelancing for good. From what I heard it was well received. There even was a bartender who served delicious cocktails sans alcohol.
-<img src="https://holgerfrohloff.de/uploads/2024/ff176083-c600-4f67-b1fe-470eee9f1909.jpg" alt=""></p>
-<p><img src="https://holgerfrohloff.de/uploads/2024/64d134a2-c9f0-46f5-9ceb-84532ca183e0.jpg" alt=""></p>
-<p><img src="https://holgerfrohloff.de/uploads/2024/51db8cbf-952f-46ea-bb41-f373b88e18d2.jpg" alt=""></p>
-<p><img src="https://holgerfrohloff.de/uploads/2024/76e4df23-de00-4cdf-bd98-dbfc2af44d65.jpg" alt=""></p>
+<img src="https://cdn.uploads.micro.blog/8969/2024/ff176083-c600-4f67-b1fe-470eee9f1909.jpg" alt=""></p>
+<p><img src="https://cdn.uploads.micro.blog/8969/2024/64d134a2-c9f0-46f5-9ceb-84532ca183e0.jpg" alt=""></p>
+<p><img src="https://cdn.uploads.micro.blog/8969/2024/51db8cbf-952f-46ea-bb41-f373b88e18d2.jpg" alt=""></p>
+<p><img src="https://cdn.uploads.micro.blog/8969/2024/76e4df23-de00-4cdf-bd98-dbfc2af44d65.jpg" alt=""></p>
 
 		</div>
 	  </div>
@@ -1333,8 +1413,8 @@ I am already in chapter 8 and will share a few thoughts about the contents soon.
 		<div class="e-content">
 			 <p>Unser Bad Renovierungsprojekt dauert länger als gedacht. Immerhin sind wir heute voran gekommen. Die letzten 2,5 Wochen mussten wir vor allem auf das Trocknen von Wand und Boden warten. Heute war Abdichten dran.
 Morgen wird gefliest!</p>
-<p><img src="https://holgerfrohloff.de/uploads/2023/97f17a0e-4003-4ab3-83bc-75e836b6b786.jpg" alt="">
-<img src="https://holgerfrohloff.de/uploads/2023/bb6d6f4a-02ee-4aa8-a320-43fd9d8f3f42.jpg" alt=""></p>
+<p><img src="https://cdn.uploads.micro.blog/8969/2023/97f17a0e-4003-4ab3-83bc-75e836b6b786.jpg" alt="">
+<img src="https://cdn.uploads.micro.blog/8969/2023/bb6d6f4a-02ee-4aa8-a320-43fd9d8f3f42.jpg" alt=""></p>
 
 		</div>
 	  </div>
@@ -1359,9 +1439,9 @@ Morgen wird gefliest!</p>
 
 		<div class="e-content">
 			 <p>Bin den halben Weg zur Arbeit gelaufen. Der Herbst ist da.</p>
-<p><img src="https://holgerfrohloff.de/uploads/2023/750c48fc-18b6-4dee-8265-a3effb3788db.jpg" alt="">
-<img src="https://holgerfrohloff.de/uploads/2023/2ef8a99e-5eba-41d7-95d7-985476c75663.jpg" alt="">
-<img src="https://holgerfrohloff.de/uploads/2023/67768077-d677-45b3-855c-b7a28b8b7057.jpg" alt=""></p>
+<p><img src="https://cdn.uploads.micro.blog/8969/2023/750c48fc-18b6-4dee-8265-a3effb3788db.jpg" alt="">
+<img src="https://cdn.uploads.micro.blog/8969/2023/2ef8a99e-5eba-41d7-95d7-985476c75663.jpg" alt="">
+<img src="https://cdn.uploads.micro.blog/8969/2023/67768077-d677-45b3-855c-b7a28b8b7057.jpg" alt=""></p>
 
 		</div>
 	  </div>
@@ -1415,10 +1495,10 @@ Can you do better?
 
 		<div class="e-content">
 			 <p>We did a little walk through central Berlin on the weekend.</p>
-<p><img src="https://holgerfrohloff.de/uploads/2023/e00ee357-4fb4-4917-847c-b070db7ed228.jpg" alt="">
-<img src="https://holgerfrohloff.de/uploads/2023/9e84dc72-89be-40cd-bc67-37837297e80f.jpg" alt="">
-<img src="https://holgerfrohloff.de/uploads/2023/3cbaf578-e23a-4ac9-9fa9-4c9eedd80699.jpg" alt="">
-<img src="https://holgerfrohloff.de/uploads/2023/b76426c3-8725-494a-943b-719bf4daebd3.jpg" alt=""></p>
+<p><img src="https://cdn.uploads.micro.blog/8969/2023/e00ee357-4fb4-4917-847c-b070db7ed228.jpg" alt="">
+<img src="https://cdn.uploads.micro.blog/8969/2023/9e84dc72-89be-40cd-bc67-37837297e80f.jpg" alt="">
+<img src="https://cdn.uploads.micro.blog/8969/2023/3cbaf578-e23a-4ac9-9fa9-4c9eedd80699.jpg" alt="">
+<img src="https://cdn.uploads.micro.blog/8969/2023/b76426c3-8725-494a-943b-719bf4daebd3.jpg" alt=""></p>
 
 		</div>
 	  </div>
@@ -1430,7 +1510,7 @@ Can you do better?
 
 		<div class="e-content">
 			 <p>My current desk setup. Went back to one monitor + laptop screen.
-<img src="https://holgerfrohloff.de/uploads/2023/7ac64a5d-1bfb-4676-8526-1a60d76fb363.jpg" alt=""></p>
+<img src="https://cdn.uploads.micro.blog/8969/2023/7ac64a5d-1bfb-4676-8526-1a60d76fb363.jpg" alt=""></p>
 
 		</div>
 	  </div>
@@ -1478,9 +1558,9 @@ I liked this a lot. Gamers and people born in the late 70s/early 80s have much t
 
 		<div class="e-content">
 			 <p>So sehen vier Stunden Arbeit aus. Gut voran gekommen, aber noch viel zu tun.</p>
-<p><img src="https://holgerfrohloff.de/uploads/2023/12d4cc83-fde6-4e17-9489-1537540cb55b.jpg" alt="">
-<img src="https://holgerfrohloff.de/uploads/2023/37d9162c-711c-4b03-8e0c-f35d32f8b1d7.jpg" alt="">
-<img src="https://holgerfrohloff.de/uploads/2023/f93036eb-c2cb-4629-a94d-bf523d749405.jpg" alt=""></p>
+<p><img src="https://cdn.uploads.micro.blog/8969/2023/12d4cc83-fde6-4e17-9489-1537540cb55b.jpg" alt="">
+<img src="https://cdn.uploads.micro.blog/8969/2023/37d9162c-711c-4b03-8e0c-f35d32f8b1d7.jpg" alt="">
+<img src="https://cdn.uploads.micro.blog/8969/2023/f93036eb-c2cb-4629-a94d-bf523d749405.jpg" alt=""></p>
 
 		</div>
 	  </div>
@@ -3735,7 +3815,7 @@ You&rsquo;d need to be a senior-ish level developer, able to review React (JS &a
 
 		<div class="e-content">
 			 <p>Netlify let&rsquo;s you play a little game of matching Emojis while you wait for your deploy to finish. That&rsquo;s cute. 🤩
-<img src="https://holgerfrohloff.de/uploads/2022/327513d02f.jpg" alt="86BA9F15-12DD-4A18-93E1-C4C39FE45F9B.jpg"></p>
+<img src="https://cdn.uploads.micro.blog/8969/2022/327513d02f.jpg" alt="86BA9F15-12DD-4A18-93E1-C4C39FE45F9B.jpg"></p>
 
 		</div>
 	  </div>
@@ -4387,12 +4467,12 @@ What you have to do is create a table.</p>
 <p>When you reach 100% code coverage, what then? Are you done? Could you guarantee that there are absolutely no bugs in your code?</p>
 <p>If you are tempted to say <em>Yes</em>, or <em>&ldquo;maybe?&quot;</em> then let me tell you that you are wrong.</p>
 <p>Consider this piece of code.</p>
-<p><img src="https://holgerfrohloff.de/wp-content/uploads/2019/03/carbon.png" alt="" title="code coverage error"></p>
+<p><img src="https://cdn.uploads.micro.blog/wp-content/8969/2019/03/carbon.png" alt="" title="code coverage error"></p>
 <p>If you write a unit test for this method, the line <code>eval...</code> will be interpreted because of the <code>if emergency</code> at the end. The line is thus covered.
 But the code is not covered or tested.</p>
 <p>Admittedly, this is a very trivial example that I made up. In reality, there are some more profound things to consider.</p>
 <p>If you have complex conditionals you might need a logic table where you compare all possible combinations of the atomic parts of the conditional.</p>
-<p><img src="https://holgerfrohloff.de/wp-content/uploads/2019/03/conditionals.png" alt="" title="Conditionals"></p>
+<p><img src="https://cdn.uploads.micro.blog/wp-content/8969/2019/03/conditionals.png" alt="" title="Conditionals"></p>
 <p>You cannot possibly evaluate this in your head and know whether you checked for every possible, sensible combination. Yet when you cover that line you are at 100% coverage and can go home, right?</p>
 <p>So what do you do? Let&rsquo;s look at this tomorrow.</p>
 
@@ -4507,9 +4587,9 @@ I did not lint that email. Hence no robot told me about my error. I believe it i
 <h2 id="the-second-problem">The second problem</h2>
 <p>Do you remember that I wrote about JavaScript loops and gave the classic <code>for</code> loop example? I complained about the <code>i</code> variable and that it should be called <code>iterator</code>. Perhaps you did not like this idea and my example? Let me take a step back for a second.
 When naming variables and method names, you have to make sure they &ldquo;speak.&rdquo; The names should indicate their meaning and make it easier for another developer to understand the semantics of your code. Yet, when you are fully aware of the problem domain you code deals with, it can happen that you try to be <strong>too specific</strong>. If you are, you tend to use long, verbose names for variables and methods. An example could be this:</p>
-<p><img src="https://holgerfrohloff.de/wp-content/uploads/2019/03/example1.png" alt="">
+<p><img src="https://cdn.uploads.micro.blog/wp-content/8969/2019/03/example1.png" alt="">
 A common value for the allowed length of method names is 30 chars. The above example could be broken into two methods.</p>
-<p><img src="https://holgerfrohloff.de/wp-content/uploads/2019/03/example2.png" alt="">
+<p><img src="https://cdn.uploads.micro.blog/wp-content/8969/2019/03/example2.png" alt="">
 The next possible quick win might be to think about the existence of these methods inside the <code>Article</code> class. Verifying and fixing meta tags surely does not need to be done inside this class. If you want to follow the Single Responsibility Principle, you should make sure that the Article class does not have a reason to change, if you decide to change something about verifying and fixing meta tags. Rather the Article class might change when you decide that an article should have a mandatory sub-headline.</p>
 <p>Back to the <code>iterator</code>. This name could pass the test for <em>too specific</em>. Only, when <code>i</code> refers to a variable that is declared and initialized <strong>outside</strong> of the scope of the loop, does it make sense to choose a different name. Or doesn&rsquo;t it? As always it depends. The classic for loop is taught in almost every book on JavaScript, and it is easily identifiable as to what it is. But there might be reasons to deviate from that, as I indicated above.</p>
 <h2 id="conclusion">Conclusion</h2>
