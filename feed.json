@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://holgerfrohloff.micro.blog/2025/02/12/heute-morgen-wieder-die-kinder.html",
+				
+				"content_html": "<p>Heute morgen wieder die Kinder zur Schule gebracht. Dabei gesehen, dass auch Tramfahrer nur Menschen sind, manchmal zu schnell fahren und dann nicht mehr rechtzeitig bremsen können. Glücklicherweise nur Blechschaden bei dem Auto, wo die Tram hinten drauf fuhr. Dass so etwas vor der Schule meiner Kinder passiert macht mich etwas nervös.</p>\n",
+				"content_text": "Heute morgen wieder die Kinder zur Schule gebracht. Dabei gesehen, dass auch Tramfahrer nur Menschen sind, manchmal zu schnell fahren und dann nicht mehr rechtzeitig bremsen können. Glücklicherweise nur Blechschaden bei dem Auto, wo die Tram hinten drauf fuhr. Dass so etwas vor der Schule meiner Kinder passiert macht mich etwas nervös.\n",
+				"date_published": "2025-02-12T09:31:52+01:00",
+				"url": "https://holgerfrohloff.de/2025/02/12/heute-morgen-wieder-die-kinder.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2025/02/12/finished-reading-fools-fate-by.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593725412\">Fool&rsquo;s Fate</a> by Robin Hobb 📚</p>\n<p>Cried for the last 400 pages. What a book. What an ending. Intensive feelings as these is what books can give. More so than movies. I know these characters. They are my friends.</p>\n",
+				"content_text": "Finished reading: [Fool's Fate](https://micro.blog/books/9780593725412) by Robin Hobb 📚\n\nCried for the last 400 pages. What a book. What an ending. Intensive feelings as these is what books can give. More so than movies. I know these characters. They are my friends.\n",
+				"date_published": "2025-02-12T00:46:08+01:00",
+				"url": "https://holgerfrohloff.de/2025/02/12/finished-reading-fools-fate-by.html"
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2025/02/11/i-recently-started-using-a.html",
+				
+				"content_html": "<p>I recently started using a Bookwyrm instance (bookrastinating.com) to manage my book reading. They support ActivityPub and offer some more functionality regarding reading goals and book reviews. Is there anything planned on integrating with Bookwyrm <a href=\"https://micro.blog/manton\">@manton</a>?</p>\n",
+				"content_text": "I recently started using a Bookwyrm instance (bookrastinating.com) to manage my book reading. They support ActivityPub and offer some more functionality regarding reading goals and book reviews. Is there anything planned on integrating with Bookwyrm [@manton](https://micro.blog/manton)?\n",
+				"date_published": "2025-02-11T17:15:18+01:00",
+				"url": "https://holgerfrohloff.de/2025/02/11/i-recently-started-using-a.html"
+			},
+			{
 				"id": "http://holgerfrohloff.micro.blog/2025/02/10/i-started-reading-this-a.html",
 				
 				"content_html": "<p>I started reading this a few days ago as a loan from the lib: <a href=\"https://micro.blog/books/9780008365967\">What A Way To Go</a> by Bella Mackie 📚</p>\n<p>Very fun and just my kind of humor:</p>\n<blockquote>\n<p>I rolled my eyes, closed the window and went back to bed. As I fell asleep, I remembered to practise gratitude. I was immensely grateful that despite the gruesome way my husband died, he&rsquo;d done it with his clothes on, and not, like Jane Borrall&rsquo;s husband, naked but for a latex trench coat.</p>\n</blockquote>\n",
