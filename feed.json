@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://holgerfrohloff.micro.blog/2025/03/14/warum-werden-immer-noch-captchas.html",
+				
+				"content_html": "<p>Warum werden immer noch Captchas benutzt?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Warum werden immer noch Captchas benutzt?\r\n\r\n\r\n<img src=\"uploads/2025/screenshot-2025-03-14-at-12.48.15.png\" width=\"600\" height=\"668\" alt=\"\">\n",
+				"date_published": "2025-03-14T12:53:28+01:00",
+				"url": "https://holgerfrohloff.de/2025/03/14/warum-werden-immer-noch-captchas.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://holgerfrohloff.micro.blog/2025/03/04/ich-wollte-mir-den-artikel.html",
+				
+				"content_html": "<p>Ich wollte mir den <a href=\"https://www.golem.de/news/digitale-souveraenitaet-warum-unternehmen-aus-us-diensten-aussteigen-sollten-2503-193825.html\">Artikel</a> von <a href=\"https://micro.blog/leitmedium@tldr.nettime.org\">@leitmedium@tldr.nettime.org</a> auf golem.de durchlesen, auf den sich die Conversation <a href=\"https://micro.blog/leitmedium@tldr.nettime.org/58956030\">micro.blog/leitmediu&hellip;</a> bezog. Leider ist die Website von Golem for free quasi nicht lesbar. Zuviel Werbung und nicht lesefreundlich. Schade! <!-- raw HTML omitted --></p>\n",
+				"content_text": "Ich wollte mir den [Artikel](https://www.golem.de/news/digitale-souveraenitaet-warum-unternehmen-aus-us-diensten-aussteigen-sollten-2503-193825.html) von [@leitmedium@tldr.nettime.org](https://micro.blog/leitmedium@tldr.nettime.org) auf golem.de durchlesen, auf den sich die Conversation [micro.blog/leitmediu...](https://micro.blog/leitmedium@tldr.nettime.org/58956030) bezog. Leider ist die Website von Golem for free quasi nicht lesbar. Zuviel Werbung und nicht lesefreundlich. Schade! <img src=\"uploads/2025/2025-03-04-10.46.37-www.golem.de-2bb139ab58c0.jpeg\" height=\"1000\" alt=\"\">\n",
+				"date_published": "2025-03-04T10:50:47+01:00",
+				"url": "https://holgerfrohloff.de/2025/03/04/ich-wollte-mir-den-artikel.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://holgerfrohloff.micro.blog/2025/03/03/joan-westenberg-with-the-best.html",
 				
 				"content_html": "<p>Joan Westenberg with the best info for you on why you <a href=\"https://www.joanwestenberg.com/why-i-wont-write-on-substack/\">shouldn&rsquo;t write on Substack</a>. I&rsquo;ve been believing this for a long time now but always felt I didn&rsquo;t have the right arguments. Joan delivers. Thank you, <a href=\"@Daojoan@mastodon.social\">Joan</a></p>\n",
@@ -43,7 +61,7 @@
 				"id": "http://holgerfrohloff.micro.blog/2025/02/26/a-thing-about-raycast-that.html",
 				
 				"content_html": "<p>A thing about Raycast that I immediately like: It helps you uninstall apps from your system and deletes all belonging files. Neat! 👍</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A thing about Raycast that I immediately like: It helps you uninstall apps from your system and deletes all belonging files. Neat! 👍\n\n<img src=\"uploads/2025/5bf757f5ae.png\" width=\"600\" height=\"407\" alt=\"\">\n",
+				"content_text": "A thing about Raycast that I immediately like: It helps you uninstall apps from your system and deletes all belonging files. Neat! 👍\n\n<img src=\"https://cdn.uploads.micro.blog/8969/2025/5bf757f5ae.png\" width=\"600\" height=\"407\" alt=\"\">\n",
 				"date_published": "2025-02-26T11:11:35+01:00",
 				"url": "https://holgerfrohloff.de/2025/02/26/a-thing-about-raycast-that.html",
 				"tags": ["Photos"]
