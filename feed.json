@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://holgerfrohloff.micro.blog/2025/09/25/neue-tubeless-fr-bab-vom.html",
+				"title": "Neue Tubeless für BAB25 vom Steppenwolf",
+				"content_html": "<p>Ich habe mir vor über zwei Jahren ein Gravelbike gekauft und das seitdem über 1.100km gefahren. Nun steht am 11.10.25 ein Gravel Event, organisiert vom Steppenwolf an: <a href=\"https://steppenwolf-berlin.de/bab/\">Berlin—Angermünde—Berlin</a>, 200km durch Brandenburg.</p>\n<p>Weil es über sehr viele Kopfsteinpflaster gehen wird, will ich weiterhin tubeless fahren. Aber die Schlappen mussten mal neu gemacht werden, und das hab ich hier in dem kurzen Video mal verwurstelt.</p>\n<p>(auch auf Insta <a href=\"https://www.instagram.com/reel/DO9ED_lDOAW/?igsh=ZXFxaDAxMmxwanF6\">www.instagram.com/reel/DO9E&hellip;</a>)</p>\n<iframe width=\"720\" height=\"576\" src=\"https://www.youtube.com/embed/-IGEl3HQizY\" title=\"YouTube video player\" frameborder=\"0\" allowfullscreen allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\">\n</iframe>\n",
+				"content_text": "Ich habe mir vor über zwei Jahren ein Gravelbike gekauft und das seitdem über 1.100km gefahren. Nun steht am 11.10.25 ein Gravel Event, organisiert vom Steppenwolf an: [Berlin—Angermünde—Berlin](https://steppenwolf-berlin.de/bab/), 200km durch Brandenburg.\n\nWeil es über sehr viele Kopfsteinpflaster gehen wird, will ich weiterhin tubeless fahren. Aber die Schlappen mussten mal neu gemacht werden, und das hab ich hier in dem kurzen Video mal verwurstelt.\n\n(auch auf Insta [www.instagram.com/reel/DO9E...](https://www.instagram.com/reel/DO9ED_lDOAW/?igsh=ZXFxaDAxMmxwanF6))\n\n\n<iframe width=\"720\" height=\"576\" src=\"https://www.youtube.com/embed/-IGEl3HQizY\" title=\"YouTube video player\" frameborder=\"0\" allowfullscreen allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\">\n</iframe>\n",
+				"date_published": "2025-09-25T20:50:40+02:00",
+				"url": "https://holgerfrohloff.de/2025/09/25/neue-tubeless-fr-bab-vom.html",
+				"tags": ["article"]
+			},
+			{
 				"id": "http://holgerfrohloff.micro.blog/2025/07/10/still-uncertain-about-webmentions-bridgy.html",
 				"title": "Still uncertain about webmentions, Bridgy and connecting Silos to my blog properly",
 				"content_html": "<p>I re-read parts of <a href=\"https://micro.blog/manton\">@manton</a>&rsquo;s <a href=\"https://book.micro.blog/bridgy/\">book</a> on webmentions and Bridgy but it still remains unclear to me how to best utilize these systems. I still post to Instagram, for different reasons.\nIdeally, I would love for my Instagram posts to also be on my blog (maybe even first on the blog, depending on the content(type)).\nBut how do I then connect Instagram replies to be added to my blogpost? Right now I post the url of the blogpost as a comment or description on the Instagram post, but I believe that doesn&rsquo;t do anything good.</p>\n<p>This whole system is still really hard to understand.</p>\n",
